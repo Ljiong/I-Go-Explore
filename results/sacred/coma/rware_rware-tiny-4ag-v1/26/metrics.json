@@ -1,0 +1,189 @@
+{
+  "advantage_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-17T19:15:26.986575"
+    ],
+    "values": [
+      -0.0012642052173614503
+    ]
+  },
+  "agent_grad_norm": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-17T19:15:26.986575"
+    ],
+    "values": [
+      0.10750739276409149
+    ]
+  },
+  "coma_loss": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-17T19:15:26.986575"
+    ],
+    "values": [
+      -0.0033347737044095993
+    ]
+  },
+  "critic_grad_norm": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-17T19:15:26.986575"
+    ],
+    "values": [
+      1.3266712427139282
+    ]
+  },
+  "critic_loss": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-17T19:15:26.986575"
+    ],
+    "values": [
+      0.16454137861728668
+    ]
+  },
+  "ep_length_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-17T19:15:26.268471"
+    ],
+    "values": [
+      50.0
+    ]
+  },
+  "icm_reward_forward_loss": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-17T19:15:26.580968"
+    ],
+    "values": [
+      {}
+    ]
+  },
+  "icm_reward_inverse_loss": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-17T19:15:26.580968"
+    ],
+    "values": [
+      {}
+    ]
+  },
+  "pi_max": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-17T19:15:26.990574"
+    ],
+    "values": [
+      0.2228938446044922
+    ]
+  },
+  "q_taken_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-17T19:15:26.986575"
+    ],
+    "values": [
+      0.009846159934997559
+    ]
+  },
+  "return_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-17T19:15:26.268471"
+    ],
+    "values": [
+      0.0
+    ]
+  },
+  "return_std": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-17T19:15:26.268471"
+    ],
+    "values": [
+      0.0
+    ]
+  },
+  "target_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-17T19:15:26.986575"
+    ],
+    "values": [
+      0.64032080078125
+    ]
+  },
+  "td_error_abs": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-17T19:15:26.986575"
+    ],
+    "values": [
+      0.6906285400390625
+    ]
+  },
+  "test_ep_length_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-17T19:15:35.266852"
+    ],
+    "values": [
+      50.0
+    ]
+  },
+  "test_return_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-17T19:15:35.265856"
+    ],
+    "values": [
+      0.01
+    ]
+  },
+  "test_return_std": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-17T19:15:35.266852"
+    ],
+    "values": [
+      0.09949874371066199
+    ]
+  }
+}

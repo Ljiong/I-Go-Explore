@@ -1,0 +1,3 @@
+4
+Check term: 0
+torch.Size([10, 51, 4, 5])

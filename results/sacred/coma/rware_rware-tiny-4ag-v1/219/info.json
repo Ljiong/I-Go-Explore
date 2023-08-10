@@ -1,0 +1,114 @@
+{
+  "advantage_mean": [
+    -0.0003019946813583374
+  ],
+  "advantage_mean_T": [
+    125
+  ],
+  "agent_grad_norm": [
+    0.04318561777472496
+  ],
+  "agent_grad_norm_T": [
+    125
+  ],
+  "coma_loss": [
+    -0.002036366844549775
+  ],
+  "coma_loss_T": [
+    125
+  ],
+  "critic_grad_norm": [
+    0.3085065484046936
+  ],
+  "critic_grad_norm_T": [
+    125
+  ],
+  "critic_loss": [
+    0.014031324535608292
+  ],
+  "critic_loss_T": [
+    125
+  ],
+  "ep_length_mean": [
+    25.0
+  ],
+  "ep_length_mean_T": [
+    125
+  ],
+  "episode": [
+    5
+  ],
+  "episode_T": [
+    125
+  ],
+  "pi_max": [
+    0.22335185241699218
+  ],
+  "pi_max_T": [
+    125
+  ],
+  "q_taken_mean": [
+    0.13770741271972656
+  ],
+  "q_taken_mean_T": [
+    125
+  ],
+  "return_mean": [
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    }
+  ],
+  "return_mean_T": [
+    125
+  ],
+  "return_std": [
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    }
+  ],
+  "return_std_T": [
+    125
+  ],
+  "target_mean": [
+    0.11287517547607422
+  ],
+  "target_mean_T": [
+    125
+  ],
+  "td_error_abs": [
+    0.1891129150390625
+  ],
+  "td_error_abs_T": [
+    125
+  ],
+  "test_ep_length_mean": [
+    25.0
+  ],
+  "test_ep_length_mean_T": [
+    125
+  ],
+  "test_return_mean": [
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    }
+  ],
+  "test_return_mean_T": [
+    125
+  ],
+  "test_return_std": [
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    }
+  ],
+  "test_return_std_T": [
+    125
+  ]
+}

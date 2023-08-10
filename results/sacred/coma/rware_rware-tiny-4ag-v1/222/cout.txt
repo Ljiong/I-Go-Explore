@@ -1,0 +1,26 @@
+Check term: 0
+Check term: 5000
+Check term: 10000
+Check term: 15000
+Check term: 20000
+Check term: 25000
+Check term: 30000
+Check term: 35000
+Check term: 40000
+Check term: 45000
+advantage_mean 0.0002
+agent_grad_norm 0.0495
+coma_loss -0.0018
+critic_grad_norm 1.5918
+critic_loss 37.6206
+ep_length_mean 500.0000
+pi_max 0.2400
+q_taken_mean -0.3908
+return_mean 0.1200
+return_std 0.2828
+target_mean -0.3234
+td_error_abs 1.2264
+test_ep_length_mean 500.0000
+test_return_mean 0.1400
+test_return_std 0.3470
+Check term: 50000

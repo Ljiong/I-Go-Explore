@@ -1,0 +1,136 @@
+CHECK input_shape: 142
+cuda:0
+cuda:0
+Check term: 0
+CHECK t: 0
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 1
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 2
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 3
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 4
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 5
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 6
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 7
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 8
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 9
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 10
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 11
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 12
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 13
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 14
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 15
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 16
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 17
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 18
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 19
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 20
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 21
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 22
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 23
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 24
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 25
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+max_t: 26
+CHECK rewards shape: 10 25
+CHECK actions shape 10 26 tensor([[4],
+        [1]], device='cuda:0')
+CHECK t: 0
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+CHECK t: 1
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+CHECK t: 2
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+CHECK t: 3
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+CHECK t: 4
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+CHECK t: 5
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+CHECK t: 6
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+CHECK t: 7
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+CHECK t: 8
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+CHECK t: 9
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+CHECK t: 10
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+CHECK t: 11
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+CHECK t: 12
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+CHECK t: 13
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+CHECK t: 14
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+CHECK t: 15
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+CHECK t: 16
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+CHECK t: 17
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+CHECK t: 18
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+CHECK t: 19
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+CHECK t: 20
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+CHECK t: 21
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+CHECK t: 22
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+CHECK t: 23
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+CHECK t: 24
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])

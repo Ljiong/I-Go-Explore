@@ -1,0 +1,2925 @@
+Check term: 0
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 5000
+Check term: 5000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([1.])
+Through traj: 3000
+cur_score: 0
+tensor([1.])
+Through traj: 3500
+cur_score: 0
+tensor([1.])
+Through traj: 4000
+cur_score: 0
+tensor([1.])
+Through traj: 4500
+cur_score: 0
+tensor([1.])
+Through traj: 5000
+cur_score: 0
+tensor([1.])
+t_env: 10000
+Check term: 10000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 15000
+Check term: 15000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 20000
+cell_counter 2426.7500
+go_explore_return 0.2500
+Check term: 20000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 25000
+Check term: 25000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 30000
+Check term: 30000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 35000
+Check term: 35000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 40000
+cell_counter 2436.6000
+go_explore_return 0.0000
+Check term: 40000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 45000
+Check term: 45000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([1.])
+Through traj: 4000
+cur_score: 0
+tensor([1.])
+Through traj: 4500
+cur_score: 0
+tensor([1.])
+Through traj: 5000
+cur_score: 0
+tensor([1.])
+t_env: 50000
+Check term: 50000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 55000
+Check term: 55000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 60000
+cell_counter 2419.8000
+go_explore_return 0.2000
+Check term: 60000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([1.])
+Through traj: 3500
+cur_score: 0
+tensor([1.])
+Through traj: 4000
+cur_score: 0
+tensor([1.])
+Through traj: 4500
+cur_score: 0
+tensor([1.])
+Through traj: 5000
+cur_score: 0
+tensor([1.])
+t_env: 65000
+Check term: 65000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 70000
+Check term: 70000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 75000
+Check term: 75000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 80000
+cell_counter 2457.2000
+go_explore_return 0.2000
+Check term: 80000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 85000
+Check term: 85000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 90000
+Check term: 90000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 95000
+Check term: 95000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 100000
+cell_counter 2447.0000
+go_explore_return 0.0000
+Check term: 100000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([1.])
+Through traj: 3000
+cur_score: 0
+tensor([1.])
+Through traj: 3500
+cur_score: 0
+tensor([1.])
+Through traj: 4000
+cur_score: 0
+tensor([1.])
+Through traj: 4500
+cur_score: 0
+tensor([1.])
+Through traj: 5000
+cur_score: 0
+tensor([1.])
+t_env: 105000
+Check term: 105000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 110000
+Check term: 110000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 115000
+Check term: 115000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 120000
+cell_counter 2465.0000
+go_explore_return 0.2000
+Check term: 120000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 125000
+Check term: 125000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 130000
+Check term: 130000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 135000
+Check term: 135000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 140000
+cell_counter 2398.8000
+go_explore_return 0.0000
+Check term: 140000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([1.])
+Through traj: 4500
+cur_score: 0
+tensor([1.])
+Through traj: 5000
+cur_score: 0
+tensor([1.])
+t_env: 145000
+Check term: 145000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 150000
+Check term: 150000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 155000
+Check term: 155000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([1.])
+Through traj: 3000
+cur_score: 0
+tensor([1.])
+Through traj: 3500
+cur_score: 0
+tensor([1.])
+Through traj: 4000
+cur_score: 0
+tensor([1.])
+Through traj: 4500
+cur_score: 0
+tensor([1.])
+Through traj: 5000
+cur_score: 0
+tensor([1.])
+t_env: 160000
+cell_counter 2417.0000
+go_explore_return 0.4000
+Check term: 160000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 165000
+Check term: 165000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([1.])
+Through traj: 5000
+cur_score: 0
+tensor([1.])
+t_env: 170000
+Check term: 170000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 175000
+Check term: 175000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 180000
+cell_counter 2454.2000
+go_explore_return 0.4000
+Check term: 180000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 185000
+Check term: 185000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 190000
+Check term: 190000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 195000
+Check term: 195000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 200000
+cell_counter 2442.0000
+go_explore_return 0.0000
+Check term: 200000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 205000
+Check term: 205000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 210000
+Check term: 210000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([1.])
+Through traj: 3000
+cur_score: 0
+tensor([1.])
+Through traj: 3500
+cur_score: 0
+tensor([1.])
+Through traj: 4000
+cur_score: 0
+tensor([1.])
+Through traj: 4500
+cur_score: 0
+tensor([1.])
+Through traj: 5000
+cur_score: 0
+tensor([1.])
+t_env: 215000
+Check term: 215000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 220000
+cell_counter 2473.2000
+go_explore_return 0.2000
+Check term: 220000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 225000
+Check term: 225000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 230000
+Check term: 230000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 235000
+Check term: 235000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 240000
+cell_counter 2440.4000
+go_explore_return 0.0000
+Check term: 240000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 245000
+Check term: 245000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 250000
+Check term: 250000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 255000
+Check term: 255000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 260000
+cell_counter 2490.0000
+go_explore_return 0.0000
+Check term: 260000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 265000
+Check term: 265000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 270000
+Check term: 270000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 275000
+Check term: 275000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 280000
+cell_counter 2415.6000
+go_explore_return 0.0000
+Check term: 280000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 285000
+Check term: 285000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 290000
+Check term: 290000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([1.])
+Through traj: 3500
+cur_score: 0
+tensor([1.])
+Through traj: 4000
+cur_score: 0
+tensor([1.])
+Through traj: 4500
+cur_score: 0
+tensor([1.])
+Through traj: 5000
+cur_score: 0
+tensor([1.])
+t_env: 295000
+Check term: 295000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([1.])
+Through traj: 4500
+cur_score: 0
+tensor([1.])
+Through traj: 5000
+cur_score: 0
+tensor([1.])
+t_env: 300000
+cell_counter 2456.6000
+go_explore_return 0.4000
+Check term: 300000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 305000
+Check term: 305000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 310000
+Check term: 310000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 315000
+Check term: 315000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([1.])
+Through traj: 1500
+cur_score: 0
+tensor([1.])
+Through traj: 2000
+cur_score: 0
+tensor([1.])
+Through traj: 2500
+cur_score: 0
+tensor([1.])
+Through traj: 3000
+cur_score: 0
+tensor([1.])
+Through traj: 3500
+cur_score: 0
+tensor([1.])
+Through traj: 4000
+cur_score: 0
+tensor([1.])
+Through traj: 4500
+cur_score: 0
+tensor([1.])
+Through traj: 5000
+cur_score: 0
+tensor([1.])
+t_env: 320000
+cell_counter 2478.0000
+go_explore_return 0.4000
+Check term: 320000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 325000
+Check term: 325000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 330000
+Check term: 330000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 335000
+Check term: 335000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 340000
+cell_counter 2373.6000
+go_explore_return 0.2000
+Check term: 340000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 345000
+Check term: 345000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([1.])
+Through traj: 2000
+cur_score: 0
+tensor([1.])
+Through traj: 2500
+cur_score: 0
+tensor([1.])
+Through traj: 3000
+cur_score: 0
+tensor([1.])
+Through traj: 3500
+cur_score: 0
+tensor([1.])
+Through traj: 4000
+cur_score: 0
+tensor([1.])
+Through traj: 4500
+cur_score: 0
+tensor([1.])
+Through traj: 5000
+cur_score: 0
+tensor([1.])
+t_env: 350000
+Check term: 350000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 355000
+Check term: 355000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 360000
+cell_counter 2292.4000
+go_explore_return 0.2000
+Check term: 360000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 365000
+Check term: 365000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 370000
+Check term: 370000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 375000
+Check term: 375000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 380000
+cell_counter 2417.4000
+go_explore_return 0.0000
+Check term: 380000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 385000
+Check term: 385000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 390000
+Check term: 390000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 395000
+Check term: 395000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 400000
+cell_counter 2424.4000
+go_explore_return 0.0000
+Check term: 400000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 405000
+Check term: 405000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 410000
+Check term: 410000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 415000
+Check term: 415000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([1.])
+Through traj: 2500
+cur_score: 0
+tensor([1.])
+Through traj: 3000
+cur_score: 0
+tensor([1.])
+Through traj: 3500
+cur_score: 0
+tensor([1.])
+Through traj: 4000
+cur_score: 0
+tensor([1.])
+Through traj: 4500
+cur_score: 0
+tensor([1.])
+Through traj: 5000
+cur_score: 0
+tensor([1.])
+t_env: 420000
+cell_counter 2424.0000
+go_explore_return 0.2000
+Check term: 420000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 425000
+Check term: 425000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 430000
+Check term: 430000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 435000
+Check term: 435000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 440000
+cell_counter 2432.6000
+go_explore_return 0.2000
+Check term: 440000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 445000
+Check term: 445000
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 450000
+Check term: 450000

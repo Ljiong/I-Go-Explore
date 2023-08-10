@@ -1,0 +1,297 @@
+{
+  "advantage_mean": {
+    "steps": [
+      5000
+    ],
+    "timestamps": [
+      "2023-07-10T17:43:19.244236"
+    ],
+    "values": [
+      -0.1894941368881537
+    ]
+  },
+  "agent_grad_norm": {
+    "steps": [
+      5000
+    ],
+    "timestamps": [
+      "2023-07-10T17:43:19.244236"
+    ],
+    "values": [
+      NaN
+    ]
+  },
+  "cell_counter": {
+    "steps": [
+      5000
+    ],
+    "timestamps": [
+      "2023-07-10T17:43:18.688710"
+    ],
+    "values": [
+      {
+        "dtype": "float64",
+        "py/object": "numpy.ndarray",
+        "values": 177.7
+      }
+    ]
+  },
+  "coma_loss": {
+    "steps": [
+      5000
+    ],
+    "timestamps": [
+      "2023-07-10T17:43:19.244236"
+    ],
+    "values": [
+      -Infinity
+    ]
+  },
+  "critic_grad_norm": {
+    "steps": [
+      5000
+    ],
+    "timestamps": [
+      "2023-07-10T17:43:19.244236"
+    ],
+    "values": [
+      40.19882583618164
+    ]
+  },
+  "critic_loss": {
+    "steps": [
+      5000
+    ],
+    "timestamps": [
+      "2023-07-10T17:43:19.243235"
+    ],
+    "values": [
+      202.2659149169922
+    ]
+  },
+  "ep_length_mean": {
+    "steps": [
+      5000
+    ],
+    "timestamps": [
+      "2023-07-10T17:43:11.304065"
+    ],
+    "values": [
+      500.0
+    ]
+  },
+  "go_explore_return": {
+    "steps": [
+      5000
+    ],
+    "timestamps": [
+      "2023-07-10T17:43:18.688710"
+    ],
+    "values": [
+      {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          0.0
+        ]
+      }
+    ]
+  },
+  "icm_reward_forward_loss": {
+    "steps": [
+      5000
+    ],
+    "timestamps": [
+      "2023-07-10T17:43:18.807424"
+    ],
+    "values": [
+      {
+        "py/reduce": [
+          {
+            "py/function": "torch._utils._rebuild_tensor_v2"
+          },
+          {
+            "py/tuple": [
+              {
+                "py/reduce": [
+                  {
+                    "py/function": "torch.storage._load_from_bytes"
+                  },
+                  {
+                    "py/tuple": [
+                      {
+                        "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYDQAAADI2MTEzODUzMDI4OTZxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWA0AAAAyNjExMzg1MzAyODk2cQFhLgEAAAAAAAAATI+1PA=="
+                      }
+                    ]
+                  }
+                ]
+              },
+              0,
+              {
+                "py/tuple": []
+              },
+              {
+                "py/tuple": []
+              },
+              true,
+              {
+                "py/reduce": [
+                  {
+                    "py/type": "collections.OrderedDict"
+                  },
+                  {
+                    "py/tuple": []
+                  },
+                  null,
+                  null,
+                  {
+                    "py/tuple": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "icm_reward_inverse_loss": {
+    "steps": [
+      5000
+    ],
+    "timestamps": [
+      "2023-07-10T17:43:18.807424"
+    ],
+    "values": [
+      {
+        "py/reduce": [
+          {
+            "py/function": "torch._utils._rebuild_tensor_v2"
+          },
+          {
+            "py/tuple": [
+              {
+                "py/reduce": [
+                  {
+                    "py/function": "torch.storage._load_from_bytes"
+                  },
+                  {
+                    "py/tuple": [
+                      {
+                        "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYDQAAADI2MTEzODUzMTIzMDRxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWA0AAAAyNjExMzg1MzEyMzA0cQFhLgEAAAAAAAAAOI8YQg=="
+                      }
+                    ]
+                  }
+                ]
+              },
+              0,
+              {
+                "py/tuple": []
+              },
+              {
+                "py/tuple": []
+              },
+              true,
+              {
+                "py/reduce": [
+                  {
+                    "py/type": "collections.OrderedDict"
+                  },
+                  {
+                    "py/tuple": []
+                  },
+                  null,
+                  null,
+                  {
+                    "py/tuple": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "pi_max": {
+    "steps": [
+      5000
+    ],
+    "timestamps": [
+      "2023-07-10T17:43:19.246237"
+    ],
+    "values": [
+      1.0
+    ]
+  },
+  "q_taken_mean": {
+    "steps": [
+      5000
+    ],
+    "timestamps": [
+      "2023-07-10T17:43:19.244236"
+    ],
+    "values": [
+      -0.6621791917450573
+    ]
+  },
+  "return_mean": {
+    "steps": [
+      5000
+    ],
+    "timestamps": [
+      "2023-07-10T17:43:11.304065"
+    ],
+    "values": [
+      0.2
+    ]
+  },
+  "return_std": {
+    "steps": [
+      5000
+    ],
+    "timestamps": [
+      "2023-07-10T17:43:11.304065"
+    ],
+    "values": [
+      0.4000000000000001
+    ]
+  },
+  "target_mean": {
+    "steps": [
+      5000
+    ],
+    "timestamps": [
+      "2023-07-10T17:43:19.244236"
+    ],
+    "values": [
+      0.03663317621970663
+    ]
+  },
+  "td_error_abs": {
+    "steps": [
+      5000
+    ],
+    "timestamps": [
+      "2023-07-10T17:43:19.244236"
+    ],
+    "values": [
+      24.765092873086736
+    ]
+  },
+  "traj_length": {
+    "steps": [
+      5000
+    ],
+    "timestamps": [
+      "2023-07-10T17:43:18.688710"
+    ],
+    "values": [
+      {
+        "dtype": "float64",
+        "py/object": "numpy.ndarray",
+        "values": 81.2
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+Check term: 0
+E:\study\Thesis\epymarl\src\run.py:328: FutureWarning: The input object of type 'Tensor' is an array-like implementing one of the corresponding protocols (`__array__`, `__array_interface__` or `__array_struct__`); but not a sequence (or 0-D). In the future, this object will be coerced as if it was first converted using `np.array(obj)`. To retain the old behaviour, you have to either modify the type 'Tensor', or assign to an empty array created with `np.empty(correct_shape, dtype=object)`.
+  logger.log_stat("test_go_explore_return", [sum(np.array(best_scores)).item()/len(best_scores)], go_explore_runner.t_env)
+E:\study\Thesis\epymarl\src\run.py:328: VisibleDeprecationWarning: Creating an ndarray from ragged nested sequences (which is a list-or-tuple of lists-or-tuples-or ndarrays with different lengths or shapes) is deprecated. If you meant to do this, you must specify 'dtype=object' when creating the ndarray.
+  logger.log_stat("test_go_explore_return", [sum(np.array(best_scores)).item()/len(best_scores)], go_explore_runner.t_env)
+cell_counter 326.0000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.0000
+Check term: 32500
+cell_counter 318.5000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.0500
+Check term: 65000
+cell_counter 290.0000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.0667
+Check term: 97500
+cell_counter 327.0000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.0750
+Check term: 130000
+cell_counter 314.0000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.0600
+Check term: 162500
+cell_counter 311.0000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.0800
+Check term: 195000
+cell_counter 337.8000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.0600
+Check term: 227500
+cell_counter 381.6000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.0400
+Check term: 260000
+cell_counter 346.6000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.0400
+Check term: 292500
+cell_counter 365.6000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.0600
+Check term: 325000

@@ -1,0 +1,2 @@
+Check term: 0
+Found new cell: 3

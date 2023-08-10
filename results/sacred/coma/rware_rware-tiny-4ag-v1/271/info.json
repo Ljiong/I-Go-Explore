@@ -1,0 +1,22 @@
+{
+  "cell_counter": [
+    1926
+  ],
+  "cell_counter_T": [
+    32500
+  ],
+  "go_explore_return": [
+    0.0
+  ],
+  "go_explore_return_T": [
+    32500
+  ],
+  "test_go_explore_return": [
+    [
+      0.3
+    ]
+  ],
+  "test_go_explore_return_T": [
+    32500
+  ]
+}

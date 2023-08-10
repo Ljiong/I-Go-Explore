@@ -1,0 +1,8 @@
+Check term: 0
+Found new cell: 53
+Found new cell: 54
+Found new cell: 55
+Found new cell: 84
+Found new cell: 107
+Found new cell: 137
+Found cell: 171

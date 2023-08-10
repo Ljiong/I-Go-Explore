@@ -1,0 +1,7 @@
+4
+Check term: 0
+CHECK AGENTS NUM: (1, 284)
+CHECK AGENTS NUM: torch.Size([1, 284])
+(2, 4, 4, 1)
+[2 4 4 1]
+tensor([2, 4, 4, 1], dtype=torch.int32)

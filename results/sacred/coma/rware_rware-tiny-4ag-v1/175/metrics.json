@@ -1,0 +1,167 @@
+{
+  "advantage_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:29:36.882503"
+    ],
+    "values": [
+      0.003253805160522461
+    ]
+  },
+  "agent_grad_norm": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:29:36.883503"
+    ],
+    "values": [
+      0.17744025588035583
+    ]
+  },
+  "coma_loss": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:29:36.883503"
+    ],
+    "values": [
+      -0.001519262557849288
+    ]
+  },
+  "critic_grad_norm": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:29:36.882503"
+    ],
+    "values": [
+      1.966503620147705
+    ]
+  },
+  "critic_loss": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:29:36.882503"
+    ],
+    "values": [
+      0.1683553010225296
+    ]
+  },
+  "ep_length_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:29:33.421002"
+    ],
+    "values": [
+      50.0
+    ]
+  },
+  "go_explore_return": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:33:27.924263"
+    ],
+    "values": [
+      {}
+    ]
+  },
+  "icm_reward_forward_loss": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:29:36.546035"
+    ],
+    "values": [
+      {}
+    ]
+  },
+  "icm_reward_inverse_loss": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:29:36.546035"
+    ],
+    "values": [
+      {}
+    ]
+  },
+  "pi_max": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:29:36.885505"
+    ],
+    "values": [
+      0.2628436279296875
+    ]
+  },
+  "q_taken_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:29:36.882503"
+    ],
+    "values": [
+      0.20500045776367187
+    ]
+  },
+  "return_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:29:33.420002"
+    ],
+    "values": [
+      0.0
+    ]
+  },
+  "return_std": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:29:33.421002"
+    ],
+    "values": [
+      0.0
+    ]
+  },
+  "target_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:29:36.882503"
+    ],
+    "values": [
+      0.6369996337890625
+    ]
+  },
+  "td_error_abs": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:29:36.882503"
+    ],
+    "values": [
+      0.6923511962890625
+    ]
+  }
+}

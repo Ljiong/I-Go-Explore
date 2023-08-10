@@ -1,0 +1,269 @@
+Check term: 0
+Found cell: 296
+Found cell: 445
+Found cell: 388
+Found cell: 508
+Found cell: 356
+Found cell: 425
+Found cell: 449
+Found cell: 387
+Found cell: 458
+Found cell: 278
+advantage_mean -0.0026
+agent_grad_norm 0.2861
+coma_loss -0.0032
+critic_grad_norm 2.7602
+critic_loss 0.3207
+ep_length_mean 50.0000
+E:\Anaconda\envs\epymarl\lib\site-packages\numpy\core\_methods.py:163: FutureWarning: The input object of type 'Tensor' is an array-like implementing one of the corresponding protocols (`__array__`, `__array_interface__` or `__array_struct__`); but not a sequence (or 0-D). In the future, this object will be coerced as if it was first converted using `np.array(obj)`. To retain the old behaviour, you have to either modify the type 'Tensor', or assign to an empty array created with `np.empty(correct_shape, dtype=object)`.
+  arr = asanyarray(a)
+E:\Anaconda\envs\epymarl\lib\site-packages\numpy\core\_methods.py:163: VisibleDeprecationWarning: Creating an ndarray from ragged nested sequences (which is a list-or-tuple of lists-or-tuples-or ndarrays with different lengths or shapes) is deprecated. If you meant to do this, you must specify 'dtype=object' when creating the ndarray.
+  arr = asanyarray(a)
+go_explore_return 0.4000
+icm_reward_forward_loss 0.0110
+icm_reward_inverse_loss 195.6014
+pi_max 0.2308
+q_taken_mean 0.4507
+return_mean 0.0000
+return_std 0.0000
+target_mean 0.7493
+td_error_abs 0.8953
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 500
+Found cell: 494
+Found cell: 352
+Found cell: 397
+Found cell: 530
+Found cell: 503
+Found cell: 460
+Found cell: 434
+Found cell: 514
+Found cell: 504
+Found cell: 470
+advantage_mean -0.0026
+agent_grad_norm 0.2861
+coma_loss -0.0032
+critic_grad_norm 2.7602
+critic_loss 0.3207
+ep_length_mean 50.0000
+go_explore_return 0.2000
+icm_reward_forward_loss 0.0110
+icm_reward_inverse_loss 195.6014
+pi_max 0.2308
+q_taken_mean 0.4507
+return_mean 0.0000
+return_std 0.0000
+target_mean 0.7493
+td_error_abs 0.8953
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 1000
+Found cell: 419
+Found cell: 576
+Found cell: 489
+Found cell: 435
+Found cell: 368
+Found cell: 412
+Found cell: 486
+Found cell: 452
+Found cell: 312
+Found cell: 461
+advantage_mean -0.0031
+agent_grad_norm 0.2497
+coma_loss -0.0069
+critic_grad_norm 2.3434
+critic_loss 0.2717
+ep_length_mean 50.0000
+go_explore_return 0.2000
+icm_reward_forward_loss 0.0075
+icm_reward_inverse_loss 195.6013
+pi_max 0.2302
+q_taken_mean 0.4759
+return_mean 0.0000
+return_std 0.0000
+target_mean 0.6605
+td_error_abs 0.8076
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 1500
+Found cell: 429
+Found cell: 366
+Found cell: 366
+Found cell: 460
+Found cell: 336
+Found cell: 412
+Found cell: 469
+Found cell: 477
+Found cell: 420
+Found cell: 434
+advantage_mean -0.0031
+agent_grad_norm 0.2497
+coma_loss -0.0069
+critic_grad_norm 2.3434
+critic_loss 0.2717
+ep_length_mean 50.0000
+go_explore_return 0.2000
+icm_reward_forward_loss 0.0075
+icm_reward_inverse_loss 195.6013
+pi_max 0.2302
+q_taken_mean 0.4759
+return_mean 0.0000
+return_std 0.0000
+target_mean 0.6605
+td_error_abs 0.8076
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 2000
+Found cell: 378
+Found cell: 391
+Found cell: 498
+Found cell: 388
+Found cell: 429
+Found cell: 468
+Found cell: 377
+Found cell: 334
+Found cell: 513
+Found cell: 405
+advantage_mean -0.0026
+agent_grad_norm 0.2177
+coma_loss -0.0079
+critic_grad_norm 1.9750
+critic_loss 0.2322
+ep_length_mean 50.0000
+go_explore_return 0.2000
+icm_reward_forward_loss 0.0062
+icm_reward_inverse_loss 195.6013
+pi_max 0.2300
+q_taken_mean 0.4871
+return_mean 0.0000
+return_std 0.0000
+target_mean 0.6157
+td_error_abs 0.7390
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 2500
+Found cell: 464
+Found cell: 409
+Found cell: 420
+Found cell: 407
+Found cell: 408
+Found cell: 441
+Found cell: 435
+Found cell: 433
+Found cell: 462
+Found cell: 441
+advantage_mean -0.0026
+agent_grad_norm 0.2177
+coma_loss -0.0079
+critic_grad_norm 1.9750
+critic_loss 0.2322
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0062
+icm_reward_inverse_loss 195.6013
+pi_max 0.2300
+q_taken_mean 0.4871
+return_mean 0.0000
+return_std 0.0000
+target_mean 0.6157
+td_error_abs 0.7390
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 3000
+Found cell: 275
+Found cell: 407
+Found cell: 356
+Found cell: 420
+Found cell: 366
+Found cell: 455
+Found cell: 372
+Found cell: 521
+Found cell: 368
+Found cell: 457
+advantage_mean -0.0024
+agent_grad_norm 0.1922
+coma_loss -0.0088
+critic_grad_norm 1.7039
+critic_loss 0.2081
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0054
+icm_reward_inverse_loss 195.6013
+pi_max 0.2310
+q_taken_mean 0.4910
+return_mean 0.0000
+return_std 0.0000
+target_mean 0.5861
+td_error_abs 0.7021
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 3500
+Found cell: 420
+Found cell: 492
+Found cell: 560
+Found cell: 431
+Found cell: 452
+Found cell: 450
+Found cell: 506
+Found cell: 399
+Found cell: 422
+Found cell: 356
+advantage_mean -0.0024
+agent_grad_norm 0.1922
+coma_loss -0.0088
+critic_grad_norm 1.7039
+critic_loss 0.2081
+ep_length_mean 50.0000
+go_explore_return 0.6000
+icm_reward_forward_loss 0.0054
+icm_reward_inverse_loss 195.6013
+pi_max 0.2310
+q_taken_mean 0.4910
+return_mean 0.0000
+return_std 0.0000
+target_mean 0.5861
+td_error_abs 0.7021
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 4000
+Found cell: 413
+Found cell: 445
+Found cell: 337
+Found cell: 480
+Found cell: 451
+Found cell: 515
+Found cell: 344
+Found cell: 412
+Found cell: 506
+Found cell: 415
+advantage_mean -0.0020
+agent_grad_norm 0.1666
+coma_loss -0.0084
+critic_grad_norm 1.4663
+critic_loss 0.1867
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0047
+icm_reward_inverse_loss 195.6013
+pi_max 0.2317
+q_taken_mean 0.4919
+return_mean 0.0000
+return_std 0.0000
+target_mean 0.5602
+td_error_abs 0.6640
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 4500
+Found cell: 355
+Found cell: 390
+Found cell: 348

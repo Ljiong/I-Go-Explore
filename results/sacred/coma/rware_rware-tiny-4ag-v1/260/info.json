@@ -1,0 +1,10 @@
+{
+  "go_explore_return": [
+    {
+      "py/function": "None.Tensor.item"
+    }
+  ],
+  "go_explore_return_T": [
+    32500
+  ]
+}

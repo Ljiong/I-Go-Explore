@@ -1,0 +1,7 @@
+CHECK input_shape: 284
+Check term: 0
+Check term: 250
+Recent Stats | t_env:        500 | Episode:       20
+advantage_mean:            0.0002	 advantage_mean 0.0002
+Recent Stats | t_env:        500 | Episode:       20
+advantage_mean:            0.0002	agent_grad_norm:           0.1307	 agent_grad_norm 0.1307

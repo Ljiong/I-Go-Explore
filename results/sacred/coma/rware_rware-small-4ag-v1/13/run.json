@@ -1,0 +1,121 @@
+{
+  "artifacts": [],
+  "command": "my_main",
+  "experiment": {
+    "base_dir": "E:\\study\\Thesis\\epymarl\\src",
+    "dependencies": [
+      "munch==2.5.0",
+      "numpy==1.21.5",
+      "sacred==0.8.2",
+      "torch==1.13.1"
+    ],
+    "mainfile": "main.py",
+    "name": "pymarl",
+    "repositories": [
+      {
+        "commit": "f355a55262ac9afecdb53368fec6337c549cc160",
+        "dirty": true,
+        "url": "https://github.com/uoe-agents/epymarl.git"
+      },
+      {
+        "commit": "f355a55262ac9afecdb53368fec6337c549cc160",
+        "dirty": true,
+        "url": "https://github.com/uoe-agents/epymarl.git"
+      },
+      {
+        "commit": "f355a55262ac9afecdb53368fec6337c549cc160",
+        "dirty": true,
+        "url": "https://github.com/uoe-agents/epymarl.git"
+      }
+    ],
+    "sources": [
+      [
+        "main.py",
+        "_sources\\main_008d3b60e987fdebfda34f422f9b4e38.py"
+      ],
+      [
+        "run.py",
+        "_sources\\run_86439fec407e1ec604ab859d37aa650a.py"
+      ],
+      [
+        "utils\\logging.py",
+        "_sources\\logging_68238ad707deb4541b645d1c38a512be.py"
+      ]
+    ]
+  },
+  "fail_trace": [
+    "Traceback (most recent call last):\n",
+    "  File \"E:\\Anaconda\\envs\\epymarl\\lib\\site-packages\\wrapt\\wrappers.py\", line 523, in __call__\n    args, kwargs)\n",
+    "  File \"E:\\Anaconda\\envs\\epymarl\\lib\\site-packages\\sacred\\config\\captured_function.py\", line 42, in captured_function\n    result = wrapped(*args, **kwargs)\n",
+    "  File \"main.py\", line 40, in my_main\n    run(_run, config, _log)\n",
+    "  File \"E:\\study\\Thesis\\epymarl\\src\\run.py\", line 62, in run\n    run_sequential(args=args, logger=logger)\n",
+    "  File \"E:\\study\\Thesis\\epymarl\\src\\run.py\", line 256, in run_sequential\n    best_score,cell_counter = go_explore_runner.run(envs[i], 500)\n",
+    "  File \"E:\\study\\Thesis\\epymarl\\src\\runners\\go_exploration.py\", line 297, in run\n    result.append(self.get_trajactory(start_cell))\n",
+    "  File \"E:\\study\\Thesis\\epymarl\\src\\runners\\go_exploration.py\", line 248, in get_trajactory\n    traj = self.go_explore(start_cell,250)\n",
+    "  File \"E:\\study\\Thesis\\epymarl\\src\\runners\\go_exploration.py\", line 220, in go_explore\n    key = self.make_representation(temp_env.render(mode='rgb_array'))\n",
+    "  File \"E:\\Anaconda\\envs\\epymarl\\lib\\site-packages\\rware\\warehouse.py\", line 687, in render\n    self.renderer = Viewer(self.grid_size)\n",
+    "  File \"E:\\Anaconda\\envs\\epymarl\\lib\\site-packages\\rware\\rendering.py\", line 98, in __init__\n    width=self.width, height=self.height, display=display\n",
+    "  File \"E:\\Anaconda\\envs\\epymarl\\lib\\site-packages\\pyglet\\window\\win32\\__init__.py\", line 140, in __init__\n    super(Win32Window, self).__init__(*args, **kwargs)\n",
+    "  File \"E:\\Anaconda\\envs\\epymarl\\lib\\site-packages\\pyglet\\window\\__init__.py\", line 642, in __init__\n    self._create()\n",
+    "  File \"E:\\Anaconda\\envs\\epymarl\\lib\\site-packages\\pyglet\\window\\win32\\__init__.py\", line 270, in _create\n    self.context.attach(self.canvas)\n",
+    "  File \"E:\\Anaconda\\envs\\epymarl\\lib\\site-packages\\pyglet\\gl\\win32.py\", line 239, in attach\n    raise gl.ContextException('Unable to share contexts.')\n",
+    "pyglet.gl.ContextException: Unable to share contexts.\n"
+  ],
+  "heartbeat": "2023-05-28T16:52:08.925922",
+  "host": {
+    "ENV": {},
+    "cpu": "Unknown",
+    "gpus": {
+      "driver_version": "516.01",
+      "gpus": [
+        {
+          "model": "NVIDIA GeForce MX150",
+          "persistence_mode": false,
+          "total_memory": 2048
+        }
+      ]
+    },
+    "hostname": "Jiong",
+    "os": [
+      "Windows",
+      "Windows-10-10.0.22000-SP0"
+    ],
+    "python_version": "3.7.16"
+  },
+  "meta": {
+    "command": "my_main",
+    "options": {
+      "--beat-interval": null,
+      "--capture": null,
+      "--comment": null,
+      "--debug": false,
+      "--enforce_clean": false,
+      "--file_storage": null,
+      "--force": false,
+      "--help": false,
+      "--loglevel": null,
+      "--mongo_db": null,
+      "--name": null,
+      "--pdb": false,
+      "--print-config": false,
+      "--priority": null,
+      "--queue": false,
+      "--s3": null,
+      "--sql": null,
+      "--tiny_db": null,
+      "--unobserved": false,
+      "COMMAND": null,
+      "UPDATE": [
+        "env_args.time_limit=500",
+        "env_args.key=rware:rware-small-4ag-v1"
+      ],
+      "help": false,
+      "with": true
+    }
+  },
+  "resources": [],
+  "result": null,
+  "start_time": "2023-05-28T12:35:57.414037",
+  "status": "FAILED",
+  "stop_time": "2023-05-28T16:52:08.938924"
+}

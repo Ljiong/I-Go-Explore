@@ -1,0 +1,57 @@
+{
+  "ep_length_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T17:37:43.482709"
+    ],
+    "values": [
+      50.0
+    ]
+  },
+  "icm_reward_forward_loss": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T17:37:50.884948"
+    ],
+    "values": [
+      {}
+    ]
+  },
+  "icm_reward_inverse_loss": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T17:37:50.884948"
+    ],
+    "values": [
+      {}
+    ]
+  },
+  "return_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T17:37:43.479710"
+    ],
+    "values": [
+      0.0
+    ]
+  },
+  "return_std": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T17:37:43.482709"
+    ],
+    "values": [
+      0.0
+    ]
+  }
+}

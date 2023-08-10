@@ -1,0 +1,578 @@
+Check term: 0
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 10500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 21000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 31500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 42000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 52500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 63000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 73500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 84000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 94500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 105000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 115500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 126000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 136500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 147000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 157500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 168000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 178500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 189000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 199500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 210000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 220500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 231000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 241500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 252000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 262500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 273000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 283500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 294000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 304500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 315000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 325500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 336000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 346500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 357000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 367500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 378000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 388500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 399000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 409500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 420000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 430500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 441000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 451500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 462000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 472500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 483000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 493500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 504000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 514500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 525000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 535500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 546000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 556500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 567000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 577500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 588000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 598500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 609000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 619500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 630000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 640500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 651000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 661500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 672000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 682500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 693000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 703500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 714000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 724500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 735000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 745500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 756000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 766500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 777000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 787500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 798000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 808500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 819000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 829500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 840000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 850500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 861000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 871500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 882000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 892500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 903000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 913500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 924000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 934500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 945000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 955500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 966000
+go_explore_return 0.2000
+test_go_explore_return 0.0000
+Check term: 976500
+go_explore_return 0.2000
+test_go_explore_return 0.0000
+Check term: 987000
+go_explore_return 0.2000
+test_go_explore_return 0.0000
+Check term: 997500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1008000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1018500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1029000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1039500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1050000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1060500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1071000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1081500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1092000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1102500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1113000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1123500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1134000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1144500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1155000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1165500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1176000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1186500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1197000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1207500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1218000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1228500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1239000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1249500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1260000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1270500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1281000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1291500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1302000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1312500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1323000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1333500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1344000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1354500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1365000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1375500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1386000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1396500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1407000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1417500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1428000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1438500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1449000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1459500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1470000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1480500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1491000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1501500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1512000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1522500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1533000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1543500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1554000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1564500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1575000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1585500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1596000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1606500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1617000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1627500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1638000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1648500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1659000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1669500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1680000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1690500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1701000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1711500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1722000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1732500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1743000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1753500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1764000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1774500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1785000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1795500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1806000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1816500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1827000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1837500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1848000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1858500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1869000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1879500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1890000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1900500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1911000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1921500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1932000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1942500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1953000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1963500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1974000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1984500
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Check term: 1995000
+go_explore_return 0.0000
+test_go_explore_return 0.0000
+Exiting Main
+Stopping all threads
+Thread Thread-19 is alive! Is daemon: False
+Thread joined
+Exiting script

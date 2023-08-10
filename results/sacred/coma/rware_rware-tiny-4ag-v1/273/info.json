@@ -1,0 +1,81 @@
+{
+  "cell_counter": [
+    2387,
+    2432
+  ],
+  "cell_counter_T": [
+    32500,
+    65000
+  ],
+  "go_explore_return": [
+    1.0,
+    0.0
+  ],
+  "go_explore_return_T": [
+    32500,
+    65000
+  ],
+  "test_cell_counter": [
+    2435.1
+  ],
+  "test_cell_counter_T": [
+    32500
+  ],
+  "test_go_explore_return": [
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYDQAAADIwNzMxMjIwOTMwNTZxAlgDAAAAY3B1cQNLAU50cQRRLoACXXEAWA0AAAAyMDczMTIyMDkzMDU2cQFhLgEAAAAAAAAAAAAAAA=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": [
+                1
+              ]
+            },
+            {
+              "py/tuple": [
+                1
+              ]
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "test_go_explore_return_T": [
+    32500
+  ]
+}

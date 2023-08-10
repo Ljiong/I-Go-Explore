@@ -1,0 +1,26 @@
+Check term: 0
+Check term: 50
+Check term: 100
+Check term: 150
+Check term: 200
+Check term: 250
+Check term: 300
+Check term: 350
+Check term: 400
+Check term: 450
+150
+agent_grad_norm 0.0014
+critic_grad_norm 0.0259
+critic_loss 0.0004
+ep_length_mean 50.0000
+go_explore_return 22.5000
+pg_loss 0.0905
+q_taken_mean -0.0101
+return_mean 0.0000
+return_std 0.0000
+target_mean -0.0141
+td_error_abs 0.0167
+test_ep_length_mean 50.0000
+test_return_mean 0.0200
+test_return_std 0.1400
+Check term: 500

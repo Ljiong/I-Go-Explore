@@ -1,0 +1,2 @@
+Check term: 0
+<runners.go_exploration.Cell object at 0x0000018CA920A548>

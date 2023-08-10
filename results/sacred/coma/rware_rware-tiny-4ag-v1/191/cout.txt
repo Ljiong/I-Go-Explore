@@ -1,0 +1,4 @@
+Check term: 0
+CHECK actions shape torch.Size([10, 50, 4, 1])
+inverse_action shape: torch.Size([10, 50, 20])
+Check pred actions: torch.Size([10, 50, 20])

@@ -1,0 +1,131 @@
+Check term: 0
+cell_counter 2066.0000
+go_explore_return 0.0000
+Check term: 32500
+cell_counter 1994.5000
+go_explore_return 0.0000
+Check term: 65000
+cell_counter 1959.6667
+go_explore_return 0.0000
+Check term: 97500
+cell_counter 1973.0000
+go_explore_return 0.0000
+Check term: 130000
+cell_counter 1969.0000
+go_explore_return 0.2000
+Check term: 162500
+cell_counter 1942.0000
+go_explore_return 0.2000
+Check term: 195000
+cell_counter 1965.6000
+go_explore_return 0.2000
+Check term: 227500
+cell_counter 1988.8000
+go_explore_return 0.2000
+Check term: 260000
+cell_counter 1978.6000
+go_explore_return 0.2000
+Check term: 292500
+cell_counter 1967.0000
+go_explore_return 0.0000
+Check term: 325000
+cell_counter 1983.2000
+go_explore_return 0.0000
+Check term: 357500
+cell_counter 1969.2000
+go_explore_return 0.2000
+Check term: 390000
+cell_counter 1947.6000
+go_explore_return 0.2000
+Check term: 422500
+cell_counter 1944.2000
+go_explore_return 0.2000
+Check term: 455000
+cell_counter 1961.4000
+go_explore_return 0.4000
+Check term: 487500
+cell_counter 1963.8000
+go_explore_return 0.6000
+Check term: 520000
+cell_counter 1952.2000
+go_explore_return 0.4000
+Check term: 552500
+cell_counter 1981.0000
+go_explore_return 0.4000
+Check term: 585000
+cell_counter 1981.8000
+go_explore_return 0.4000
+Check term: 617500
+cell_counter 2012.4000
+go_explore_return 0.2000
+Check term: 650000
+cell_counter 2021.4000
+go_explore_return 0.0000
+Check term: 682500
+cell_counter 2047.4000
+go_explore_return 0.0000
+Check term: 715000
+cell_counter 2023.4000
+go_explore_return 0.0000
+Check term: 747500
+cell_counter 1994.6000
+go_explore_return 0.2000
+Check term: 780000
+cell_counter 1944.0000
+go_explore_return 0.4000
+Check term: 812500
+cell_counter 1943.2000
+go_explore_return 0.4000
+Check term: 845000
+cell_counter 1917.0000
+go_explore_return 0.4000
+Check term: 877500
+cell_counter 1905.2000
+go_explore_return 0.4000
+Check term: 910000
+cell_counter 1918.4000
+go_explore_return 0.2000
+Check term: 942500
+cell_counter 1933.6000
+go_explore_return 0.0000
+Check term: 975000
+cell_counter 1919.4000
+go_explore_return 0.0000
+Check term: 1007500
+cell_counter 1943.0000
+go_explore_return 0.0000
+Check term: 1040000
+cell_counter 1962.0000
+go_explore_return 0.0000
+Check term: 1072500
+cell_counter 1957.4000
+go_explore_return 0.0000
+Check term: 1105000
+cell_counter 1965.8000
+go_explore_return 0.0000
+Check term: 1137500
+cell_counter 1956.2000
+go_explore_return 0.0000
+Check term: 1170000
+cell_counter 1946.0000
+go_explore_return 0.0000
+Check term: 1202500
+cell_counter 1941.4000
+go_explore_return 0.0000
+Check term: 1235000
+cell_counter 1986.0000
+go_explore_return 0.0000
+Check term: 1267500
+cell_counter 1984.6000
+go_explore_return 0.0000
+Check term: 1300000
+cell_counter 1990.0000
+go_explore_return 0.0000
+Check term: 1332500
+cell_counter 1965.2000
+go_explore_return 0.0000
+Exiting Main
+Stopping all threads
+Thread Thread-19 is alive! Is daemon: False
+Thread joined
+Exiting script

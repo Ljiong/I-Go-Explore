@@ -1,0 +1,26 @@
+{
+  "cell_counter": [
+    164,
+    303
+  ],
+  "cell_counter_T": [
+    500,
+    1500
+  ],
+  "go_explore_return": [
+    0.0,
+    0.0
+  ],
+  "go_explore_return_T": [
+    500,
+    1500
+  ],
+  "traj_length": [
+    50,
+    88
+  ],
+  "traj_length_T": [
+    500,
+    1500
+  ]
+}

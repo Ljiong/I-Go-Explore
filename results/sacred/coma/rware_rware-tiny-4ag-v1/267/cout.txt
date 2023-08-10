@@ -1,0 +1,7 @@
+Check term: 0
+E:\study\Thesis\epymarl\src\run.py:329: FutureWarning: The input object of type 'Tensor' is an array-like implementing one of the corresponding protocols (`__array__`, `__array_interface__` or `__array_struct__`); but not a sequence (or 0-D). In the future, this object will be coerced as if it was first converted using `np.array(obj)`. To retain the old behaviour, you have to either modify the type 'Tensor', or assign to an empty array created with `np.empty(correct_shape, dtype=object)`.
+  logger.log_stat("test_go_explore_return", [sum(np.array(best_scores)).item()/len(best_scores)], go_explore_runner.t_env)
+E:\study\Thesis\epymarl\src\run.py:329: VisibleDeprecationWarning: Creating an ndarray from ragged nested sequences (which is a list-or-tuple of lists-or-tuples-or ndarrays with different lengths or shapes) is deprecated. If you meant to do this, you must specify 'dtype=object' when creating the ndarray.
+  logger.log_stat("test_go_explore_return", [sum(np.array(best_scores)).item()/len(best_scores)], go_explore_runner.t_env)
+Check term: 32500
+Check term: 65000

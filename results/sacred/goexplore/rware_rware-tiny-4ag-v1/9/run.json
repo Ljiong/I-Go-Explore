@@ -1,0 +1,113 @@
+{
+  "artifacts": [],
+  "command": "my_main",
+  "experiment": {
+    "base_dir": "e:\\study\\Thesis\\epymarl\\src",
+    "dependencies": [
+      "munch==2.5.0",
+      "numpy==1.21.5",
+      "sacred==0.8.2",
+      "torch==1.13.1"
+    ],
+    "mainfile": "main.py",
+    "name": "pymarl",
+    "repositories": [
+      {
+        "commit": "f355a55262ac9afecdb53368fec6337c549cc160",
+        "dirty": true,
+        "url": "https://github.com/uoe-agents/epymarl.git"
+      },
+      {
+        "commit": "f355a55262ac9afecdb53368fec6337c549cc160",
+        "dirty": true,
+        "url": "https://github.com/uoe-agents/epymarl.git"
+      },
+      {
+        "commit": "f355a55262ac9afecdb53368fec6337c549cc160",
+        "dirty": true,
+        "url": "https://github.com/uoe-agents/epymarl.git"
+      }
+    ],
+    "sources": [
+      [
+        "main.py",
+        "_sources\\main_ab900e9665b70358f5611b1164dfec12.py"
+      ],
+      [
+        "run.py",
+        "_sources\\run_e2624938e2bf191cc6648cde6535bf52.py"
+      ],
+      [
+        "utils\\logging.py",
+        "_sources\\logging_7ddc698bb74674bae897bfdc5662ed00.py"
+      ]
+    ]
+  },
+  "fail_trace": [
+    "Traceback (most recent call last):\n",
+    "  File \"E:\\Anaconda\\envs\\epymarl\\lib\\site-packages\\wrapt\\wrappers.py\", line 523, in __call__\n    args, kwargs)\n",
+    "  File \"E:\\Anaconda\\envs\\epymarl\\lib\\site-packages\\sacred\\config\\captured_function.py\", line 42, in captured_function\n    result = wrapped(*args, **kwargs)\n",
+    "  File \"e:\\study\\Thesis\\epymarl\\src\\main.py\", line 40, in my_main\n    run(_run, config, _log)\n",
+    "  File \"e:\\study\\Thesis\\epymarl\\src\\run.py\", line 56, in run\n    run_sequential(args=args, logger=logger)\n",
+    "  File \"e:\\study\\Thesis\\epymarl\\src\\run.py\", line 199, in run_sequential\n    runner.run(runner.t_env, 250, 8)\n",
+    "  File \"e:\\study\\Thesis\\epymarl\\src\\runners\\go_exploration.py\", line 201, in run\n    start_s = env_tmp.get_state()\n",
+    "AttributeError: 'Warehouse' object has no attribute 'get_state'\n"
+  ],
+  "heartbeat": "2023-05-04T02:49:22.105078",
+  "host": {
+    "ENV": {},
+    "cpu": "Unknown",
+    "gpus": {
+      "driver_version": "516.01",
+      "gpus": [
+        {
+          "model": "NVIDIA GeForce MX150",
+          "persistence_mode": false,
+          "total_memory": 2048
+        }
+      ]
+    },
+    "hostname": "Jiong",
+    "os": [
+      "Windows",
+      "Windows-10-10.0.22000-SP0"
+    ],
+    "python_version": "3.7.16"
+  },
+  "meta": {
+    "command": "my_main",
+    "options": {
+      "--beat-interval": null,
+      "--capture": null,
+      "--comment": null,
+      "--debug": false,
+      "--enforce_clean": false,
+      "--file_storage": null,
+      "--force": false,
+      "--help": false,
+      "--loglevel": null,
+      "--mongo_db": null,
+      "--name": null,
+      "--pdb": false,
+      "--print-config": false,
+      "--priority": null,
+      "--queue": false,
+      "--s3": null,
+      "--sql": null,
+      "--tiny_db": null,
+      "--unobserved": false,
+      "COMMAND": null,
+      "UPDATE": [
+        "env_args.time_limit=25",
+        "env_args.key=rware:rware-tiny-4ag-v1"
+      ],
+      "help": false,
+      "with": true
+    }
+  },
+  "resources": [],
+  "result": null,
+  "start_time": "2023-05-04T02:48:47.071578",
+  "status": "FAILED",
+  "stop_time": "2023-05-04T02:49:22.126444"
+}

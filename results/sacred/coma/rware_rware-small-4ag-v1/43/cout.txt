@@ -1,0 +1,469 @@
+Check term: 0
+Through traj: 500
+tensor([0.])
+Through traj: 1000
+tensor([0.])
+Through traj: 1500
+tensor([0.])
+Through traj: 2000
+tensor([0.])
+Through traj: 2500
+tensor([0.])
+Through traj: 3000
+tensor([0.])
+Through traj: 3500
+tensor([0.])
+Through traj: 4000
+tensor([0.])
+Through traj: 4500
+tensor([0.])
+Through traj: 5000
+tensor([0.])
+Through traj: 5303
+tensor([0.])
+Through traj: 5336
+tensor([0.])
+Through traj: 5642
+tensor([0.])
+Through traj: 6073
+tensor([0.])
+Through traj: 6500
+tensor([0.])
+Through traj: 6670
+tensor([0.])
+Through traj: 6878
+tensor([0.])
+Through traj: 7013
+tensor([0.])
+Through traj: 7292
+tensor([0.])
+Through traj: 7393
+tensor([0.])
+Through traj: 7843
+tensor([0.])
+Through traj: 7907
+tensor([0.])
+Through traj: 8322
+tensor([0.])
+Through traj: 8407
+tensor([0.])
+Through traj: 8476
+tensor([0.])
+Through traj: 8672
+tensor([0.])
+Through traj: 8799
+tensor([0.])
+Through traj: 9261
+tensor([0.])
+Through traj: 9543
+tensor([0.])
+Through traj: 9722
+tensor([0.])
+Through traj: 9936
+tensor([0.])
+Through traj: 10052
+tensor([0.])
+Through traj: 10264
+tensor([0.])
+Through traj: 10290
+tensor([0.])
+Through traj: 10757
+tensor([0.])
+Through traj: 10802
+tensor([0.])
+Through traj: 11032
+tensor([0.])
+Through traj: 11158
+tensor([0.])
+Through traj: 11191
+tensor([0.])
+Through traj: 11259
+tensor([0.])
+Through traj: 11282
+tensor([0.])
+Through traj: 11456
+tensor([0.])
+Through traj: 11898
+tensor([0.])
+Through traj: 12183
+tensor([0.])
+Through traj: 12275
+tensor([0.])
+Through traj: 12418
+tensor([0.])
+Through traj: 12496
+tensor([0.])
+Through traj: 12598
+tensor([0.])
+Through traj: 13005
+tensor([0.])
+Through traj: 13320
+tensor([0.])
+Through traj: 13470
+tensor([0.])
+Through traj: 13518
+tensor([0.])
+Through traj: 13820
+tensor([0.])
+Through traj: 13869
+tensor([0.])
+Through traj: 13991
+tensor([0.])
+Through traj: 14112
+tensor([0.])
+Through traj: 14373
+tensor([0.])
+Through traj: 14740
+tensor([0.])
+Through traj: 14917
+tensor([0.])
+Through traj: 15013
+tensor([0.])
+Through traj: 15270
+tensor([0.])
+Through traj: 15517
+tensor([0.])
+Through traj: 15589
+tensor([0.])
+Through traj: 15750
+tensor([0.])
+Through traj: 15786
+tensor([0.])
+Through traj: 16270
+tensor([0.])
+Through traj: 16358
+tensor([0.])
+Through traj: 16613
+tensor([0.])
+Through traj: 16659
+tensor([0.])
+Through traj: 16722
+tensor([0.])
+Through traj: 16764
+tensor([0.])
+Through traj: 16842
+tensor([0.])
+Through traj: 16959
+tensor([0.])
+Through traj: 17001
+tensor([0.])
+Through traj: 17287
+tensor([0.])
+Through traj: 17348
+tensor([0.])
+Through traj: 17682
+tensor([0.])
+Through traj: 17805
+tensor([0.])
+Through traj: 18140
+tensor([0.])
+Through traj: 18458
+tensor([0.])
+Through traj: 18568
+tensor([0.])
+Through traj: 18662
+tensor([0.])
+Through traj: 18810
+tensor([0.])
+Through traj: 18818
+tensor([0.])
+Through traj: 19167
+tensor([0.])
+Through traj: 19261
+tensor([0.])
+Through traj: 19381
+tensor([0.])
+Through traj: 19450
+tensor([0.])
+Through traj: 19674
+tensor([0.])
+Through traj: 19888
+tensor([0.])
+Through traj: 19919
+tensor([0.])
+Through traj: 20165
+tensor([0.])
+Through traj: 20285
+tensor([0.])
+Through traj: 20640
+tensor([0.])
+Through traj: 21065
+tensor([0.])
+Through traj: 21402
+tensor([0.])
+Through traj: 21657
+tensor([0.])
+Through traj: 21692
+tensor([0.])
+Through traj: 21709
+tensor([0.])
+Through traj: 21732
+tensor([0.])
+t_env: 21732
+cell_counter 9205.0000
+go_explore_return 0.0000
+Check term: 21732
+Through traj: 500
+tensor([0.])
+Through traj: 1000
+tensor([0.])
+Through traj: 1500
+tensor([0.])
+Through traj: 2000
+tensor([0.])
+Through traj: 2500
+tensor([0.])
+Through traj: 3000
+tensor([0.])
+Through traj: 3500
+tensor([0.])
+Through traj: 4000
+tensor([0.])
+Through traj: 4500
+tensor([0.])
+Through traj: 5000
+tensor([0.])
+Through traj: 5346
+tensor([0.])
+Through traj: 5814
+tensor([0.])
+Through traj: 6176
+tensor([0.])
+Through traj: 6667
+tensor([0.])
+Through traj: 7068
+tensor([0.])
+Through traj: 7156
+tensor([0.])
+Through traj: 7633
+tensor([0.])
+Through traj: 7907
+tensor([0.])
+Through traj: 8252
+tensor([0.])
+Through traj: 8282
+tensor([0.])
+Through traj: 8406
+tensor([0.])
+Through traj: 8461
+tensor([0.])
+Through traj: 8945
+tensor([0.])
+Through traj: 9132
+tensor([0.])
+Through traj: 9315
+tensor([0.])
+Through traj: 9339
+tensor([0.])
+Through traj: 9657
+tensor([0.])
+Through traj: 9955
+tensor([0.])
+Through traj: 10008
+tensor([0.])
+Through traj: 10222
+tensor([0.])
+Through traj: 10318
+tensor([0.])
+Through traj: 10351
+tensor([0.])
+Through traj: 10391
+tensor([0.])
+Through traj: 10599
+tensor([0.])
+Through traj: 10841
+tensor([0.])
+Through traj: 10964
+tensor([0.])
+Through traj: 11458
+tensor([0.])
+Through traj: 11669
+tensor([0.])
+Through traj: 12166
+tensor([0.])
+Through traj: 12439
+tensor([0.])
+Through traj: 12587
+tensor([0.])
+Through traj: 13008
+tensor([0.])
+Through traj: 13368
+tensor([0.])
+Through traj: 13405
+tensor([0.])
+Through traj: 13742
+tensor([0.])
+Through traj: 13857
+tensor([0.])
+Through traj: 13939
+tensor([0.])
+Through traj: 14098
+tensor([0.])
+Through traj: 14234
+tensor([0.])
+Through traj: 14440
+tensor([0.])
+Through traj: 14488
+tensor([0.])
+Through traj: 14821
+tensor([0.])
+Through traj: 15071
+tensor([0.])
+Through traj: 15474
+tensor([0.])
+Through traj: 15597
+tensor([0.])
+Through traj: 15775
+tensor([0.])
+Through traj: 16118
+tensor([0.])
+Through traj: 16429
+tensor([0.])
+Through traj: 16483
+tensor([0.])
+Through traj: 16703
+tensor([0.])
+Through traj: 17019
+tensor([0.])
+Through traj: 17195
+tensor([0.])
+Through traj: 17604
+tensor([0.])
+Through traj: 17655
+tensor([0.])
+Through traj: 17868
+tensor([0.])
+Through traj: 17917
+tensor([0.])
+Through traj: 18072
+tensor([0.])
+Through traj: 18164
+tensor([0.])
+Through traj: 18409
+tensor([0.])
+Through traj: 18767
+tensor([0.])
+Through traj: 19073
+tensor([0.])
+Through traj: 19377
+tensor([0.])
+Through traj: 19739
+tensor([0.])
+Through traj: 19926
+tensor([0.])
+Through traj: 20042
+tensor([0.])
+Through traj: 20278
+tensor([0.])
+Through traj: 20561
+tensor([0.])
+Through traj: 20934
+tensor([0.])
+Through traj: 21312
+tensor([0.])
+Through traj: 21464
+tensor([0.])
+t_env: 43196
+cell_counter 8619.0000
+go_explore_return 0.0000
+Check term: 43196
+Through traj: 500
+tensor([0.])
+Through traj: 1000
+tensor([0.])
+Through traj: 1500
+tensor([0.])
+Through traj: 2000
+tensor([0.])
+Through traj: 2500
+tensor([0.])
+Through traj: 3000
+tensor([0.])
+Through traj: 3500
+tensor([0.])
+Through traj: 4000
+tensor([0.])
+Through traj: 4500
+tensor([0.])
+Through traj: 5000
+tensor([0.])
+Through traj: 5414
+tensor([0.])
+Through traj: 5524
+tensor([0.])
+Through traj: 5530
+tensor([0.])
+Through traj: 6001
+tensor([0.])
+Through traj: 6351
+tensor([0.])
+Through traj: 6448
+tensor([0.])
+Through traj: 6749
+tensor([0.])
+Through traj: 7017
+tensor([0.])
+Through traj: 7489
+tensor([0.])
+Through traj: 7599
+tensor([0.])
+Through traj: 8008
+tensor([0.])
+Through traj: 8476
+tensor([0.])
+Through traj: 8626
+tensor([0.])
+Through traj: 9063
+tensor([0.])
+Through traj: 9302
+tensor([0.])
+Through traj: 9521
+tensor([0.])
+Through traj: 10001
+tensor([0.])
+Through traj: 10203
+tensor([0.])
+Through traj: 10539
+tensor([0.])
+Through traj: 10623
+tensor([0.])
+Through traj: 10692
+tensor([0.])
+Through traj: 11015
+tensor([0.])
+Through traj: 11208
+tensor([0.])
+Through traj: 11661
+tensor([0.])
+Through traj: 12098
+tensor([0.])
+Through traj: 12521
+tensor([0.])
+Through traj: 12607
+tensor([0.])
+Through traj: 12951
+tensor([0.])
+Through traj: 13037
+tensor([0.])
+Through traj: 13213
+tensor([0.])
+Through traj: 13472
+tensor([0.])
+Through traj: 13667
+tensor([0.])
+Through traj: 13884
+tensor([0.])
+Through traj: 14165
+tensor([0.])
+Through traj: 14661
+tensor([0.])
+Through traj: 14975
+tensor([0.])
+Through traj: 14983
+tensor([0.])
+Through traj: 15276
+tensor([0.])
+Through traj: 15628
+tensor([0.])
+Through traj: 15704
+tensor([0.])

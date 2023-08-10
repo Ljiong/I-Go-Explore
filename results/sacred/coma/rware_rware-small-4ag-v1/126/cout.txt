@@ -1,0 +1,174 @@
+Check term: 0
+<runners.go_exploration.Cell object at 0x0000029285FF1C08>
+TEM
+length of traj_res: 1000
+<runners.go_exploration.Cell object at 0x0000029285FF1C08>
+TEM
+length of traj_res: 1000
+<runners.go_exploration.Cell object at 0x0000029285FF1C08>
+TEM
+length of traj_res: 1000
+<runners.go_exploration.Cell object at 0x0000029285FF1C08>
+TEM
+length of traj_res: 1000
+<runners.go_exploration.Cell object at 0x0000029285FF1C08>
+TEM
+length of traj_res: 1000
+5000 5000 0.0
+<runners.go_exploration.Cell object at 0x000002929FC30048>
+TEM
+length of traj_res: 891
+<runners.go_exploration.Cell object at 0x00000292A0678AC8>
+TEM
+length of traj_res: 69
+<runners.go_exploration.Cell object at 0x00000292A063C788>
+TEM
+length of traj_res: 730
+<runners.go_exploration.Cell object at 0x00000292A06565C8>
+TEM
+length of traj_res: 482
+<runners.go_exploration.Cell object at 0x000002929FC0E748>
+TEM
+length of traj_res: 185
+12357 7357 0.0
+<runners.go_exploration.Cell object at 0x00000292A0667D88>
+TEM
+length of traj_res: 261
+<runners.go_exploration.Cell object at 0x000002929FC49D08>
+TEM
+length of traj_res: 565
+<runners.go_exploration.Cell object at 0x000002929FC5AB48>
+TEM
+length of traj_res: 364
+<runners.go_exploration.Cell object at 0x000002929FC73E08>
+TEM
+length of traj_res: 123
+<runners.go_exploration.Cell object at 0x00000292AABCA708>
+TEM
+length of traj_res: 168
+21195 8838 0.0
+<runners.go_exploration.Cell object at 0x00000292AAB95C88>
+TEM
+length of traj_res: 517
+<runners.go_exploration.Cell object at 0x00000292A0699388>
+TEM
+length of traj_res: 718
+<runners.go_exploration.Cell object at 0x00000292A3ACA488>
+TEM
+length of traj_res: 487
+<runners.go_exploration.Cell object at 0x000002929FBCCD88>
+TEM
+length of traj_res: 865
+<runners.go_exploration.Cell object at 0x00000292A3ADB948>
+TEM
+length of traj_res: 284
+32904 11709 0.0
+<runners.go_exploration.Cell object at 0x00000292AAB83888>
+TEM
+length of traj_res: 122
+<runners.go_exploration.Cell object at 0x00000292AAC432C8>
+TEM
+length of traj_res: 88
+<runners.go_exploration.Cell object at 0x00000292AABCA808>
+TEM
+length of traj_res: 158
+<runners.go_exploration.Cell object at 0x00000292A06567C8>
+TEM
+length of traj_res: 474
+<runners.go_exploration.Cell object at 0x00000292AAC3AE88>
+TEM
+length of traj_res: 129
+45584 12680 0.0
+<runners.go_exploration.Cell object at 0x00000292AAC30A48>
+TEM
+length of traj_res: 373
+<runners.go_exploration.Cell object at 0x00000292AEC54508>
+TEM
+length of traj_res: 246
+<runners.go_exploration.Cell object at 0x00000292AABCA948>
+TEM
+length of traj_res: 146
+<runners.go_exploration.Cell object at 0x00000292AAC3A188>
+TEM
+length of traj_res: 217
+<runners.go_exploration.Cell object at 0x00000292AEB66FC8>
+TEM
+length of traj_res: 292
+59538 13954 0.0
+<runners.go_exploration.Cell object at 0x00000292B3ECC208>
+TEM
+length of traj_res: 215
+<runners.go_exploration.Cell object at 0x00000292A06800C8>
+TEM
+length of traj_res: 46
+<runners.go_exploration.Cell object at 0x000002929AF237C8>
+TEM
+length of traj_res: 763
+<runners.go_exploration.Cell object at 0x00000292AEC16A08>
+TEM
+length of traj_res: 302
+<runners.go_exploration.Cell object at 0x00000292AEC2F788>
+TEM
+length of traj_res: 22
+74840 15302 0.0
+<runners.go_exploration.Cell object at 0x00000292A3AE4F08>
+TEM
+length of traj_res: 171
+<runners.go_exploration.Cell object at 0x00000292AAB87F08>
+TEM
+length of traj_res: 33
+<runners.go_exploration.Cell object at 0x000002929FC06488>
+TEM
+length of traj_res: 312
+<runners.go_exploration.Cell object at 0x00000292AAC76C48>
+TEM
+length of traj_res: 30
+<runners.go_exploration.Cell object at 0x000002929FC6CBC8>
+TEM
+length of traj_res: 205
+90893 16053 0.0
+<runners.go_exploration.Cell object at 0x00000292B3EC3FC8>
+TEM
+length of traj_res: 223
+<runners.go_exploration.Cell object at 0x00000292AEBC18C8>
+TEM
+length of traj_res: 379
+<runners.go_exploration.Cell object at 0x00000292B3EEE7C8>
+TEM
+length of traj_res: 146
+<runners.go_exploration.Cell object at 0x00000292B3FBBD48>
+TEM
+length of traj_res: 536
+<runners.go_exploration.Cell object at 0x000002929C618608>
+TEM
+length of traj_res: 801
+109031 18138 0.0
+<runners.go_exploration.Cell object at 0x00000292B3F08388>
+TEM
+length of traj_res: 185
+<runners.go_exploration.Cell object at 0x00000292AEBC11C8>
+TEM
+length of traj_res: 419
+<runners.go_exploration.Cell object at 0x00000292AAC6E308>
+TEM
+length of traj_res: 34
+<runners.go_exploration.Cell object at 0x00000292AEC8EC88>
+TEM
+length of traj_res: 315
+<runners.go_exploration.Cell object at 0x00000292AAC4C088>
+TEM
+length of traj_res: 19
+128141 19110 0.0
+<runners.go_exploration.Cell object at 0x00000292A3AF4AC8>
+TEM
+length of traj_res: 26
+<runners.go_exploration.Cell object at 0x00000292B445D2C8>
+TEM
+length of traj_res: 125
+<runners.go_exploration.Cell object at 0x00000292AEC04748>
+TEM
+length of traj_res: 516
+<runners.go_exploration.Cell object at 0x00000292B44BAF88>
+TEM
+length of traj_res: 384
+<runners.go_exploration.Cell object at 0x000002929FBE4708>

@@ -1,0 +1,2389 @@
+Check term: 0
+Found cell: 93
+Found cell: 87
+Found cell: 61
+Found cell: 94
+Found cell: 86
+Found cell: 81
+Found cell: 72
+Found cell: 79
+Found cell: 73
+Found cell: 83
+advantage_mean 0.0002
+agent_grad_norm 0.0672
+coma_loss -0.0002
+critic_grad_norm 1.2104
+critic_loss 0.1019
+ep_length_mean 50.0000
+E:\Anaconda\envs\epymarl\lib\site-packages\numpy\core\_methods.py:163: FutureWarning: The input object of type 'Tensor' is an array-like implementing one of the corresponding protocols (`__array__`, `__array_interface__` or `__array_struct__`); but not a sequence (or 0-D). In the future, this object will be coerced as if it was first converted using `np.array(obj)`. To retain the old behaviour, you have to either modify the type 'Tensor', or assign to an empty array created with `np.empty(correct_shape, dtype=object)`.
+  arr = asanyarray(a)
+E:\Anaconda\envs\epymarl\lib\site-packages\numpy\core\_methods.py:163: VisibleDeprecationWarning: Creating an ndarray from ragged nested sequences (which is a list-or-tuple of lists-or-tuples-or ndarrays with different lengths or shapes) is deprecated. If you meant to do this, you must specify 'dtype=object' when creating the ndarray.
+  arr = asanyarray(a)
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0143
+icm_reward_inverse_loss 39.1200
+pi_max 0.2261
+q_taken_mean 0.0131
+return_mean 0.0000
+return_std 0.0000
+target_mean 0.5099
+td_error_abs 0.5433
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 500
+Found cell: 96
+Found cell: 93
+Found cell: 83
+Found cell: 112
+Found cell: 120
+Found cell: 99
+Found cell: 67
+Found cell: 121
+Found cell: 95
+Found cell: 90
+advantage_mean 0.0002
+agent_grad_norm 0.0672
+coma_loss -0.0002
+critic_grad_norm 1.2104
+critic_loss 0.1019
+ep_length_mean 50.0000
+go_explore_return 0.2000
+icm_reward_forward_loss 0.0143
+icm_reward_inverse_loss 39.1200
+pi_max 0.2261
+q_taken_mean 0.0131
+return_mean 0.0000
+return_std 0.0000
+target_mean 0.5099
+td_error_abs 0.5433
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 1000
+Found cell: 87
+Found cell: 82
+Found cell: 102
+Found cell: 119
+Found cell: 101
+Found cell: 90
+Found cell: 89
+Found cell: 94
+Found cell: 103
+Found cell: 114
+advantage_mean -0.0009
+agent_grad_norm 0.0642
+coma_loss -0.0031
+critic_grad_norm 4.6106
+critic_loss 54.4004
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0101
+icm_reward_inverse_loss 39.1197
+pi_max 0.2293
+q_taken_mean 0.0384
+return_mean 0.0000
+return_std 0.0000
+target_mean 1.3757
+td_error_abs 2.1322
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 1500
+Found cell: 90
+Found cell: 70
+Found cell: 104
+Found cell: 62
+Found cell: 107
+Found cell: 85
+Found cell: 98
+Found cell: 94
+Found cell: 80
+Found cell: 112
+advantage_mean -0.0009
+agent_grad_norm 0.0642
+coma_loss -0.0031
+critic_grad_norm 4.6106
+critic_loss 54.4004
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0101
+icm_reward_inverse_loss 39.1197
+pi_max 0.2293
+q_taken_mean 0.0384
+return_mean 0.0000
+return_std 0.0000
+target_mean 1.3757
+td_error_abs 2.1322
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 2000
+Found cell: 106
+Found cell: 107
+Found cell: 96
+Found cell: 108
+Found cell: 101
+Found cell: 89
+Found cell: 104
+Found cell: 91
+Found cell: 109
+Found cell: 103
+advantage_mean -0.0005
+agent_grad_norm 0.0628
+coma_loss -0.0034
+critic_grad_norm 3.5935
+critic_loss 36.3138
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0082
+icm_reward_inverse_loss 39.1199
+pi_max 0.2328
+q_taken_mean 0.0688
+return_mean 0.0000
+return_std 0.0000
+target_mean 0.7448
+td_error_abs 1.6430
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 2500
+Found cell: 79
+Found cell: 97
+Found cell: 99
+Found cell: 71
+Found cell: 84
+Found cell: 106
+Found cell: 102
+Found cell: 93
+Found cell: 108
+Found cell: 112
+advantage_mean -0.0005
+agent_grad_norm 0.0628
+coma_loss -0.0034
+critic_grad_norm 3.5935
+critic_loss 36.3138
+ep_length_mean 50.0000
+go_explore_return 0.2000
+icm_reward_forward_loss 0.0082
+icm_reward_inverse_loss 39.1199
+pi_max 0.2328
+q_taken_mean 0.0688
+return_mean 0.0000
+return_std 0.0000
+target_mean 0.7448
+td_error_abs 1.6430
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 3000
+Found cell: 78
+Found cell: 86
+Found cell: 96
+Found cell: 80
+Found cell: 107
+Found cell: 77
+Found cell: 96
+Found cell: 88
+Found cell: 103
+Found cell: 79
+advantage_mean -0.0005
+agent_grad_norm 0.0588
+coma_loss -0.0039
+critic_grad_norm 3.0783
+critic_loss 27.2610
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0071
+icm_reward_inverse_loss 39.1199
+pi_max 0.2378
+q_taken_mean 0.0794
+return_mean 0.0000
+return_std 0.0000
+target_mean 0.4458
+td_error_abs 1.3751
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 3500
+Found cell: 80
+Found cell: 86
+Found cell: 102
+Found cell: 90
+Found cell: 99
+Found cell: 84
+Found cell: 101
+Found cell: 70
+Found cell: 101
+Found cell: 113
+advantage_mean -0.0005
+agent_grad_norm 0.0588
+coma_loss -0.0039
+critic_grad_norm 3.0783
+critic_loss 27.2610
+ep_length_mean 50.0000
+go_explore_return 0.2000
+icm_reward_forward_loss 0.0071
+icm_reward_inverse_loss 39.1199
+pi_max 0.2378
+q_taken_mean 0.0794
+return_mean 0.0000
+return_std 0.0000
+target_mean 0.4458
+td_error_abs 1.3751
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 4000
+Found cell: 91
+Found cell: 99
+Found cell: 115
+Found cell: 118
+Found cell: 75
+Found cell: 86
+Found cell: 102
+Found cell: 86
+Found cell: 113
+Found cell: 91
+advantage_mean -0.0002
+agent_grad_norm 0.0559
+coma_loss -0.0041
+critic_grad_norm 2.6818
+critic_loss 21.8252
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0062
+icm_reward_inverse_loss 39.1201
+pi_max 0.2417
+q_taken_mean 0.0789
+return_mean 0.0000
+return_std 0.0000
+target_mean 0.2814
+td_error_abs 1.1980
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 4500
+Found cell: 75
+Found cell: 74
+Found cell: 101
+Found cell: 104
+Found cell: 79
+Found cell: 123
+Found cell: 91
+Found cell: 128
+Found cell: 109
+Found cell: 100
+advantage_mean -0.0002
+agent_grad_norm 0.0559
+coma_loss -0.0041
+critic_grad_norm 2.6818
+critic_loss 21.8252
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0062
+icm_reward_inverse_loss 39.1201
+pi_max 0.2417
+q_taken_mean 0.0789
+return_mean 0.0000
+return_std 0.0000
+target_mean 0.2814
+td_error_abs 1.1980
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 5000
+Found cell: 77
+Found cell: 110
+Found cell: 79
+Found cell: 111
+Found cell: 86
+Found cell: 97
+Found cell: 74
+Found cell: 103
+Found cell: 105
+Found cell: 82
+advantage_mean -0.0008
+agent_grad_norm 0.0500
+coma_loss -0.0061
+critic_grad_norm 2.6116
+critic_loss 21.8163
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0039
+icm_reward_inverse_loss 39.1201
+pi_max 0.2505
+q_taken_mean 0.0803
+return_mean 0.0000
+return_std 0.0000
+target_mean 0.1099
+td_error_abs 1.1698
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 5500
+Found cell: 89
+Found cell: 89
+Found cell: 82
+Found cell: 90
+Found cell: 77
+Found cell: 110
+Found cell: 131
+Found cell: 71
+Found cell: 101
+Found cell: 112
+advantage_mean -0.0008
+agent_grad_norm 0.0500
+coma_loss -0.0061
+critic_grad_norm 2.6116
+critic_loss 21.8163
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0039
+icm_reward_inverse_loss 39.1201
+pi_max 0.2505
+q_taken_mean 0.0803
+return_mean 0.0000
+return_std 0.0000
+target_mean 0.1099
+td_error_abs 1.1698
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 6000
+Found cell: 124
+Found cell: 85
+Found cell: 70
+Found cell: 75
+Found cell: 119
+Found cell: 81
+Found cell: 68
+Found cell: 88
+Found cell: 89
+Found cell: 80
+advantage_mean -0.0005
+agent_grad_norm 0.0442
+coma_loss -0.0056
+critic_grad_norm 1.1478
+critic_loss 0.0856
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0032
+icm_reward_inverse_loss 39.1201
+pi_max 0.2599
+q_taken_mean 0.0621
+return_mean 0.0000
+return_std 0.0000
+target_mean -0.4056
+td_error_abs 0.4963
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 6500
+Found cell: 92
+Found cell: 103
+Found cell: 95
+Found cell: 81
+Found cell: 100
+Found cell: 99
+Found cell: 103
+Found cell: 77
+Found cell: 86
+Found cell: 95
+advantage_mean -0.0005
+agent_grad_norm 0.0442
+coma_loss -0.0056
+critic_grad_norm 1.1478
+critic_loss 0.0856
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0032
+icm_reward_inverse_loss 39.1201
+pi_max 0.2599
+q_taken_mean 0.0621
+return_mean 0.0000
+return_std 0.0000
+target_mean -0.4056
+td_error_abs 0.4963
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 7000
+Found cell: 93
+Found cell: 120
+Found cell: 72
+Found cell: 97
+Found cell: 105
+Found cell: 109
+Found cell: 77
+Found cell: 91
+Found cell: 108
+Found cell: 80
+advantage_mean -0.0008
+agent_grad_norm 0.0402
+coma_loss -0.0062
+critic_grad_norm 0.9581
+critic_loss 0.0662
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0027
+icm_reward_inverse_loss 39.1202
+pi_max 0.2693
+q_taken_mean 0.0286
+return_mean 0.0000
+return_std 0.0000
+target_mean -0.3622
+td_error_abs 0.4315
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 7500
+Found cell: 81
+Found cell: 85
+Found cell: 109
+Found cell: 90
+Found cell: 97
+Found cell: 97
+Found cell: 100
+Found cell: 106
+Found cell: 106
+Found cell: 86
+advantage_mean -0.0008
+agent_grad_norm 0.0402
+coma_loss -0.0062
+critic_grad_norm 0.9581
+critic_loss 0.0662
+ep_length_mean 50.0000
+go_explore_return 0.2000
+icm_reward_forward_loss 0.0027
+icm_reward_inverse_loss 39.1202
+pi_max 0.2693
+q_taken_mean 0.0286
+return_mean 0.0000
+return_std 0.0000
+target_mean -0.3622
+td_error_abs 0.4315
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 8000
+Found cell: 98
+Found cell: 73
+Found cell: 68
+Found cell: 115
+Found cell: 106
+Found cell: 102
+Found cell: 112
+Found cell: 104
+Found cell: 121
+Found cell: 84
+advantage_mean -0.0007
+agent_grad_norm 0.0359
+coma_loss -0.0056
+critic_grad_norm 0.7425
+critic_loss 0.0516
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0023
+icm_reward_inverse_loss 39.1202
+pi_max 0.2785
+q_taken_mean -0.0109
+return_mean 0.0000
+return_std 0.0000
+target_mean -0.3300
+td_error_abs 0.3720
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 8500
+Found cell: 87
+Found cell: 96
+Found cell: 101
+Found cell: 74
+Found cell: 95
+Found cell: 107
+Found cell: 91
+Found cell: 106
+Found cell: 113
+Found cell: 95
+advantage_mean -0.0007
+agent_grad_norm 0.0359
+coma_loss -0.0056
+critic_grad_norm 0.7425
+critic_loss 0.0516
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0023
+icm_reward_inverse_loss 39.1202
+pi_max 0.2785
+q_taken_mean -0.0109
+return_mean 0.0000
+return_std 0.0000
+target_mean -0.3300
+td_error_abs 0.3720
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 9000
+Found cell: 93
+Found cell: 82
+Found cell: 99
+Found cell: 104
+Found cell: 105
+Found cell: 114
+Found cell: 92
+Found cell: 98
+Found cell: 116
+Found cell: 104
+advantage_mean -0.0009
+agent_grad_norm 0.0319
+coma_loss -0.0048
+critic_grad_norm 0.5781
+critic_loss 0.0413
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0021
+icm_reward_inverse_loss 39.1200
+pi_max 0.2874
+q_taken_mean -0.0487
+return_mean 0.0000
+return_std 0.0000
+target_mean -0.3023
+td_error_abs 0.3300
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 9500
+Found cell: 80
+Found cell: 120
+Found cell: 63
+Found cell: 125
+Found cell: 93
+Found cell: 93
+Found cell: 93
+Found cell: 73
+Found cell: 116
+Found cell: 94
+advantage_mean -0.0009
+agent_grad_norm 0.0319
+coma_loss -0.0048
+critic_grad_norm 0.5781
+critic_loss 0.0413
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0021
+icm_reward_inverse_loss 39.1200
+pi_max 0.2874
+q_taken_mean -0.0487
+return_mean 0.0000
+return_std 0.0000
+target_mean -0.3023
+td_error_abs 0.3300
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 10000
+Found cell: 71
+Found cell: 75
+Found cell: 94
+Found cell: 73
+Found cell: 105
+Found cell: 104
+Found cell: 86
+Found cell: 90
+Found cell: 106
+Found cell: 111
+advantage_mean -0.0001
+agent_grad_norm 0.0294
+coma_loss -0.0027
+critic_grad_norm 0.4597
+critic_loss 0.0349
+ep_length_mean 50.0000
+go_explore_return 0.4000
+icm_reward_forward_loss 0.0019
+icm_reward_inverse_loss 39.1200
+pi_max 0.2974
+q_taken_mean -0.0813
+return_mean 0.0025
+return_std 0.0353
+target_mean -0.2838
+td_error_abs 0.3000
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 10500
+Found cell: 93
+Found cell: 92
+Found cell: 94
+Found cell: 95
+Found cell: 93
+Found cell: 84
+Found cell: 117
+Found cell: 97
+Found cell: 97
+Found cell: 108
+advantage_mean -0.0001
+agent_grad_norm 0.0294
+coma_loss -0.0027
+critic_grad_norm 0.4597
+critic_loss 0.0349
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0019
+icm_reward_inverse_loss 39.1200
+pi_max 0.2974
+q_taken_mean -0.0813
+return_mean 0.0025
+return_std 0.0353
+target_mean -0.2838
+td_error_abs 0.3000
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 11000
+Found cell: 114
+Found cell: 97
+Found cell: 89
+Found cell: 103
+Found cell: 108
+Found cell: 115
+Found cell: 85
+Found cell: 79
+Found cell: 101
+Found cell: 96
+advantage_mean 0.0002
+agent_grad_norm 0.0291
+coma_loss -0.0020
+critic_grad_norm 0.3633
+critic_loss 0.0298
+ep_length_mean 50.0000
+go_explore_return 0.2000
+icm_reward_forward_loss 0.0017
+icm_reward_inverse_loss 39.1202
+pi_max 0.3097
+q_taken_mean -0.1109
+return_mean 0.0025
+return_std 0.0353
+target_mean -0.2606
+td_error_abs 0.2745
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 11500
+Found cell: 74
+Found cell: 88
+Found cell: 71
+Found cell: 89
+Found cell: 75
+Found cell: 84
+Found cell: 88
+Found cell: 69
+Found cell: 96
+Found cell: 83
+advantage_mean 0.0002
+agent_grad_norm 0.0291
+coma_loss -0.0020
+critic_grad_norm 0.3633
+critic_loss 0.0298
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0017
+icm_reward_inverse_loss 39.1202
+pi_max 0.3097
+q_taken_mean -0.1109
+return_mean 0.0025
+return_std 0.0353
+target_mean -0.2606
+td_error_abs 0.2745
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 12000
+Found cell: 85
+Found cell: 98
+Found cell: 110
+Found cell: 96
+Found cell: 62
+Found cell: 103
+Found cell: 96
+Found cell: 111
+Found cell: 73
+Found cell: 82
+advantage_mean 0.0003
+agent_grad_norm 0.0256
+coma_loss -0.0010
+critic_grad_norm 0.2753
+critic_loss 0.0255
+ep_length_mean 50.0000
+go_explore_return 0.2000
+icm_reward_forward_loss 0.0016
+icm_reward_inverse_loss 39.1202
+pi_max 0.3191
+q_taken_mean -0.1434
+return_mean 0.0025
+return_std 0.0353
+target_mean -0.2423
+td_error_abs 0.2555
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 12500
+Found cell: 115
+Found cell: 83
+Found cell: 77
+Found cell: 121
+Found cell: 110
+Found cell: 106
+Found cell: 90
+Found cell: 93
+Found cell: 101
+Found cell: 84
+advantage_mean 0.0003
+agent_grad_norm 0.0256
+coma_loss -0.0010
+critic_grad_norm 0.2753
+critic_loss 0.0255
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0016
+icm_reward_inverse_loss 39.1202
+pi_max 0.3191
+q_taken_mean -0.1434
+return_mean 0.0025
+return_std 0.0353
+target_mean -0.2423
+td_error_abs 0.2555
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 13000
+Found cell: 95
+Found cell: 76
+Found cell: 82
+Found cell: 96
+Found cell: 107
+Found cell: 123
+Found cell: 99
+Found cell: 112
+Found cell: 98
+Found cell: 83
+advantage_mean 0.0005
+agent_grad_norm 0.0257
+coma_loss 0.0005
+critic_grad_norm 0.2347
+critic_loss 0.0239
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0016
+icm_reward_inverse_loss 39.1202
+pi_max 0.3300
+q_taken_mean -0.1730
+return_mean 0.0025
+return_std 0.0353
+target_mean -0.2188
+td_error_abs 0.2487
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 13500
+Found cell: 86
+Found cell: 110
+Found cell: 80
+Found cell: 90
+Found cell: 100
+Found cell: 98
+Found cell: 83
+Found cell: 91
+Found cell: 87
+Found cell: 101
+advantage_mean 0.0005
+agent_grad_norm 0.0257
+coma_loss 0.0005
+critic_grad_norm 0.2347
+critic_loss 0.0239
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0016
+icm_reward_inverse_loss 39.1202
+pi_max 0.3300
+q_taken_mean -0.1730
+return_mean 0.0025
+return_std 0.0353
+target_mean -0.2188
+td_error_abs 0.2487
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 14000
+Found cell: 87
+Found cell: 72
+Found cell: 95
+Found cell: 88
+Found cell: 97
+Found cell: 105
+Found cell: 109
+Found cell: 89
+Found cell: 121
+Found cell: 94
+advantage_mean 0.0006
+agent_grad_norm 0.0280
+coma_loss 0.0012
+critic_grad_norm 0.2279
+critic_loss 0.0217
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0015
+icm_reward_inverse_loss 39.1198
+pi_max 0.3398
+q_taken_mean -0.1979
+return_mean 0.0025
+return_std 0.0353
+target_mean -0.2126
+td_error_abs 0.2392
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 14500
+Found cell: 95
+Found cell: 109
+Found cell: 83
+Found cell: 80
+Found cell: 95
+Found cell: 95
+Found cell: 124
+Found cell: 113
+Found cell: 109
+Found cell: 82
+advantage_mean 0.0006
+agent_grad_norm 0.0280
+coma_loss 0.0012
+critic_grad_norm 0.2279
+critic_loss 0.0217
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0015
+icm_reward_inverse_loss 39.1198
+pi_max 0.3398
+q_taken_mean -0.1979
+return_mean 0.0025
+return_std 0.0353
+target_mean -0.2126
+td_error_abs 0.2392
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 15000
+Found cell: 60
+Found cell: 67
+Found cell: 82
+Found cell: 103
+Found cell: 105
+Found cell: 100
+Found cell: 92
+Found cell: 114
+Found cell: 98
+Found cell: 74
+advantage_mean 0.0003
+agent_grad_norm 0.0276
+coma_loss 0.0013
+critic_grad_norm 0.2218
+critic_loss 0.0215
+ep_length_mean 50.0000
+go_explore_return 0.2000
+icm_reward_forward_loss 0.0015
+icm_reward_inverse_loss 39.1197
+pi_max 0.3449
+q_taken_mean -0.2145
+return_mean 0.0025
+return_std 0.0353
+target_mean -0.1902
+td_error_abs 0.2404
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 15500
+Found cell: 81
+Found cell: 98
+Found cell: 108
+Found cell: 126
+Found cell: 87
+Found cell: 96
+Found cell: 96
+Found cell: 106
+Found cell: 117
+Found cell: 115
+advantage_mean 0.0003
+agent_grad_norm 0.0276
+coma_loss 0.0013
+critic_grad_norm 0.2218
+critic_loss 0.0215
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0015
+icm_reward_inverse_loss 39.1197
+pi_max 0.3449
+q_taken_mean -0.2145
+return_mean 0.0025
+return_std 0.0353
+target_mean -0.1902
+td_error_abs 0.2404
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 16000
+Found cell: 103
+Found cell: 112
+Found cell: 81
+Found cell: 96
+Found cell: 102
+Found cell: 111
+Found cell: 96
+Found cell: 93
+Found cell: 117
+Found cell: 84
+advantage_mean 0.0001
+agent_grad_norm 0.0241
+coma_loss 0.0012
+critic_grad_norm 0.2450
+critic_loss 0.0234
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0014
+icm_reward_inverse_loss 39.1196
+pi_max 0.3461
+q_taken_mean -0.2284
+return_mean 0.0025
+return_std 0.0353
+target_mean -0.1734
+td_error_abs 0.2527
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 16500
+Found cell: 101
+Found cell: 79
+Found cell: 95
+Found cell: 103
+Found cell: 93
+Found cell: 65
+Found cell: 78
+Found cell: 88
+Found cell: 78
+Found cell: 100
+advantage_mean 0.0001
+agent_grad_norm 0.0241
+coma_loss 0.0012
+critic_grad_norm 0.2450
+critic_loss 0.0234
+ep_length_mean 50.0000
+go_explore_return 0.2000
+icm_reward_forward_loss 0.0014
+icm_reward_inverse_loss 39.1196
+pi_max 0.3461
+q_taken_mean -0.2284
+return_mean 0.0025
+return_std 0.0353
+target_mean -0.1734
+td_error_abs 0.2527
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 17000
+Found cell: 98
+Found cell: 110
+Found cell: 109
+Found cell: 101
+Found cell: 114
+Found cell: 104
+Found cell: 81
+Found cell: 87
+Found cell: 101
+Found cell: 105
+advantage_mean 0.0000
+agent_grad_norm 0.0250
+coma_loss 0.0017
+critic_grad_norm 0.2795
+critic_loss 0.0236
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0014
+icm_reward_inverse_loss 39.1194
+pi_max 0.3507
+q_taken_mean -0.2414
+return_mean 0.0025
+return_std 0.0353
+target_mean -0.1644
+td_error_abs 0.2555
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 17500
+Found cell: 79
+Found cell: 81
+Found cell: 89
+Found cell: 88
+Found cell: 81
+Found cell: 112
+Found cell: 98
+Found cell: 84
+Found cell: 107
+Found cell: 106
+advantage_mean 0.0000
+agent_grad_norm 0.0250
+coma_loss 0.0017
+critic_grad_norm 0.2795
+critic_loss 0.0236
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0014
+icm_reward_inverse_loss 39.1194
+pi_max 0.3507
+q_taken_mean -0.2414
+return_mean 0.0025
+return_std 0.0353
+target_mean -0.1644
+td_error_abs 0.2555
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 18000
+Found cell: 83
+Found cell: 110
+Found cell: 102
+Found cell: 91
+Found cell: 111
+Found cell: 88
+Found cell: 103
+Found cell: 94
+Found cell: 117
+Found cell: 83
+advantage_mean -0.0004
+agent_grad_norm 0.0228
+coma_loss 0.0005
+critic_grad_norm 0.2837
+critic_loss 0.0237
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0014
+icm_reward_inverse_loss 39.1193
+pi_max 0.3513
+q_taken_mean -0.2451
+return_mean 0.0025
+return_std 0.0353
+target_mean -0.1614
+td_error_abs 0.2567
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 18500
+Found cell: 106
+Found cell: 75
+Found cell: 72
+Found cell: 112
+Found cell: 98
+Found cell: 99
+Found cell: 112
+Found cell: 94
+Found cell: 113
+Found cell: 81
+advantage_mean -0.0004
+agent_grad_norm 0.0228
+coma_loss 0.0005
+critic_grad_norm 0.2837
+critic_loss 0.0237
+ep_length_mean 50.0000
+go_explore_return 0.2000
+icm_reward_forward_loss 0.0014
+icm_reward_inverse_loss 39.1193
+pi_max 0.3513
+q_taken_mean -0.2451
+return_mean 0.0025
+return_std 0.0353
+target_mean -0.1614
+td_error_abs 0.2567
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 19000
+Found cell: 97
+Found cell: 81
+Found cell: 86
+Found cell: 84
+Found cell: 85
+Found cell: 109
+Found cell: 123
+Found cell: 77
+Found cell: 75
+Found cell: 105
+advantage_mean -0.0006
+agent_grad_norm 0.0192
+coma_loss -0.0008
+critic_grad_norm 0.2846
+critic_loss 0.0244
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0014
+icm_reward_inverse_loss 39.1201
+pi_max 0.3504
+q_taken_mean -0.2454
+return_mean 0.0025
+return_std 0.0353
+target_mean -0.1469
+td_error_abs 0.2619
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 19500
+Found cell: 104
+Found cell: 101
+Found cell: 82
+Found cell: 100
+Found cell: 105
+Found cell: 75
+Found cell: 80
+Found cell: 93
+Found cell: 114
+Found cell: 112
+advantage_mean -0.0006
+agent_grad_norm 0.0192
+coma_loss -0.0008
+critic_grad_norm 0.2846
+critic_loss 0.0244
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0014
+icm_reward_inverse_loss 39.1201
+pi_max 0.3504
+q_taken_mean -0.2454
+return_mean 0.0025
+return_std 0.0353
+target_mean -0.1469
+td_error_abs 0.2619
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 20000
+Found cell: 113
+Found cell: 89
+Found cell: 112
+Found cell: 79
+Found cell: 76
+Found cell: 81
+Found cell: 82
+Found cell: 99
+Found cell: 121
+Found cell: 89
+advantage_mean -0.0007
+agent_grad_norm 0.0178
+coma_loss -0.0019
+critic_grad_norm 0.2797
+critic_loss 0.0244
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0014
+icm_reward_inverse_loss 39.1204
+pi_max 0.3501
+q_taken_mean -0.2438
+return_mean 0.0017
+return_std 0.0235
+target_mean -0.1437
+td_error_abs 0.2623
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 20500
+Found cell: 94
+Found cell: 89
+Found cell: 93
+Found cell: 61
+Found cell: 93
+Found cell: 86
+Found cell: 130
+Found cell: 102
+Found cell: 86
+Found cell: 73
+advantage_mean -0.0007
+agent_grad_norm 0.0178
+coma_loss -0.0019
+critic_grad_norm 0.2797
+critic_loss 0.0244
+ep_length_mean 50.0000
+go_explore_return 0.2000
+icm_reward_forward_loss 0.0014
+icm_reward_inverse_loss 39.1204
+pi_max 0.3501
+q_taken_mean -0.2438
+return_mean 0.0017
+return_std 0.0235
+target_mean -0.1437
+td_error_abs 0.2623
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 21000
+Found cell: 115
+Found cell: 86
+Found cell: 94
+Found cell: 100
+Found cell: 81
+Found cell: 114
+Found cell: 93
+Found cell: 85
+Found cell: 81
+Found cell: 128
+advantage_mean -0.0009
+agent_grad_norm 0.0179
+coma_loss -0.0031
+critic_grad_norm 0.2415
+critic_loss 0.0225
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0014
+icm_reward_inverse_loss 39.1201
+pi_max 0.3469
+q_taken_mean -0.2348
+return_mean 0.0017
+return_std 0.0235
+target_mean -0.1476
+td_error_abs 0.2519
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 21500
+Found cell: 95
+Found cell: 96
+Found cell: 92
+Found cell: 97
+Found cell: 102
+Found cell: 88
+Found cell: 91
+Found cell: 81
+Found cell: 86
+Found cell: 102
+advantage_mean -0.0009
+agent_grad_norm 0.0179
+coma_loss -0.0031
+critic_grad_norm 0.2415
+critic_loss 0.0225
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0014
+icm_reward_inverse_loss 39.1201
+pi_max 0.3469
+q_taken_mean -0.2348
+return_mean 0.0017
+return_std 0.0235
+target_mean -0.1476
+td_error_abs 0.2519
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 22000
+Found cell: 78
+Found cell: 105
+Found cell: 90
+Found cell: 77
+Found cell: 111
+Found cell: 93
+Found cell: 89
+Found cell: 78
+Found cell: 94
+Found cell: 93
+advantage_mean -0.0007
+agent_grad_norm 0.0174
+coma_loss -0.0039
+critic_grad_norm 0.2016
+critic_loss 0.0220
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0014
+icm_reward_inverse_loss 39.1203
+pi_max 0.3418
+q_taken_mean -0.2165
+return_mean 0.0017
+return_std 0.0235
+target_mean -0.1418
+td_error_abs 0.2486
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 22500
+Found cell: 99
+Found cell: 106
+Found cell: 91
+Found cell: 92
+Found cell: 104
+Found cell: 105
+Found cell: 87
+Found cell: 91
+Found cell: 75
+Found cell: 104
+advantage_mean -0.0007
+agent_grad_norm 0.0174
+coma_loss -0.0039
+critic_grad_norm 0.2016
+critic_loss 0.0220
+ep_length_mean 50.0000
+go_explore_return 0.2000
+icm_reward_forward_loss 0.0014
+icm_reward_inverse_loss 39.1203
+pi_max 0.3418
+q_taken_mean -0.2165
+return_mean 0.0017
+return_std 0.0235
+target_mean -0.1418
+td_error_abs 0.2486
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 23000
+Found cell: 90
+Found cell: 75
+Found cell: 87
+Found cell: 99
+Found cell: 81
+Found cell: 107
+Found cell: 91
+Found cell: 94
+Found cell: 113
+Found cell: 96
+advantage_mean -0.0006
+agent_grad_norm 0.0194
+coma_loss -0.0047
+critic_grad_norm 0.1830
+critic_loss 0.0226
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0013
+icm_reward_inverse_loss 39.1204
+pi_max 0.3377
+q_taken_mean -0.2000
+return_mean 0.0017
+return_std 0.0235
+target_mean -0.1360
+td_error_abs 0.2521
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 23500
+Found cell: 62
+Found cell: 113
+Found cell: 111
+Found cell: 114
+Found cell: 106
+Found cell: 110
+Found cell: 96
+Found cell: 92
+Found cell: 97
+Found cell: 108
+advantage_mean -0.0006
+agent_grad_norm 0.0194
+coma_loss -0.0047
+critic_grad_norm 0.1830
+critic_loss 0.0226
+ep_length_mean 50.0000
+go_explore_return 0.4000
+icm_reward_forward_loss 0.0013
+icm_reward_inverse_loss 39.1204
+pi_max 0.3377
+q_taken_mean -0.2000
+return_mean 0.0017
+return_std 0.0235
+target_mean -0.1360
+td_error_abs 0.2521
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 24000
+Found cell: 77
+Found cell: 82
+Found cell: 64
+Found cell: 86
+Found cell: 93
+Found cell: 75
+Found cell: 77
+Found cell: 95
+Found cell: 78
+Found cell: 77
+advantage_mean -0.0006
+agent_grad_norm 0.0181
+coma_loss -0.0048
+critic_grad_norm 0.1606
+critic_loss 0.0218
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0013
+icm_reward_inverse_loss 39.1199
+pi_max 0.3394
+q_taken_mean -0.1884
+return_mean 0.0017
+return_std 0.0235
+target_mean -0.1336
+td_error_abs 0.2478
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 24500
+Found cell: 103
+Found cell: 116
+Found cell: 115
+Found cell: 88
+Found cell: 105
+Found cell: 90
+Found cell: 98
+Found cell: 104
+Found cell: 102
+Found cell: 101
+advantage_mean -0.0006
+agent_grad_norm 0.0181
+coma_loss -0.0048
+critic_grad_norm 0.1606
+critic_loss 0.0218
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0013
+icm_reward_inverse_loss 39.1199
+pi_max 0.3394
+q_taken_mean -0.1884
+return_mean 0.0017
+return_std 0.0235
+target_mean -0.1336
+td_error_abs 0.2478
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 25000
+Found cell: 95
+Found cell: 78
+Found cell: 88
+Found cell: 86
+Found cell: 90
+Found cell: 82
+Found cell: 106
+Found cell: 78
+Found cell: 65
+Found cell: 75
+advantage_mean -0.0004
+agent_grad_norm 0.0177
+coma_loss -0.0043
+critic_grad_norm 0.1381
+critic_loss 0.0205
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0012
+icm_reward_inverse_loss 39.1201
+pi_max 0.3408
+q_taken_mean -0.1747
+return_mean 0.0017
+return_std 0.0235
+target_mean -0.1321
+td_error_abs 0.2398
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 25500
+Found cell: 86
+Found cell: 93
+Found cell: 100
+Found cell: 88
+Found cell: 107
+Found cell: 99
+Found cell: 87
+Found cell: 87
+Found cell: 73
+Found cell: 94
+advantage_mean -0.0004
+agent_grad_norm 0.0177
+coma_loss -0.0043
+critic_grad_norm 0.1381
+critic_loss 0.0205
+ep_length_mean 50.0000
+go_explore_return 0.2000
+icm_reward_forward_loss 0.0012
+icm_reward_inverse_loss 39.1201
+pi_max 0.3408
+q_taken_mean -0.1747
+return_mean 0.0017
+return_std 0.0235
+target_mean -0.1321
+td_error_abs 0.2398
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 26000
+Found cell: 74
+Found cell: 111
+Found cell: 113
+Found cell: 83
+Found cell: 101
+Found cell: 93
+Found cell: 100
+Found cell: 111
+Found cell: 110
+Found cell: 103
+advantage_mean -0.0001
+agent_grad_norm 0.0165
+coma_loss -0.0037
+critic_grad_norm 0.1467
+critic_loss 0.0211
+ep_length_mean 50.0000
+go_explore_return 0.4000
+icm_reward_forward_loss 0.0013
+icm_reward_inverse_loss 39.1203
+pi_max 0.3492
+q_taken_mean -0.1644
+return_mean 0.0017
+return_std 0.0235
+target_mean -0.1147
+td_error_abs 0.2429
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 26500
+Found cell: 89
+Found cell: 85
+Found cell: 108
+Found cell: 83
+Found cell: 105
+Found cell: 111
+Found cell: 113
+Found cell: 75
+Found cell: 93
+Found cell: 85
+advantage_mean -0.0001
+agent_grad_norm 0.0165
+coma_loss -0.0037
+critic_grad_norm 0.1467
+critic_loss 0.0211
+ep_length_mean 50.0000
+go_explore_return 0.2000
+icm_reward_forward_loss 0.0013
+icm_reward_inverse_loss 39.1203
+pi_max 0.3492
+q_taken_mean -0.1644
+return_mean 0.0017
+return_std 0.0235
+target_mean -0.1147
+td_error_abs 0.2429
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 27000
+Found cell: 113
+Found cell: 99
+Found cell: 116
+Found cell: 83
+Found cell: 97
+Found cell: 97
+Found cell: 89
+Found cell: 93
+Found cell: 96
+Found cell: 71
+advantage_mean 0.0000
+agent_grad_norm 0.0131
+coma_loss -0.0032
+critic_grad_norm 0.1449
+critic_loss 0.0221
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0013
+icm_reward_inverse_loss 39.1198
+pi_max 0.3572
+q_taken_mean -0.1579
+return_mean 0.0017
+return_std 0.0235
+target_mean -0.1040
+td_error_abs 0.2490
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 27500
+Found cell: 54
+Found cell: 86
+Found cell: 69
+Found cell: 98
+Found cell: 91
+Found cell: 97
+Found cell: 87
+Found cell: 101
+Found cell: 98
+Found cell: 125
+advantage_mean 0.0000
+agent_grad_norm 0.0131
+coma_loss -0.0032
+critic_grad_norm 0.1449
+critic_loss 0.0221
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0013
+icm_reward_inverse_loss 39.1198
+pi_max 0.3572
+q_taken_mean -0.1579
+return_mean 0.0017
+return_std 0.0235
+target_mean -0.1040
+td_error_abs 0.2490
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 28000
+Found cell: 92
+Found cell: 131
+Found cell: 84
+Found cell: 101
+Found cell: 129
+Found cell: 88
+Found cell: 107
+Found cell: 81
+Found cell: 99
+Found cell: 115
+advantage_mean 0.0002
+agent_grad_norm 0.0110
+coma_loss -0.0025
+critic_grad_norm 0.1280
+critic_loss 0.0209
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0012
+icm_reward_inverse_loss 39.1195
+pi_max 0.3630
+q_taken_mean -0.1477
+return_mean 0.0017
+return_std 0.0235
+target_mean -0.0989
+td_error_abs 0.2406
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 28500
+Found cell: 105
+Found cell: 97
+Found cell: 102
+Found cell: 96
+Found cell: 105
+Found cell: 77
+Found cell: 63
+Found cell: 78
+Found cell: 88
+Found cell: 79
+advantage_mean 0.0002
+agent_grad_norm 0.0110
+coma_loss -0.0025
+critic_grad_norm 0.1280
+critic_loss 0.0209
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0012
+icm_reward_inverse_loss 39.1195
+pi_max 0.3630
+q_taken_mean -0.1477
+return_mean 0.0017
+return_std 0.0235
+target_mean -0.0989
+td_error_abs 0.2406
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 29000
+Found cell: 110
+Found cell: 102
+Found cell: 96
+Found cell: 63
+Found cell: 102
+Found cell: 93
+Found cell: 115
+Found cell: 92
+Found cell: 57
+Found cell: 84
+advantage_mean 0.0004
+agent_grad_norm 0.0106
+coma_loss -0.0021
+critic_grad_norm 0.1231
+critic_loss 0.0205
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0012
+icm_reward_inverse_loss 39.1198
+pi_max 0.3677
+q_taken_mean -0.1337
+return_mean 0.0017
+return_std 0.0235
+target_mean -0.0894
+td_error_abs 0.2380
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 29500
+Found cell: 105
+Found cell: 108
+Found cell: 119
+Found cell: 98
+Found cell: 75
+Found cell: 104
+Found cell: 99
+Found cell: 85
+Found cell: 86
+Found cell: 79
+advantage_mean 0.0004
+agent_grad_norm 0.0106
+coma_loss -0.0021
+critic_grad_norm 0.1231
+critic_loss 0.0205
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0012
+icm_reward_inverse_loss 39.1198
+pi_max 0.3677
+q_taken_mean -0.1337
+return_mean 0.0017
+return_std 0.0235
+target_mean -0.0894
+td_error_abs 0.2380
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 30000
+Found cell: 81
+Found cell: 119
+Found cell: 113
+Found cell: 98
+Found cell: 72
+Found cell: 101
+Found cell: 128
+Found cell: 95
+Found cell: 107
+Found cell: 95
+advantage_mean 0.0002
+agent_grad_norm 0.0092
+coma_loss -0.0021
+critic_grad_norm 0.1181
+critic_loss 0.0208
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0012
+icm_reward_inverse_loss 39.1191
+pi_max 0.3732
+q_taken_mean -0.1257
+return_mean 0.0013
+return_std 0.0176
+target_mean -0.0861
+td_error_abs 0.2398
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 30500
+Found cell: 92
+Found cell: 117
+Found cell: 79
+Found cell: 100
+Found cell: 90
+Found cell: 113
+Found cell: 100
+Found cell: 81
+Found cell: 107
+Found cell: 65
+advantage_mean 0.0002
+agent_grad_norm 0.0092
+coma_loss -0.0021
+critic_grad_norm 0.1181
+critic_loss 0.0208
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0012
+icm_reward_inverse_loss 39.1191
+pi_max 0.3732
+q_taken_mean -0.1257
+return_mean 0.0013
+return_std 0.0176
+target_mean -0.0861
+td_error_abs 0.2398
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 31000
+Found cell: 86
+Found cell: 110
+Found cell: 92
+Found cell: 120
+Found cell: 100
+Found cell: 80
+Found cell: 100
+Found cell: 101
+Found cell: 81
+Found cell: 100
+advantage_mean 0.0001
+agent_grad_norm 0.0094
+coma_loss -0.0022
+critic_grad_norm 0.0938
+critic_loss 0.0198
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0011
+icm_reward_inverse_loss 39.1189
+pi_max 0.3747
+q_taken_mean -0.1171
+return_mean 0.0013
+return_std 0.0176
+target_mean -0.0955
+td_error_abs 0.2342
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 31500
+Found cell: 96
+Found cell: 95
+Found cell: 81
+Found cell: 109
+Found cell: 99
+Found cell: 104
+Found cell: 88
+Found cell: 111
+Found cell: 73
+Found cell: 97
+advantage_mean 0.0001
+agent_grad_norm 0.0094
+coma_loss -0.0022
+critic_grad_norm 0.0938
+critic_loss 0.0198
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0011
+icm_reward_inverse_loss 39.1189
+pi_max 0.3747
+q_taken_mean -0.1171
+return_mean 0.0013
+return_std 0.0176
+target_mean -0.0955
+td_error_abs 0.2342
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 32000
+Found cell: 86
+Found cell: 127
+Found cell: 90
+Found cell: 83
+Found cell: 117
+Found cell: 101
+Found cell: 96
+Found cell: 91
+Found cell: 89
+Found cell: 95
+advantage_mean -0.0001
+agent_grad_norm 0.0092
+coma_loss -0.0023
+critic_grad_norm 0.0851
+critic_loss 0.0184
+ep_length_mean 50.0000
+go_explore_return 0.2000
+icm_reward_forward_loss 0.0011
+icm_reward_inverse_loss 39.1191
+pi_max 0.3767
+q_taken_mean -0.1086
+return_mean 0.0013
+return_std 0.0176
+target_mean -0.0913
+td_error_abs 0.2254
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 32500
+Found cell: 100
+Found cell: 108
+Found cell: 95
+Found cell: 79
+Found cell: 94
+Found cell: 86
+Found cell: 110
+Found cell: 88
+Found cell: 92
+Found cell: 98
+advantage_mean -0.0001
+agent_grad_norm 0.0092
+coma_loss -0.0023
+critic_grad_norm 0.0851
+critic_loss 0.0184
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0011
+icm_reward_inverse_loss 39.1191
+pi_max 0.3767
+q_taken_mean -0.1086
+return_mean 0.0013
+return_std 0.0176
+target_mean -0.0913
+td_error_abs 0.2254
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 33000
+Found cell: 101
+Found cell: 110
+Found cell: 83
+Found cell: 116
+Found cell: 102
+Found cell: 93
+Found cell: 75
+Found cell: 104
+Found cell: 87
+Found cell: 85
+advantage_mean -0.0000
+agent_grad_norm 0.0075
+coma_loss -0.0021
+critic_grad_norm 0.0794
+critic_loss 0.0181
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0011
+icm_reward_inverse_loss 39.1195
+pi_max 0.3812
+q_taken_mean -0.1000
+return_mean 0.0013
+return_std 0.0176
+target_mean -0.0836
+td_error_abs 0.2243
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 33500
+Found cell: 97
+Found cell: 104
+Found cell: 102
+Found cell: 104
+Found cell: 91
+Found cell: 98
+Found cell: 115
+Found cell: 88
+Found cell: 74
+Found cell: 66
+advantage_mean -0.0000
+agent_grad_norm 0.0075
+coma_loss -0.0021
+critic_grad_norm 0.0794
+critic_loss 0.0181
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0011
+icm_reward_inverse_loss 39.1195
+pi_max 0.3812
+q_taken_mean -0.1000
+return_mean 0.0013
+return_std 0.0176
+target_mean -0.0836
+td_error_abs 0.2243
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 34000
+Found cell: 94
+Found cell: 93
+Found cell: 113
+Found cell: 117
+Found cell: 90
+Found cell: 104
+Found cell: 93
+Found cell: 105
+Found cell: 90
+Found cell: 108
+advantage_mean -0.0002
+agent_grad_norm 0.0072
+coma_loss -0.0024
+critic_grad_norm 0.0691
+critic_loss 0.0178
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0011
+icm_reward_inverse_loss 39.1196
+pi_max 0.3827
+q_taken_mean -0.0916
+return_mean 0.0013
+return_std 0.0176
+target_mean -0.0845
+td_error_abs 0.2215
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 34500
+Found cell: 98
+Found cell: 83
+Found cell: 78
+Found cell: 96
+Found cell: 119
+Found cell: 84
+Found cell: 88
+Found cell: 90
+Found cell: 95
+Found cell: 80
+advantage_mean -0.0002
+agent_grad_norm 0.0072
+coma_loss -0.0024
+critic_grad_norm 0.0691
+critic_loss 0.0178
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0011
+icm_reward_inverse_loss 39.1196
+pi_max 0.3827
+q_taken_mean -0.0916
+return_mean 0.0013
+return_std 0.0176
+target_mean -0.0845
+td_error_abs 0.2215
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 35000
+Found cell: 93
+Found cell: 110
+Found cell: 98
+Found cell: 114
+Found cell: 83
+Found cell: 108
+Found cell: 95
+Found cell: 61
+Found cell: 115
+Found cell: 97
+advantage_mean -0.0001
+agent_grad_norm 0.0074
+coma_loss -0.0026
+critic_grad_norm 0.0691
+critic_loss 0.0179
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0011
+icm_reward_inverse_loss 39.1201
+pi_max 0.3836
+q_taken_mean -0.0847
+return_mean 0.0013
+return_std 0.0176
+target_mean -0.0763
+td_error_abs 0.2212
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 35500
+Found cell: 77
+Found cell: 91
+Found cell: 90
+Found cell: 91
+Found cell: 104
+Found cell: 104
+Found cell: 76
+Found cell: 102
+Found cell: 92
+Found cell: 69
+advantage_mean -0.0001
+agent_grad_norm 0.0074
+coma_loss -0.0026
+critic_grad_norm 0.0691
+critic_loss 0.0179
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0011
+icm_reward_inverse_loss 39.1201
+pi_max 0.3836
+q_taken_mean -0.0847
+return_mean 0.0013
+return_std 0.0176
+target_mean -0.0763
+td_error_abs 0.2212
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 36000
+Found cell: 80
+Found cell: 93
+Found cell: 86
+Found cell: 93
+Found cell: 115
+Found cell: 119
+Found cell: 75
+Found cell: 78
+Found cell: 111
+Found cell: 89
+advantage_mean -0.0002
+agent_grad_norm 0.0074
+coma_loss -0.0027
+critic_grad_norm 0.0735
+critic_loss 0.0177
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0011
+icm_reward_inverse_loss 39.1202
+pi_max 0.3897
+q_taken_mean -0.0766
+return_mean 0.0013
+return_std 0.0176
+target_mean -0.0635
+td_error_abs 0.2172
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 36500
+Found cell: 91
+Found cell: 92
+Found cell: 90
+Found cell: 95
+Found cell: 97
+Found cell: 91
+Found cell: 89
+Found cell: 126
+Found cell: 116
+Found cell: 128
+advantage_mean -0.0002
+agent_grad_norm 0.0074
+coma_loss -0.0027
+critic_grad_norm 0.0735
+critic_loss 0.0177
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0011
+icm_reward_inverse_loss 39.1202
+pi_max 0.3897
+q_taken_mean -0.0766
+return_mean 0.0013
+return_std 0.0176
+target_mean -0.0635
+td_error_abs 0.2172
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 37000
+Found cell: 101
+Found cell: 112
+Found cell: 69
+Found cell: 105
+Found cell: 77
+Found cell: 103
+Found cell: 88
+Found cell: 103
+Found cell: 79
+Found cell: 93
+advantage_mean -0.0000
+agent_grad_norm 0.0074
+coma_loss -0.0029
+critic_grad_norm 0.0701
+critic_loss 0.0174
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0011
+icm_reward_inverse_loss 39.1203
+pi_max 0.3920
+q_taken_mean -0.0725
+return_mean 0.0013
+return_std 0.0176
+target_mean -0.0614
+td_error_abs 0.2141
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 37500
+Found cell: 113
+Found cell: 110
+Found cell: 102
+Found cell: 131
+Found cell: 96
+Found cell: 77
+Found cell: 88
+Found cell: 98
+Found cell: 117
+Found cell: 102
+advantage_mean -0.0000
+agent_grad_norm 0.0074
+coma_loss -0.0029
+critic_grad_norm 0.0701
+critic_loss 0.0174
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0011
+icm_reward_inverse_loss 39.1203
+pi_max 0.3920
+q_taken_mean -0.0725
+return_mean 0.0013
+return_std 0.0176
+target_mean -0.0614
+td_error_abs 0.2141
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 38000
+Found cell: 116
+Found cell: 101
+Found cell: 102
+Found cell: 100
+Found cell: 89
+Found cell: 91
+Found cell: 96
+Found cell: 90
+Found cell: 89
+Found cell: 109
+advantage_mean -0.0001
+agent_grad_norm 0.0074
+coma_loss -0.0029
+critic_grad_norm 0.0665
+critic_loss 0.0175
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0011
+icm_reward_inverse_loss 39.1203
+pi_max 0.3932
+q_taken_mean -0.0689
+return_mean 0.0013
+return_std 0.0176
+target_mean -0.0564
+td_error_abs 0.2149
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 38500
+Found cell: 119
+Found cell: 79
+Found cell: 98
+Found cell: 91
+Found cell: 88
+Found cell: 98
+Found cell: 89
+Found cell: 99
+Found cell: 90
+Found cell: 98
+advantage_mean -0.0001
+agent_grad_norm 0.0074
+coma_loss -0.0029
+critic_grad_norm 0.0665
+critic_loss 0.0175
+ep_length_mean 50.0000
+go_explore_return 0.4000
+icm_reward_forward_loss 0.0011
+icm_reward_inverse_loss 39.1203
+pi_max 0.3932
+q_taken_mean -0.0689
+return_mean 0.0013
+return_std 0.0176
+target_mean -0.0564
+td_error_abs 0.2149
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 39000
+Found cell: 107
+Found cell: 98
+Found cell: 72
+Found cell: 91
+Found cell: 98
+Found cell: 105
+Found cell: 91
+Found cell: 118
+Found cell: 86
+Found cell: 88
+advantage_mean 0.0001
+agent_grad_norm 0.0084
+coma_loss -0.0027
+critic_grad_norm 0.0697
+critic_loss 0.0176
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0011
+icm_reward_inverse_loss 39.1199
+pi_max 0.3961
+q_taken_mean -0.0700
+return_mean 0.0013
+return_std 0.0176
+target_mean -0.0585
+td_error_abs 0.2167
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 39500
+Found cell: 106
+Found cell: 89
+Found cell: 89
+Found cell: 91
+Found cell: 82
+Found cell: 93
+Found cell: 96
+Found cell: 101
+Found cell: 83
+Found cell: 90
+advantage_mean 0.0001
+agent_grad_norm 0.0084
+coma_loss -0.0027
+critic_grad_norm 0.0697
+critic_loss 0.0176
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0011
+icm_reward_inverse_loss 39.1199
+pi_max 0.3961
+q_taken_mean -0.0700
+return_mean 0.0013
+return_std 0.0176
+target_mean -0.0585
+td_error_abs 0.2167
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 40000
+Found cell: 125
+Found cell: 79
+Found cell: 97
+Found cell: 110
+Found cell: 97
+Found cell: 83
+Found cell: 98
+Found cell: 98
+Found cell: 98
+Found cell: 94
+advantage_mean -0.0000
+agent_grad_norm 0.0082
+coma_loss -0.0028
+critic_grad_norm 0.0669
+critic_loss 0.0174
+ep_length_mean 50.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0011
+icm_reward_inverse_loss 39.1202
+pi_max 0.4024
+q_taken_mean -0.0677
+return_mean 0.0010
+return_std 0.0141
+target_mean -0.0542
+td_error_abs 0.2159
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 40500
+Found cell: 70
+Found cell: 110
+Found cell: 121
+Found cell: 103
+Found cell: 104
+Found cell: 79
+Found cell: 94
+Found cell: 111
+Found cell: 82
+Found cell: 108
+advantage_mean -0.0000
+agent_grad_norm 0.0082
+coma_loss -0.0028
+critic_grad_norm 0.0669
+critic_loss 0.0174
+ep_length_mean 50.0000
+go_explore_return 0.2000
+icm_reward_forward_loss 0.0011
+icm_reward_inverse_loss 39.1202
+pi_max 0.4024
+q_taken_mean -0.0677
+return_mean 0.0010
+return_std 0.0141
+target_mean -0.0542
+td_error_abs 0.2159
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 41000
+Found cell: 88
+Found cell: 80
+Found cell: 115
+Found cell: 114
+Found cell: 78
+Found cell: 76

@@ -1,0 +1,33 @@
+Check term: 0
+<runners.go_exploration.Cell object at 0x000002F9C58E8D08>
+<runners.go_exploration.Cell object at 0x000002F9C58E8D08>
+<runners.go_exploration.Cell object at 0x000002F9C58E8D08>
+<runners.go_exploration.Cell object at 0x000002F9C58E8D08>
+<runners.go_exploration.Cell object at 0x000002F9C58E8D08>
+2500 2500 0.0
+<runners.go_exploration.Cell object at 0x000002F9870B3C48>
+<runners.go_exploration.Cell object at 0x000002F9870B3B88>
+<runners.go_exploration.Cell object at 0x000002F9870B3808>
+<runners.go_exploration.Cell object at 0x000002F9870B3208>
+<runners.go_exploration.Cell object at 0x000002F984ACE988>
+6039 3539 0.0
+<runners.go_exploration.Cell object at 0x000002F9870B3AC8>
+<runners.go_exploration.Cell object at 0x000002F984B11788>
+<runners.go_exploration.Cell object at 0x000002F984ACE5C8>
+<runners.go_exploration.Cell object at 0x000002F984AFA288>
+<runners.go_exploration.Cell object at 0x000002F984B11F88>
+10500 4461 0.0
+<runners.go_exploration.Cell object at 0x000002F9870B3248>
+<runners.go_exploration.Cell object at 0x000002F9870B3688>
+<runners.go_exploration.Cell object at 0x000002F984B115C8>
+<runners.go_exploration.Cell object at 0x000002F9870B3C88>
+<runners.go_exploration.Cell object at 0x000002F984B11308>
+15843 5343 0.0
+<runners.go_exploration.Cell object at 0x000002F9870B3788>
+<runners.go_exploration.Cell object at 0x000002F984B11E48>
+<runners.go_exploration.Cell object at 0x000002F983B39D88>
+<runners.go_exploration.Cell object at 0x000002F984B11DC8>
+<runners.go_exploration.Cell object at 0x000002F9870B3408>
+22743 6900 0.0
+<runners.go_exploration.Cell object at 0x000002F98263FF88>
+<runners.go_exploration.Cell object at 0x000002F984AFAFC8>

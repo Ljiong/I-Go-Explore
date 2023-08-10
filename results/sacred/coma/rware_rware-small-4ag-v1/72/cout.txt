@@ -1,0 +1,4 @@
+Check term: 0
+2
+[-inf, 0]
+1

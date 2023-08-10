@@ -1,0 +1,103 @@
+{
+  "artifacts": [],
+  "command": "my_main",
+  "experiment": {
+    "base_dir": "E:\\study\\Thesis\\epymarl\\src",
+    "dependencies": [
+      "munch==2.5.0",
+      "numpy==1.21.5",
+      "sacred==0.8.2",
+      "torch==1.13.1"
+    ],
+    "mainfile": "main.py",
+    "name": "pymarl",
+    "repositories": [
+      {
+        "commit": "f355a55262ac9afecdb53368fec6337c549cc160",
+        "dirty": true,
+        "url": "https://github.com/uoe-agents/epymarl.git"
+      },
+      {
+        "commit": "f355a55262ac9afecdb53368fec6337c549cc160",
+        "dirty": true,
+        "url": "https://github.com/uoe-agents/epymarl.git"
+      },
+      {
+        "commit": "f355a55262ac9afecdb53368fec6337c549cc160",
+        "dirty": true,
+        "url": "https://github.com/uoe-agents/epymarl.git"
+      }
+    ],
+    "sources": [
+      [
+        "main.py",
+        "_sources\\main_82132d1acf20a98452772c1c84588cb4.py"
+      ],
+      [
+        "run.py",
+        "_sources\\run_d1e3b55f19d535b20e0621def42d6f1f.py"
+      ],
+      [
+        "utils\\logging.py",
+        "_sources\\logging_c0f1fd976dab4ed912120dc4d4ac62f3.py"
+      ]
+    ]
+  },
+  "heartbeat": "2023-08-10T04:01:10.202263",
+  "host": {
+    "ENV": {},
+    "cpu": "Unknown",
+    "gpus": {
+      "driver_version": "516.01",
+      "gpus": [
+        {
+          "model": "NVIDIA GeForce MX150",
+          "persistence_mode": false,
+          "total_memory": 2048
+        }
+      ]
+    },
+    "hostname": "Jiong",
+    "os": [
+      "Windows",
+      "Windows-10-10.0.22000-SP0"
+    ],
+    "python_version": "3.7.16"
+  },
+  "meta": {
+    "command": "my_main",
+    "options": {
+      "--beat-interval": null,
+      "--capture": null,
+      "--comment": null,
+      "--debug": false,
+      "--enforce_clean": false,
+      "--file_storage": null,
+      "--force": false,
+      "--help": false,
+      "--loglevel": null,
+      "--mongo_db": null,
+      "--name": null,
+      "--pdb": false,
+      "--print-config": false,
+      "--priority": null,
+      "--queue": false,
+      "--s3": null,
+      "--sql": null,
+      "--tiny_db": null,
+      "--unobserved": false,
+      "COMMAND": null,
+      "UPDATE": [
+        "env_args.time_limit=500",
+        "env_args.key=rware:rware-tiny-4ag-v1"
+      ],
+      "help": false,
+      "with": true
+    }
+  },
+  "resources": [],
+  "result": null,
+  "start_time": "2023-08-09T11:12:39.559315",
+  "status": "INTERRUPTED",
+  "stop_time": "2023-08-10T04:01:10.902347"
+}

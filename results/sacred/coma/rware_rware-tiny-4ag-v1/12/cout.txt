@@ -1,0 +1,19 @@
+CHECK input_shape: 284
+Check term: 0
+Check term: 250
+advantage_mean -0.0035
+agent_grad_norm 0.1503
+coma_loss -0.0115
+critic_grad_norm 1.7557
+critic_loss 0.1622
+ep_length_mean 25.0000
+icm_reward_forward_loss 0.0136
+icm_reward_inverse_loss 80.4720
+pi_max 0.2660
+q_taken_mean -0.0711
+return_mean 0.0000
+return_std 0.0000
+target_mean 0.3539
+td_error_abs 0.6509
+test_ep_length_mean 25.0000
+test_return_mean 0.0000

@@ -1,0 +1,424 @@
+Check term: 0
+Check term: 5000
+Check term: 10000
+Check term: 15000
+advantage_mean 0.0003
+agent_grad_norm 0.2293
+coma_loss 0.0055
+critic_grad_norm 3.5317
+critic_loss 39.5738
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0139
+icm_reward_inverse_loss 621.4634
+pi_max 0.2288
+q_taken_mean 0.0253
+return_mean 0.4000
+return_std 0.4899
+target_mean 0.4738
+td_error_abs 3.4644
+test_ep_length_mean 500.0000
+test_return_mean 0.0800
+test_return_std 0.2713
+Check term: 20000
+Check term: 25000
+Check term: 30000
+Check term: 35000
+advantage_mean -0.0005
+agent_grad_norm 0.2321
+coma_loss 0.0026
+critic_grad_norm 14.0156
+critic_loss 31.2354
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0089
+icm_reward_inverse_loss 621.4635
+pi_max 0.2290
+q_taken_mean 0.0246
+return_mean 0.2375
+return_std 0.3766
+target_mean -4.4852
+td_error_abs 6.4663
+test_ep_length_mean 500.0000
+test_return_mean 0.1400
+test_return_std 0.3356
+Check term: 40000
+Check term: 45000
+Check term: 50000
+Check term: 55000
+advantage_mean 0.0000
+agent_grad_norm 0.2193
+coma_loss 0.0016
+critic_grad_norm 13.9791
+critic_loss 31.7930
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0069
+icm_reward_inverse_loss 621.4620
+pi_max 0.2283
+q_taken_mean 0.0079
+return_mean 0.2167
+return_std 0.3778
+target_mean -5.1457
+td_error_abs 6.7297
+test_ep_length_mean 500.0000
+test_return_mean 0.1400
+test_return_std 0.3394
+Check term: 60000
+Check term: 65000
+Check term: 70000
+Check term: 75000
+advantage_mean 0.0002
+agent_grad_norm 0.2152
+coma_loss 0.0003
+critic_grad_norm 13.6597
+critic_loss 35.7545
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0057
+icm_reward_inverse_loss 621.4605
+pi_max 0.2286
+q_taken_mean -0.0180
+return_mean 0.2188
+return_std 0.4017
+target_mean -5.2292
+td_error_abs 6.7821
+test_ep_length_mean 500.0000
+test_return_mean 0.1375
+test_return_std 0.3458
+Check term: 80000
+Check term: 85000
+Check term: 90000
+Check term: 95000
+advantage_mean -0.0001
+agent_grad_norm 0.2131
+coma_loss -0.0018
+critic_grad_norm 13.3421
+critic_loss 38.4030
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0048
+icm_reward_inverse_loss 621.4602
+pi_max 0.2292
+q_taken_mean -0.0423
+return_mean 0.2000
+return_std 0.3875
+target_mean -5.1922
+td_error_abs 6.7286
+test_ep_length_mean 500.0000
+test_return_mean 0.1320
+test_return_std 0.3561
+Check term: 100000
+Check term: 105000
+Check term: 110000
+Check term: 115000
+advantage_mean 0.0003
+agent_grad_norm 0.2097
+coma_loss -0.0045
+critic_grad_norm 15.1257
+critic_loss 36.5338
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0023
+icm_reward_inverse_loss 621.4596
+pi_max 0.2304
+q_taken_mean -0.0942
+return_mean 0.1350
+return_std 0.3422
+target_mean -6.3250
+td_error_abs 7.1973
+test_ep_length_mean 500.0000
+test_return_mean 0.1540
+test_return_std 0.3803
+Check term: 120000
+Check term: 125000
+Check term: 130000
+Check term: 135000
+advantage_mean 0.0004
+agent_grad_norm 0.2005
+coma_loss -0.0073
+critic_grad_norm 12.2113
+critic_loss 38.0962
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0017
+icm_reward_inverse_loss 621.4573
+pi_max 0.2328
+q_taken_mean -0.1500
+return_mean 0.1350
+return_std 0.3422
+target_mean -5.3267
+td_error_abs 6.3219
+test_ep_length_mean 500.0000
+test_return_mean 0.1360
+test_return_std 0.3629
+Check term: 140000
+Check term: 145000
+Check term: 150000
+Check term: 155000
+advantage_mean 0.0002
+agent_grad_norm 0.2062
+coma_loss -0.0110
+critic_grad_norm 11.7201
+critic_loss 32.5314
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0013
+icm_reward_inverse_loss 621.4557
+pi_max 0.2381
+q_taken_mean -0.2218
+return_mean 0.1250
+return_std 0.3324
+target_mean -4.9805
+td_error_abs 5.7418
+test_ep_length_mean 500.0000
+test_return_mean 0.1280
+test_return_std 0.3535
+Check term: 160000
+Check term: 165000
+Check term: 170000
+Check term: 175000
+advantage_mean 0.0000
+agent_grad_norm 0.2101
+coma_loss -0.0148
+critic_grad_norm 10.6826
+critic_loss 33.5563
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0012
+icm_reward_inverse_loss 621.4554
+pi_max 0.2451
+q_taken_mean -0.2822
+return_mean 0.1150
+return_std 0.3136
+target_mean -4.5262
+td_error_abs 5.2711
+test_ep_length_mean 500.0000
+test_return_mean 0.1140
+test_return_std 0.3280
+Check term: 180000
+Check term: 185000
+Check term: 190000
+Check term: 195000
+advantage_mean -0.0002
+agent_grad_norm 0.2155
+coma_loss -0.0190
+critic_grad_norm 10.2304
+critic_loss 24.4076
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0011
+icm_reward_inverse_loss 621.4542
+pi_max 0.2538
+q_taken_mean -0.3617
+return_mean 0.0950
+return_std 0.2787
+target_mean -4.3056
+td_error_abs 4.6505
+test_ep_length_mean 500.0000
+test_return_mean 0.1120
+test_return_std 0.3149
+Check term: 200000
+Check term: 205000
+Check term: 210000
+Check term: 215000
+advantage_mean -0.0005
+agent_grad_norm 0.2188
+coma_loss -0.0232
+critic_grad_norm 9.2726
+critic_loss 24.5574
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0010
+icm_reward_inverse_loss 621.4528
+pi_max 0.2636
+q_taken_mean -0.4255
+return_mean 0.0950
+return_std 0.2787
+target_mean -3.9051
+td_error_abs 4.2084
+test_ep_length_mean 500.0000
+test_return_mean 0.0960
+test_return_std 0.3107
+Check term: 220000
+Check term: 225000
+Check term: 230000
+Check term: 235000
+advantage_mean -0.0003
+agent_grad_norm 0.2264
+coma_loss -0.0270
+critic_grad_norm 8.2623
+critic_loss 30.0441
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0010
+icm_reward_inverse_loss 621.4534
+pi_max 0.2747
+q_taken_mean -0.4882
+return_mean 0.1100
+return_std 0.2975
+target_mean -3.4591
+td_error_abs 3.9029
+test_ep_length_mean 500.0000
+test_return_mean 0.1120
+test_return_std 0.3266
+Check term: 240000
+Check term: 245000
+Check term: 250000
+Check term: 255000
+advantage_mean -0.0002
+agent_grad_norm 0.2290
+coma_loss -0.0309
+critic_grad_norm 6.9750
+critic_loss 34.9441
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0010
+icm_reward_inverse_loss 621.4499
+pi_max 0.2860
+q_taken_mean -0.5499
+return_mean 0.1100
+return_std 0.3112
+target_mean -2.9917
+td_error_abs 3.5720
+test_ep_length_mean 500.0000
+test_return_mean 0.1100
+test_return_std 0.3238
+Check term: 260000
+Check term: 265000
+Check term: 270000
+Check term: 275000
+advantage_mean -0.0005
+agent_grad_norm 0.2309
+coma_loss -0.0351
+critic_grad_norm 6.8634
+critic_loss 24.6886
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0010
+icm_reward_inverse_loss 621.4467
+pi_max 0.2980
+q_taken_mean -0.6196
+return_mean 0.1050
+return_std 0.3066
+target_mean -2.9273
+td_error_abs 3.0925
+test_ep_length_mean 500.0000
+test_return_mean 0.1180
+test_return_std 0.3363
+Check term: 280000
+Check term: 285000
+Check term: 290000
+Check term: 295000
+advantage_mean 0.0001
+agent_grad_norm 0.2318
+coma_loss -0.0379
+critic_grad_norm 5.6071
+critic_loss 35.8198
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0010
+icm_reward_inverse_loss 621.4435
+pi_max 0.3105
+q_taken_mean -0.6746
+return_mean 0.1150
+return_std 0.3280
+target_mean -2.4785
+td_error_abs 2.9800
+test_ep_length_mean 500.0000
+test_return_mean 0.1140
+test_return_std 0.3242
+Check term: 300000
+Check term: 305000
+Check term: 310000
+Check term: 315000
+advantage_mean -0.0002
+agent_grad_norm 0.2325
+coma_loss -0.0419
+critic_grad_norm 4.5252
+critic_loss 40.9263
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0010
+icm_reward_inverse_loss 621.4414
+pi_max 0.3246
+q_taken_mean -0.7457
+return_mean 0.1350
+return_std 0.3513
+target_mean -2.1303
+td_error_abs 2.7742
+test_ep_length_mean 500.0000
+test_return_mean 0.1020
+test_return_std 0.2935
+Check term: 320000
+Check term: 325000
+Check term: 330000
+Check term: 335000
+advantage_mean -0.0004
+agent_grad_norm 0.2334
+coma_loss -0.0455
+critic_grad_norm 4.2476
+critic_loss 40.9642
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0009
+icm_reward_inverse_loss 621.4362
+pi_max 0.3378
+q_taken_mean -0.8102
+return_mean 0.1200
+return_std 0.3326
+target_mean -2.0109
+td_error_abs 2.6007
+test_ep_length_mean 500.0000
+test_return_mean 0.0780
+test_return_std 0.2799
+Check term: 340000
+Check term: 345000
+Check term: 350000
+Check term: 355000
+advantage_mean -0.0003
+agent_grad_norm 0.2330
+coma_loss -0.0488
+critic_grad_norm 4.0110
+critic_loss 35.1530
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0010
+icm_reward_inverse_loss 621.4351
+pi_max 0.3533
+q_taken_mean -0.8616
+return_mean 0.1000
+return_std 0.2840
+target_mean -1.9033
+td_error_abs 2.2987
+test_ep_length_mean 500.0000
+test_return_mean 0.0680
+test_return_std 0.2619
+Check term: 360000
+Check term: 365000
+Check term: 370000
+Check term: 375000
+advantage_mean -0.0003
+agent_grad_norm 0.2295
+coma_loss -0.0511
+critic_grad_norm 3.1645
+critic_loss 41.0073
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0010
+icm_reward_inverse_loss 621.4315
+pi_max 0.3686
+q_taken_mean -0.9152
+return_mean 0.0950
+return_std 0.2787
+target_mean -1.6289
+td_error_abs 2.1910
+test_ep_length_mean 500.0000
+test_return_mean 0.0620
+test_return_std 0.2529
+Check term: 380000
+Check term: 385000
+Check term: 390000
+Check term: 395000
+advantage_mean -0.0003
+agent_grad_norm 0.2223
+coma_loss -0.0524
+critic_grad_norm 2.9424
+critic_loss 35.4037
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0010
+icm_reward_inverse_loss 621.4247
+pi_max 0.3824
+q_taken_mean -0.9644
+return_mean 0.1000
+return_std 0.2860
+target_mean -1.6002
+td_error_abs 1.9550
+test_ep_length_mean 500.0000
+test_return_mean 0.0540
+test_return_std 0.2378
+Check term: 400000
+Check term: 405000
+Check term: 410000
+Check term: 415000

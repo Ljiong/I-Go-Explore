@@ -1,0 +1,18 @@
+CHECK input_shape: 284
+Check term: 0
+Check term: 250
+advantage_mean -0.0007
+agent_grad_norm 0.1128
+coma_loss -0.0056
+critic_grad_norm 0.6420
+critic_loss 0.0582
+ep_length_mean 25.0000
+pi_max 0.2314
+q_taken_mean -0.1439
+return_mean 0.0000
+return_std 0.0000
+target_mean -0.1068
+td_error_abs 0.3846
+test_ep_length_mean 25.0000
+test_return_mean 0.0000
+test_return_std 0.0000

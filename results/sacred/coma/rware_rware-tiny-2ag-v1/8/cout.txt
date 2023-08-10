@@ -1,0 +1,2 @@
+Check term: 0
+CHECK rewards shape: 10 25

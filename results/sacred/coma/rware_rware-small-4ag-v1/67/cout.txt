@@ -1,0 +1,14 @@
+Check term: 0
+[-inf, 0]
+start_cell: 6544711679525556861
+start_cell: 6544711679525556861
+start_cell: 6544711679525556861
+start_cell: 6544711679525556861
+start_cell: 6544711679525556861
+start_cell: 6544711679525556861
+start_cell: 6544711679525556861
+start_cell: 6544711679525556861
+start_cell: 6544711679525556861
+start_cell: 6544711679525556861
+500 500 0.0
+[-inf, 0, tensor([0.]), tensor([0.]), tensor([0.]), tensor([0.]), tensor([0.]), tensor([0.]), tensor([0.]), tensor([0.]), tensor([0.]), tensor([0.])]

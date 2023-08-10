@@ -1,0 +1,17 @@
+Check term: 0
+Found cell: 302
+Found cell: 289
+Found cell: 243
+Found cell: 315
+Found cell: 231
+Found cell: 318
+Found cell: 264
+Found cell: 322
+Found cell: 258
+Found cell: 277
+Check term: 500
+Found cell: 196
+Found cell: 285
+Found cell: 358
+Found cell: 214
+Found cell: 289

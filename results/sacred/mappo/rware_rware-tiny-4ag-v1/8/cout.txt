@@ -1,0 +1,4 @@
+Check term: 0
+Check term: 5000
+Check term: 10000
+Check term: 15000

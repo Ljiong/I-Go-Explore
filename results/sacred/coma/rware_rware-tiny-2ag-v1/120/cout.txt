@@ -1,0 +1,145 @@
+CHECK input_shape: 142
+cuda:0
+cuda:0
+Check term: 0
+CHECK t: 0
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 1
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 2
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 3
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 4
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 5
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 6
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 7
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 8
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 9
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 10
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 11
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 12
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 13
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 14
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 15
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 16
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 17
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 18
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 19
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 20
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 21
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 22
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 23
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 24
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+CHECK t: 25
+IN BSMAC INPUT SHAPE: torch.Size([20, 73])
+torch.Size([10, 2])
+max_t: 26
+CHECK rewards shape: torch.Size([10, 25, 1])
+CHECK actions shape 10 26 tensor([[4],
+        [2]], device='cuda:0')
+CHECK actions shape 10 25
+obs shape: torch.Size([10, 26, 2, 71])
+CHECK states before: torch.Size([10, 26, 142])
+CHECK next states: torch.Size([10, 25, 142])
+CHECK obs: torch.Size([10, 26, 2, 71])
+CHECK states after: torch.Size([10, 25, 142])
+CHECK action:: torch.Size([10, 25, 2, 1, 5])
+encode_state:  torch.Size([10, 25, 128])
+encode_next_state:  torch.Size([10, 25, 128])
+torch.Size([10, 25, 256])
+CHECK_________________________
+torch.Size([10, 25, 10])
+In ICM_agent action before: torch.Size([10, 25, 2, 5])
+In ICM_agent action after: torch.Size([10, 25, 10])
+torch.Size([10, 25, 138])
+torch.Size([10, 25, 10])
+LAST STEP IN ICM1: torch.Size([10, 25, 512])
+LAST STEP IN ICM2: torch.Size([10, 25, 10])
+LAST STEP IN ICM1: torch.Size([10, 25, 512])
+LAST STEP IN ICM2: torch.Size([10, 25, 10])
+LAST STEP IN ICM1: torch.Size([10, 25, 512])
+LAST STEP IN ICM2: torch.Size([10, 25, 10])
+LAST STEP IN ICM1: torch.Size([10, 25, 512])
+LAST STEP IN ICM2: torch.Size([10, 25, 10])
+torch.Size([10, 25, 128]) torch.Size([10, 25, 128]) torch.Size([10, 25, 10])
+CHECK pred_action shape torch.Size([10, 25, 10])
+CHECK avail_actions shape: torch.Size([10, 25, 2, 5])
+CHECK avail_actions shape: torch.Size([10, 25, 10])
+CHECK intrisic_rewards in icm_learner: [tensor([0.0128, 0.0119, 0.0137, 0.0127, 0.0126, 0.0122, 0.0123, 0.0123, 0.0137,
+        0.0123, 0.0128, 0.0126, 0.0128, 0.0130, 0.0141, 0.0125, 0.0128, 0.0151,
+        0.0134, 0.0124, 0.0129, 0.0136, 0.0124, 0.0136, 0.0121],
+       device='cuda:0'), tensor([0.0131, 0.0129, 0.0116, 0.0112, 0.0103, 0.0125, 0.0107, 0.0121, 0.0114,
+        0.0117, 0.0119, 0.0118, 0.0102, 0.0115, 0.0100, 0.0092, 0.0093, 0.0106,
+        0.0094, 0.0110, 0.0114, 0.0111, 0.0105, 0.0121, 0.0121],
+       device='cuda:0'), tensor([0.0120, 0.0117, 0.0118, 0.0120, 0.0120, 0.0104, 0.0122, 0.0107, 0.0132,
+        0.0121, 0.0135, 0.0102, 0.0129, 0.0122, 0.0142, 0.0133, 0.0114, 0.0133,
+        0.0134, 0.0119, 0.0132, 0.0129, 0.0132, 0.0124, 0.0132],
+       device='cuda:0'), tensor([0.0110, 0.0108, 0.0116, 0.0109, 0.0117, 0.0105, 0.0109, 0.0097, 0.0102,
+        0.0111, 0.0127, 0.0109, 0.0107, 0.0117, 0.0115, 0.0115, 0.0131, 0.0117,
+        0.0121, 0.0112, 0.0121, 0.0125, 0.0097, 0.0100, 0.0111],
+       device='cuda:0'), tensor([0.0079, 0.0094, 0.0090, 0.0087, 0.0097, 0.0083, 0.0080, 0.0080, 0.0092,
+        0.0083, 0.0086, 0.0085, 0.0084, 0.0082, 0.0080, 0.0078, 0.0083, 0.0079,
+        0.0080, 0.0078, 0.0082, 0.0091, 0.0096, 0.0083, 0.0073],
+       device='cuda:0'), tensor([0.0083, 0.0095, 0.0088, 0.0092, 0.0087, 0.0083, 0.0085, 0.0087, 0.0085,
+        0.0083, 0.0083, 0.0090, 0.0093, 0.0083, 0.0096, 0.0102, 0.0075, 0.0084,
+        0.0076, 0.0090, 0.0086, 0.0075, 0.0101, 0.0086, 0.0089],
+       device='cuda:0'), tensor([0.0099, 0.0093, 0.0116, 0.0116, 0.0123, 0.0119, 0.0136, 0.0128, 0.0136,
+        0.0146, 0.0114, 0.0116, 0.0124, 0.0126, 0.0139, 0.0123, 0.0120, 0.0125,
+        0.0120, 0.0131, 0.0113, 0.0113, 0.0114, 0.0124, 0.0119],
+       device='cuda:0'), tensor([0.0131, 0.0143, 0.0144, 0.0136, 0.0115, 0.0126, 0.0142, 0.0115, 0.0127,
+        0.0127, 0.0134, 0.0134, 0.0131, 0.0131, 0.0131, 0.0128, 0.0114, 0.0116,
+        0.0123, 0.0128, 0.0131, 0.0117, 0.0122, 0.0124, 0.0111],
+       device='cuda:0'), tensor([0.0130, 0.0141, 0.0117, 0.0139, 0.0129, 0.0139, 0.0138, 0.0130, 0.0141,
+        0.0140, 0.0130, 0.0127, 0.0118, 0.0123, 0.0135, 0.0145, 0.0133, 0.0133,
+        0.0133, 0.0126, 0.0153, 0.0135, 0.0150, 0.0151, 0.0151],
+       device='cuda:0'), tensor([0.0127, 0.0118, 0.0126, 0.0123, 0.0130, 0.0118, 0.0126, 0.0128, 0.0126,
+        0.0125, 0.0109, 0.0122, 0.0131, 0.0126, 0.0117, 0.0130, 0.0127, 0.0107,
+        0.0139, 0.0136, 0.0115, 0.0122, 0.0127, 0.0125, 0.0137],
+       device='cuda:0')]

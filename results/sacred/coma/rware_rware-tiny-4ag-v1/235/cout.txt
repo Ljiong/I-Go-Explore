@@ -1,0 +1,22 @@
+Check term: 0
+advantage_mean -0.0001
+agent_grad_norm 0.1830
+coma_loss -0.0114
+critic_grad_norm 2.7793
+critic_loss 36.6995
+ep_length_mean 500.0000
+E:\Anaconda\envs\epymarl\lib\site-packages\numpy\core\_methods.py:163: FutureWarning: The input object of type 'Tensor' is an array-like implementing one of the corresponding protocols (`__array__`, `__array_interface__` or `__array_struct__`); but not a sequence (or 0-D). In the future, this object will be coerced as if it was first converted using `np.array(obj)`. To retain the old behaviour, you have to either modify the type 'Tensor', or assign to an empty array created with `np.empty(correct_shape, dtype=object)`.
+  arr = asanyarray(a)
+go_explore_return 1.5000
+icm_reward_forward_loss 0.0145
+icm_reward_inverse_loss 0.4614
+pi_max 0.2467
+q_taken_mean -0.0674
+return_mean 0.2000
+return_std 0.4000
+target_mean 0.4966
+td_error_abs 1.4146
+test_ep_length_mean 500.0000
+test_return_mean 0.1700
+test_return_std 0.4484
+Check term: 5000

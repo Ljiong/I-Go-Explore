@@ -1,0 +1,218 @@
+{
+  "advantage_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:04:20.409154"
+    ],
+    "values": [
+      0.0002661573886871338
+    ]
+  },
+  "agent_grad_norm": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:04:20.409154"
+    ],
+    "values": [
+      0.13195553421974182
+    ]
+  },
+  "coma_loss": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:04:20.409154"
+    ],
+    "values": [
+      -0.0002727503888309002
+    ]
+  },
+  "critic_grad_norm": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:04:20.408153"
+    ],
+    "values": [
+      1.2886985540390015
+    ]
+  },
+  "critic_loss": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:04:20.408153"
+    ],
+    "values": [
+      0.1407243013381958
+    ]
+  },
+  "ep_length_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:04:16.502466"
+    ],
+    "values": [
+      50.0
+    ]
+  },
+  "go_explore_return": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:06:23.906826"
+    ],
+    "values": [
+      {
+        "py/reduce": [
+          {
+            "py/function": "torch._utils._rebuild_tensor_v2"
+          },
+          {
+            "py/tuple": [
+              {
+                "py/reduce": [
+                  {
+                    "py/function": "torch.storage._load_from_bytes"
+                  },
+                  {
+                    "py/tuple": [
+                      {
+                        "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYDQAAADI0ODQ5NDUwNzc2MDBxAlgDAAAAY3B1cQNLAU50cQRRLoACXXEAWA0AAAAyNDg0OTQ1MDc3NjAwcQFhLgEAAAAAAAAAAAAAAA=="
+                      }
+                    ]
+                  }
+                ]
+              },
+              0,
+              {
+                "py/tuple": [
+                  1
+                ]
+              },
+              {
+                "py/tuple": [
+                  1
+                ]
+              },
+              false,
+              {
+                "py/reduce": [
+                  {
+                    "py/type": "collections.OrderedDict"
+                  },
+                  {
+                    "py/tuple": []
+                  },
+                  null,
+                  null,
+                  {
+                    "py/tuple": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "icm_reward_forward_loss": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:04:20.072239"
+    ],
+    "values": [
+      {}
+    ]
+  },
+  "icm_reward_inverse_loss": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:04:20.072239"
+    ],
+    "values": [
+      {}
+    ]
+  },
+  "pi_max": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:04:20.410154"
+    ],
+    "values": [
+      0.23343463134765624
+    ]
+  },
+  "q_taken_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:04:20.408153"
+    ],
+    "values": [
+      -0.04955477905273437
+    ]
+  },
+  "return_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:04:16.501480"
+    ],
+    "values": [
+      0.0
+    ]
+  },
+  "return_std": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:04:16.502466"
+    ],
+    "values": [
+      0.0
+    ]
+  },
+  "target_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:04:20.408153"
+    ],
+    "values": [
+      0.37902972412109376
+    ]
+  },
+  "td_error_abs": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-21T12:04:20.408153"
+    ],
+    "values": [
+      0.6168619384765625
+    ]
+  }
+}

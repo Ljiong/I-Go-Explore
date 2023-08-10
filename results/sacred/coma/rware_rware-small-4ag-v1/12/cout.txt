@@ -1,0 +1,23 @@
+Check term: 40000
+I'm training
+advantage_mean -0.0002
+agent_grad_norm 0.0284
+cell_counter 2.0000
+coma_loss -0.0014
+critic_grad_norm 2.4892
+critic_loss 36.7088
+ep_length_mean 500.0000
+go_explore_return 0.0000
+icm_reward_forward_loss 0.0189
+icm_reward_inverse_loss 0.4669
+pi_max 0.2501
+q_taken_mean 0.2337
+return_mean 0.1000
+return_std 0.3000
+target_mean 0.9343
+td_error_abs 0.7833
+test_ep_length_mean 500.0000
+test_return_mean 0.0900
+test_return_std 0.2862
+Check term: 45000
+I'm training

@@ -1,0 +1,5 @@
+4
+Check term: 0
+CHECK AGENTS NUM: 4
+e:\study\Thesis\epymarl\src\runners\go_exploration.py:169: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at C:\cb\pytorch_1000000000000\work\torch\csrc\utils\tensor_new.cpp:233.)
+  "state": th.Tensor([tuple([self.env._make_obs(agent) for agent in self.env.agents])]),

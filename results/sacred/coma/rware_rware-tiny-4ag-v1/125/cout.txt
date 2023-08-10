@@ -1,0 +1,3 @@
+Check term: 0
+check t:  0
+check t:  1

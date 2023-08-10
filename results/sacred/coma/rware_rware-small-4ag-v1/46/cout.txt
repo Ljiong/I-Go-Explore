@@ -1,0 +1,191 @@
+Check term: 0
+Check term: 15859
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 27692
+Check term: 43220
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 58983
+Check term: 70170
+cell_counter 0.0000
+go_explore_return 0.8000
+traj_length 1.0000
+Check term: 87323
+Check term: 104538
+cell_counter 0.0000
+go_explore_return 0.8000
+traj_length 1.0000
+Check term: 121255
+Check term: 132778
+cell_counter 0.0000
+go_explore_return 0.4000
+traj_length 1.0000
+Check term: 144407
+cell_counter 0.0000
+go_explore_return 0.2000
+traj_length 1.0000
+Check term: 164711
+Check term: 180857
+cell_counter 0.0000
+go_explore_return 0.4000
+traj_length 1.0000
+Check term: 192158
+Check term: 204079
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 215882
+Check term: 232818
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 244735
+Check term: 257092
+cell_counter 0.0000
+go_explore_return 0.4000
+traj_length 1.0000
+Check term: 269197
+Check term: 286856
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 303017
+Check term: 322601
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 338097
+Check term: 350701
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 367344
+Check term: 379784
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 396762
+Check term: 409512
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 421593
+Check term: 437183
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 449535
+Check term: 461158
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 478329
+Check term: 495302
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 511572
+Check term: 523093
+cell_counter 0.0000
+go_explore_return 0.4000
+traj_length 1.0000
+Check term: 534577
+Check term: 546429
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 562817
+Check term: 579331
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 591306
+Check term: 603476
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 615030
+Check term: 632141
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 644203
+Check term: 660375
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 672377
+Check term: 684262
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 701664
+Check term: 713666
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 731847
+Check term: 747844
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 764866
+Check term: 776603
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 788476
+Check term: 805392
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 821186
+Check term: 838357
+cell_counter 0.0000
+go_explore_return 0.6000
+traj_length 1.0000
+Check term: 849809
+Check term: 862837
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 878508
+Check term: 890451
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 902075
+Check term: 917851
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 935081
+Check term: 946855
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 958559
+Check term: 974793
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 986175
+Check term: 997733
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 1009283
+Check term: 1021005
+cell_counter 0.0000
+go_explore_return 0.0000
+traj_length 1.0000
+Check term: 1037628
+Check term: 1050071
+cell_counter 0.0000
+go_explore_return 0.2000
+traj_length 1.0000
+Check term: 1062375
+Check term: 1074088

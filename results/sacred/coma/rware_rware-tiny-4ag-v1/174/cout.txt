@@ -1,0 +1,11 @@
+Check term: 0
+450
+Found new cell: 57
+900
+Found new cell: 58
+1350
+Found new cell: 135
+1800
+Found new cell: 203
+2250
+Found cell: 320

@@ -1,0 +1,35 @@
+{
+  "cell_counter": {
+    "steps": [
+      32500
+    ],
+    "timestamps": [
+      "2023-06-02T00:28:18.066950"
+    ],
+    "values": [
+      2247
+    ]
+  },
+  "go_explore_return": {
+    "steps": [
+      32500
+    ],
+    "timestamps": [
+      "2023-06-02T00:28:16.988416"
+    ],
+    "values": [
+      0.0
+    ]
+  },
+  "test_go_explore_return": {
+    "steps": [
+      32500
+    ],
+    "timestamps": [
+      "2023-06-02T00:35:25.842271"
+    ],
+    "values": [
+      0.2
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+Check term: 0
+Check term: 50
+Check term: 100
+Check term: 150
+Check term: 200
+Check term: 250
+Check term: 300
+Check term: 350
+Check term: 400
+Check term: 450

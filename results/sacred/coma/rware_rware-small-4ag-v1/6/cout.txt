@@ -1,0 +1,22 @@
+Check term: 0
+Check term: 0
+Check term: 0
+Check term: 0
+advantage_mean -0.0001
+agent_grad_norm 0.1453
+coma_loss -0.0089
+critic_grad_norm 4.9208
+critic_loss 36.9176
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0201
+icm_reward_inverse_loss 0.4565
+pi_max 0.2300
+q_taken_mean -0.2518
+return_mean 0.1000
+return_std 0.3000
+target_mean 0.5388
+td_error_abs 1.0586
+test_ep_length_mean 500.0000
+test_return_mean 0.0400
+test_return_std 0.1960
+Check term: 0

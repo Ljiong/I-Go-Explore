@@ -1,0 +1,41 @@
+Check term: 0
+cell_counter 1844.4000
+go_explore_return 0.0000
+Check term: 125080
+cell_counter 1684.6000
+go_explore_return 0.0000
+Check term: 228359
+cell_counter 1781.4000
+go_explore_return 0.6000
+Check term: 350203
+cell_counter 1739.8000
+go_explore_return 1.0000
+Check term: 461364
+cell_counter 1741.4000
+go_explore_return 1.0000
+Check term: 560227
+cell_counter 1661.4000
+go_explore_return 0.0000
+Check term: 661865
+cell_counter 1884.4000
+go_explore_return 0.0000
+Check term: 770990
+cell_counter 1868.0000
+go_explore_return 0.0000
+Check term: 896754
+cell_counter 1769.6000
+go_explore_return 1.0000
+Check term: 1036304
+cell_counter 1676.4000
+go_explore_return 0.0000
+Check term: 1124882
+cell_counter 1768.4000
+go_explore_return 0.0000
+Check term: 1250508
+cell_counter 1686.6000
+go_explore_return 1.0000
+Exiting Main
+Stopping all threads
+Thread Thread-19 is alive! Is daemon: False
+Thread joined
+Exiting script

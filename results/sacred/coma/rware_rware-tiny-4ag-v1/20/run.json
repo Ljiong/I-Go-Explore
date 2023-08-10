@@ -1,0 +1,119 @@
+{
+  "artifacts": [],
+  "command": "my_main",
+  "experiment": {
+    "base_dir": "e:\\study\\Thesis\\epymarl\\src",
+    "dependencies": [
+      "munch==2.5.0",
+      "numpy==1.21.5",
+      "sacred==0.8.2",
+      "torch==1.13.1"
+    ],
+    "mainfile": "main.py",
+    "name": "pymarl",
+    "repositories": [
+      {
+        "commit": "f355a55262ac9afecdb53368fec6337c549cc160",
+        "dirty": true,
+        "url": "https://github.com/uoe-agents/epymarl.git"
+      },
+      {
+        "commit": "f355a55262ac9afecdb53368fec6337c549cc160",
+        "dirty": true,
+        "url": "https://github.com/uoe-agents/epymarl.git"
+      },
+      {
+        "commit": "f355a55262ac9afecdb53368fec6337c549cc160",
+        "dirty": true,
+        "url": "https://github.com/uoe-agents/epymarl.git"
+      }
+    ],
+    "sources": [
+      [
+        "main.py",
+        "_sources\\main_c0fd19716be8b8a9a5c2f2dafee418aa.py"
+      ],
+      [
+        "run.py",
+        "_sources\\run_8bd8bbe679ca350e582071cd13e74566.py"
+      ],
+      [
+        "utils\\logging.py",
+        "_sources\\logging_bf584e5e74d0b24c31331ba10f168645.py"
+      ]
+    ]
+  },
+  "fail_trace": [
+    "Traceback (most recent call last):\n",
+    "  File \"E:\\Anaconda\\envs\\epymarl\\lib\\site-packages\\wrapt\\wrappers.py\", line 523, in __call__\n    args, kwargs)\n",
+    "  File \"E:\\Anaconda\\envs\\epymarl\\lib\\site-packages\\sacred\\config\\captured_function.py\", line 42, in captured_function\n    result = wrapped(*args, **kwargs)\n",
+    "  File \"e:\\study\\Thesis\\epymarl\\src\\main.py\", line 40, in my_main\n    run(_run, config, _log)\n",
+    "  File \"e:\\study\\Thesis\\epymarl\\src\\run.py\", line 61, in run\n    run_sequential(args=args, logger=logger)\n",
+    "  File \"e:\\study\\Thesis\\epymarl\\src\\run.py\", line 220, in run_sequential\n    episode_batch = runner.run(test_mode=False)\n",
+    "  File \"e:\\study\\Thesis\\epymarl\\src\\runners\\parallel_runner.py\", line 111, in run\n    actions = self.mac.select_actions(self.batch, t_ep=self.t, t_env=self.t_env, bs=envs_not_terminated, test_mode=test_mode)\n",
+    "  File \"e:\\study\\Thesis\\epymarl\\src\\controllers\\basic_controller.py\", line 27, in select_actions\n    agent_outputs = self.forward(ep_batch, t_ep, test_mode=test_mode)\n",
+    "  File \"e:\\study\\Thesis\\epymarl\\src\\controllers\\basic_controller.py\", line 35, in forward\n    agent_outs, self.hidden_states = self.agent(agent_inputs, self.hidden_states)\n",
+    "  File \"E:\\Anaconda\\envs\\epymarl\\lib\\site-packages\\torch\\nn\\modules\\module.py\", line 1194, in _call_impl\n    return forward_call(*input, **kwargs)\n",
+    "  File \"e:\\study\\Thesis\\epymarl\\src\\modules\\agents\\rnn_agent.py\", line 22, in forward\n    x = F.relu(self.fc1(inputs))\n",
+    "  File \"E:\\Anaconda\\envs\\epymarl\\lib\\site-packages\\torch\\nn\\modules\\module.py\", line 1194, in _call_impl\n    return forward_call(*input, **kwargs)\n",
+    "  File \"E:\\Anaconda\\envs\\epymarl\\lib\\site-packages\\torch\\nn\\modules\\linear.py\", line 114, in forward\n    return F.linear(input, self.weight, self.bias)\n",
+    "RuntimeError: CUDA error: CUBLAS_STATUS_NOT_INITIALIZED when calling `cublasCreate(handle)`\n"
+  ],
+  "heartbeat": "2023-05-14T15:48:20.222355",
+  "host": {
+    "ENV": {},
+    "cpu": "Unknown",
+    "gpus": {
+      "driver_version": "516.01",
+      "gpus": [
+        {
+          "model": "NVIDIA GeForce MX150",
+          "persistence_mode": false,
+          "total_memory": 2048
+        }
+      ]
+    },
+    "hostname": "Jiong",
+    "os": [
+      "Windows",
+      "Windows-10-10.0.22000-SP0"
+    ],
+    "python_version": "3.7.16"
+  },
+  "meta": {
+    "command": "my_main",
+    "options": {
+      "--beat-interval": null,
+      "--capture": null,
+      "--comment": null,
+      "--debug": false,
+      "--enforce_clean": false,
+      "--file_storage": null,
+      "--force": false,
+      "--help": false,
+      "--loglevel": null,
+      "--mongo_db": null,
+      "--name": null,
+      "--pdb": false,
+      "--print-config": false,
+      "--priority": null,
+      "--queue": false,
+      "--s3": null,
+      "--sql": null,
+      "--tiny_db": null,
+      "--unobserved": false,
+      "COMMAND": null,
+      "UPDATE": [
+        "env_args.time_limit=50",
+        "env_args.key=rware:rware-tiny-4ag-v1"
+      ],
+      "help": false,
+      "with": true
+    }
+  },
+  "resources": [],
+  "result": null,
+  "start_time": "2023-05-14T15:47:22.866941",
+  "status": "FAILED",
+  "stop_time": "2023-05-14T15:48:20.234356"
+}

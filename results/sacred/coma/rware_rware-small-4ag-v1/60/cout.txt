@@ -1,0 +1,4 @@
+Check term: 0
+traj_res: 500
+traj_res: 500
+traj_res: 500

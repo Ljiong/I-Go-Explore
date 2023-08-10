@@ -1,0 +1,32 @@
+Check term: 0
+Through traj: 500
+cur_score: 0
+tensor([0.])
+Through traj: 1000
+cur_score: 0
+tensor([0.])
+Through traj: 1500
+cur_score: 0
+tensor([0.])
+Through traj: 2000
+cur_score: 0
+tensor([0.])
+Through traj: 2500
+cur_score: 0
+tensor([0.])
+Through traj: 3000
+cur_score: 0
+tensor([0.])
+Through traj: 3500
+cur_score: 0
+tensor([0.])
+Through traj: 4000
+cur_score: 0
+tensor([0.])
+Through traj: 4500
+cur_score: 0
+tensor([0.])
+Through traj: 5000
+cur_score: 0
+tensor([0.])
+t_env: 27500

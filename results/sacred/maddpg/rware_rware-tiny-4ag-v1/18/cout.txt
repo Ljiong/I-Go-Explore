@@ -1,0 +1,4188 @@
+Check term: 0
+Check term: 500
+Check term: 1000
+Check term: 1500
+Check term: 2000
+Check term: 2500
+Check term: 3000
+Check term: 3500
+Check term: 4000
+Check term: 4500
+Check term: 5000
+Check term: 5500
+Check term: 6000
+Check term: 6500
+Check term: 7000
+Check term: 7500
+Check term: 8000
+Check term: 8500
+Check term: 9000
+Check term: 9500
+Check term: 10000
+Check term: 10500
+Check term: 11000
+Check term: 11500
+Check term: 12000
+Check term: 12500
+Check term: 13000
+Check term: 13500
+Check term: 14000
+Check term: 14500
+Check term: 15000
+Check term: 15500
+Check term: 16000
+Check term: 16500
+Check term: 17000
+Check term: 17500
+Check term: 18000
+Check term: 18500
+Check term: 19000
+Check term: 19500
+agent_grad_norm 0.0040
+critic_grad_norm 0.0919
+critic_loss 0.0005
+ep_length_mean 500.0000
+pg_loss 0.1343
+q_taken_mean -0.1114
+return_mean 0.0000
+return_std 0.0000
+target_mean -0.1230
+td_error_abs 0.0181
+test_ep_length_mean 500.0000
+test_return_mean 0.1700
+test_return_std 0.4484
+Check term: 20000
+Check term: 20500
+Check term: 21000
+Check term: 21500
+Check term: 22000
+Check term: 22500
+Check term: 23000
+Check term: 23500
+Check term: 24000
+Check term: 24500
+Check term: 25000
+Check term: 25500
+Check term: 26000
+Check term: 26500
+Check term: 27000
+Check term: 27500
+Check term: 28000
+Check term: 28500
+Check term: 29000
+Check term: 29500
+Check term: 30000
+Check term: 30500
+Check term: 31000
+Check term: 31500
+Check term: 32000
+Check term: 32500
+Check term: 33000
+Check term: 33500
+Check term: 34000
+Check term: 34500
+Check term: 35000
+Check term: 35500
+Check term: 36000
+Check term: 36500
+Check term: 37000
+Check term: 37500
+Check term: 38000
+Check term: 38500
+Check term: 39000
+Check term: 39500
+agent_grad_norm 0.0025
+critic_grad_norm 0.0874
+critic_loss 0.6912
+ep_length_mean 500.0000
+pg_loss 0.1141
+q_taken_mean -0.1053
+return_mean 0.0500
+return_std 0.1871
+target_mean -0.1089
+td_error_abs 0.0353
+test_ep_length_mean 500.0000
+test_return_mean 0.1200
+test_return_std 0.3518
+Check term: 40000
+Check term: 40500
+Check term: 41000
+Check term: 41500
+Check term: 42000
+Check term: 42500
+Check term: 43000
+Check term: 43500
+Check term: 44000
+Check term: 44500
+Check term: 45000
+Check term: 45500
+Check term: 46000
+Check term: 46500
+Check term: 47000
+Check term: 47500
+Check term: 48000
+Check term: 48500
+Check term: 49000
+Check term: 49500
+Check term: 50000
+Check term: 50500
+Check term: 51000
+Check term: 51500
+Check term: 52000
+Check term: 52500
+Check term: 53000
+Check term: 53500
+Check term: 54000
+Check term: 54500
+Check term: 55000
+Check term: 55500
+Check term: 56000
+Check term: 56500
+Check term: 57000
+Check term: 57500
+Check term: 58000
+Check term: 58500
+Check term: 59000
+Check term: 59500
+agent_grad_norm 0.0018
+critic_grad_norm 0.0942
+critic_loss 0.7253
+ep_length_mean 500.0000
+pg_loss 0.1159
+q_taken_mean -0.1105
+return_mean 0.0750
+return_std 0.2350
+target_mean -0.1103
+td_error_abs 0.0360
+test_ep_length_mean 500.0000
+test_return_mean 0.1100
+test_return_std 0.3299
+Check term: 60000
+Check term: 60500
+Check term: 61000
+Check term: 61500
+Check term: 62000
+Check term: 62500
+Check term: 63000
+Check term: 63500
+Check term: 64000
+Check term: 64500
+Check term: 65000
+Check term: 65500
+Check term: 66000
+Check term: 66500
+Check term: 67000
+Check term: 67500
+Check term: 68000
+Check term: 68500
+Check term: 69000
+Check term: 69500
+Check term: 70000
+Check term: 70500
+Check term: 71000
+Check term: 71500
+Check term: 72000
+Check term: 72500
+Check term: 73000
+Check term: 73500
+Check term: 74000
+Check term: 74500
+Check term: 75000
+Check term: 75500
+Check term: 76000
+Check term: 76500
+Check term: 77000
+Check term: 77500
+Check term: 78000
+Check term: 78500
+Check term: 79000
+Check term: 79500
+agent_grad_norm 0.0016
+critic_grad_norm 0.0923
+critic_loss 0.7461
+ep_length_mean 500.0000
+pg_loss 0.1108
+q_taken_mean -0.1102
+return_mean 0.0875
+return_std 0.2589
+target_mean -0.1111
+td_error_abs 0.0378
+test_ep_length_mean 500.0000
+test_return_mean 0.1325
+test_return_std 0.3592
+Check term: 80000
+Check term: 80500
+Check term: 81000
+Check term: 81500
+Check term: 82000
+Check term: 82500
+Check term: 83000
+Check term: 83500
+Check term: 84000
+Check term: 84500
+Check term: 85000
+Check term: 85500
+Check term: 86000
+Check term: 86500
+Check term: 87000
+Check term: 87500
+Check term: 88000
+Check term: 88500
+Check term: 89000
+Check term: 89500
+Check term: 90000
+Check term: 90500
+Check term: 91000
+Check term: 91500
+Check term: 92000
+Check term: 92500
+Check term: 93000
+Check term: 93500
+Check term: 94000
+Check term: 94500
+Check term: 95000
+Check term: 95500
+Check term: 96000
+Check term: 96500
+Check term: 97000
+Check term: 97500
+Check term: 98000
+Check term: 98500
+Check term: 99000
+Check term: 99500
+agent_grad_norm 0.0014
+critic_grad_norm 0.1025
+critic_loss 0.7613
+ep_length_mean 500.0000
+pg_loss 0.1101
+q_taken_mean -0.1132
+return_mean 0.1000
+return_std 0.2785
+target_mean -0.1114
+td_error_abs 0.0387
+test_ep_length_mean 500.0000
+test_return_mean 0.1340
+test_return_std 0.3568
+Check term: 100000
+Check term: 100500
+Check term: 101000
+Check term: 101500
+Check term: 102000
+Check term: 102500
+Check term: 103000
+Check term: 103500
+Check term: 104000
+Check term: 104500
+Check term: 105000
+Check term: 105500
+Check term: 106000
+Check term: 106500
+Check term: 107000
+Check term: 107500
+Check term: 108000
+Check term: 108500
+Check term: 109000
+Check term: 109500
+Check term: 110000
+Check term: 110500
+Check term: 111000
+Check term: 111500
+Check term: 112000
+Check term: 112500
+Check term: 113000
+Check term: 113500
+Check term: 114000
+Check term: 114500
+Check term: 115000
+Check term: 115500
+Check term: 116000
+Check term: 116500
+Check term: 117000
+Check term: 117500
+Check term: 118000
+Check term: 118500
+Check term: 119000
+Check term: 119500
+agent_grad_norm 0.0010
+critic_grad_norm 0.1226
+critic_loss 1.0915
+ep_length_mean 500.0000
+pg_loss 0.0973
+q_taken_mean -0.1078
+return_mean 0.1000
+return_std 0.2785
+target_mean -0.1004
+td_error_abs 0.0451
+test_ep_length_mean 500.0000
+test_return_mean 0.1160
+test_return_std 0.3283
+Check term: 120000
+Check term: 120500
+Check term: 121000
+Check term: 121500
+Check term: 122000
+Check term: 122500
+Check term: 123000
+Check term: 123500
+Check term: 124000
+Check term: 124500
+Check term: 125000
+Check term: 125500
+Check term: 126000
+Check term: 126500
+Check term: 127000
+Check term: 127500
+Check term: 128000
+Check term: 128500
+Check term: 129000
+Check term: 129500
+Check term: 130000
+Check term: 130500
+Check term: 131000
+Check term: 131500
+Check term: 132000
+Check term: 132500
+Check term: 133000
+Check term: 133500
+Check term: 134000
+Check term: 134500
+Check term: 135000
+Check term: 135500
+Check term: 136000
+Check term: 136500
+Check term: 137000
+Check term: 137500
+Check term: 138000
+Check term: 138500
+Check term: 139000
+Check term: 139500
+agent_grad_norm 0.0011
+critic_grad_norm 0.1218
+critic_loss 0.9861
+ep_length_mean 500.0000
+pg_loss 0.1009
+q_taken_mean -0.1114
+return_mean 0.0950
+return_std 0.2564
+target_mean -0.1040
+td_error_abs 0.0423
+test_ep_length_mean 500.0000
+test_return_mean 0.1400
+test_return_std 0.3557
+Check term: 140000
+Check term: 140500
+Check term: 141000
+Check term: 141500
+Check term: 142000
+Check term: 142500
+Check term: 143000
+Check term: 143500
+Check term: 144000
+Check term: 144500
+Check term: 145000
+Check term: 145500
+Check term: 146000
+Check term: 146500
+Check term: 147000
+Check term: 147500
+Check term: 148000
+Check term: 148500
+Check term: 149000
+Check term: 149500
+Check term: 150000
+Check term: 150500
+Check term: 151000
+Check term: 151500
+Check term: 152000
+Check term: 152500
+Check term: 153000
+Check term: 153500
+Check term: 154000
+Check term: 154500
+Check term: 155000
+Check term: 155500
+Check term: 156000
+Check term: 156500
+Check term: 157000
+Check term: 157500
+Check term: 158000
+Check term: 158500
+Check term: 159000
+Check term: 159500
+agent_grad_norm 0.0018
+critic_grad_norm 0.1170
+critic_loss 0.8278
+ep_length_mean 500.0000
+pg_loss 0.0945
+q_taken_mean -0.1065
+return_mean 0.1200
+return_std 0.2877
+target_mean -0.1020
+td_error_abs 0.0409
+test_ep_length_mean 500.0000
+test_return_mean 0.1680
+test_return_std 0.3917
+Check term: 160000
+Check term: 160500
+Check term: 161000
+Check term: 161500
+Check term: 162000
+Check term: 162500
+Check term: 163000
+Check term: 163500
+Check term: 164000
+Check term: 164500
+Check term: 165000
+Check term: 165500
+Check term: 166000
+Check term: 166500
+Check term: 167000
+Check term: 167500
+Check term: 168000
+Check term: 168500
+Check term: 169000
+Check term: 169500
+Check term: 170000
+Check term: 170500
+Check term: 171000
+Check term: 171500
+Check term: 172000
+Check term: 172500
+Check term: 173000
+Check term: 173500
+Check term: 174000
+Check term: 174500
+Check term: 175000
+Check term: 175500
+Check term: 176000
+Check term: 176500
+Check term: 177000
+Check term: 177500
+Check term: 178000
+Check term: 178500
+Check term: 179000
+Check term: 179500
+agent_grad_norm 0.0018
+critic_grad_norm 0.1788
+critic_loss 1.1551
+ep_length_mean 500.0000
+pg_loss 0.0957
+q_taken_mean -0.1078
+return_mean 0.1550
+return_std 0.3329
+target_mean -0.0951
+td_error_abs 0.0470
+test_ep_length_mean 500.0000
+test_return_mean 0.1600
+test_return_std 0.3808
+Check term: 180000
+Check term: 180500
+Check term: 181000
+Check term: 181500
+Check term: 182000
+Check term: 182500
+Check term: 183000
+Check term: 183500
+Check term: 184000
+Check term: 184500
+Check term: 185000
+Check term: 185500
+Check term: 186000
+Check term: 186500
+Check term: 187000
+Check term: 187500
+Check term: 188000
+Check term: 188500
+Check term: 189000
+Check term: 189500
+Check term: 190000
+Check term: 190500
+Check term: 191000
+Check term: 191500
+Check term: 192000
+Check term: 192500
+Check term: 193000
+Check term: 193500
+Check term: 194000
+Check term: 194500
+Check term: 195000
+Check term: 195500
+Check term: 196000
+Check term: 196500
+Check term: 197000
+Check term: 197500
+Check term: 198000
+Check term: 198500
+Check term: 199000
+Check term: 199500
+agent_grad_norm 0.0024
+critic_grad_norm 0.2275
+critic_loss 1.4832
+ep_length_mean 500.0000
+pg_loss 0.0943
+q_taken_mean -0.1065
+return_mean 0.1400
+return_std 0.3142
+target_mean -0.0905
+td_error_abs 0.0535
+test_ep_length_mean 500.0000
+test_return_mean 0.1520
+test_return_std 0.3714
+Check term: 200000
+Check term: 200500
+Check term: 201000
+Check term: 201500
+Check term: 202000
+Check term: 202500
+Check term: 203000
+Check term: 203500
+Check term: 204000
+Check term: 204500
+Check term: 205000
+Check term: 205500
+Check term: 206000
+Check term: 206500
+Check term: 207000
+Check term: 207500
+Check term: 208000
+Check term: 208500
+Check term: 209000
+Check term: 209500
+Check term: 210000
+Check term: 210500
+Check term: 211000
+Check term: 211500
+Check term: 212000
+Check term: 212500
+Check term: 213000
+Check term: 213500
+Check term: 214000
+Check term: 214500
+Check term: 215000
+Check term: 215500
+Check term: 216000
+Check term: 216500
+Check term: 217000
+Check term: 217500
+Check term: 218000
+Check term: 218500
+Check term: 219000
+Check term: 219500
+agent_grad_norm 0.0032
+critic_grad_norm 0.2173
+critic_loss 1.3144
+ep_length_mean 500.0000
+pg_loss 0.0958
+q_taken_mean -0.1069
+return_mean 0.1550
+return_std 0.3669
+target_mean -0.0950
+td_error_abs 0.0528
+test_ep_length_mean 500.0000
+test_return_mean 0.1560
+test_return_std 0.3766
+Check term: 220000
+Check term: 220500
+Check term: 221000
+Check term: 221500
+Check term: 222000
+Check term: 222500
+Check term: 223000
+Check term: 223500
+Check term: 224000
+Check term: 224500
+Check term: 225000
+Check term: 225500
+Check term: 226000
+Check term: 226500
+Check term: 227000
+Check term: 227500
+Check term: 228000
+Check term: 228500
+Check term: 229000
+Check term: 229500
+Check term: 230000
+Check term: 230500
+Check term: 231000
+Check term: 231500
+Check term: 232000
+Check term: 232500
+Check term: 233000
+Check term: 233500
+Check term: 234000
+Check term: 234500
+Check term: 235000
+Check term: 235500
+Check term: 236000
+Check term: 236500
+Check term: 237000
+Check term: 237500
+Check term: 238000
+Check term: 238500
+Check term: 239000
+Check term: 239500
+agent_grad_norm 0.0045
+critic_grad_norm 0.2602
+critic_loss 1.3070
+ep_length_mean 500.0000
+pg_loss 0.0865
+q_taken_mean -0.0962
+return_mean 0.1500
+return_std 0.3578
+target_mean -0.0904
+td_error_abs 0.0570
+test_ep_length_mean 500.0000
+test_return_mean 0.1280
+test_return_std 0.3417
+Check term: 240000
+Check term: 240500
+Check term: 241000
+Check term: 241500
+Check term: 242000
+Check term: 242500
+Check term: 243000
+Check term: 243500
+Check term: 244000
+Check term: 244500
+Check term: 245000
+Check term: 245500
+Check term: 246000
+Check term: 246500
+Check term: 247000
+Check term: 247500
+Check term: 248000
+Check term: 248500
+Check term: 249000
+Check term: 249500
+Check term: 250000
+Check term: 250500
+Check term: 251000
+Check term: 251500
+Check term: 252000
+Check term: 252500
+Check term: 253000
+Check term: 253500
+Check term: 254000
+Check term: 254500
+Check term: 255000
+Check term: 255500
+Check term: 256000
+Check term: 256500
+Check term: 257000
+Check term: 257500
+Check term: 258000
+Check term: 258500
+Check term: 259000
+Check term: 259500
+agent_grad_norm 0.0046
+critic_grad_norm 0.2815
+critic_loss 1.3072
+ep_length_mean 500.0000
+pg_loss 0.0840
+q_taken_mean -0.0922
+return_mean 0.1100
+return_std 0.3039
+target_mean -0.0878
+td_error_abs 0.0587
+test_ep_length_mean 500.0000
+test_return_mean 0.1140
+test_return_std 0.3218
+Check term: 260000
+Check term: 260500
+Check term: 261000
+Check term: 261500
+Check term: 262000
+Check term: 262500
+Check term: 263000
+Check term: 263500
+Check term: 264000
+Check term: 264500
+Check term: 265000
+Check term: 265500
+Check term: 266000
+Check term: 266500
+Check term: 267000
+Check term: 267500
+Check term: 268000
+Check term: 268500
+Check term: 269000
+Check term: 269500
+Check term: 270000
+Check term: 270500
+Check term: 271000
+Check term: 271500
+Check term: 272000
+Check term: 272500
+Check term: 273000
+Check term: 273500
+Check term: 274000
+Check term: 274500
+Check term: 275000
+Check term: 275500
+Check term: 276000
+Check term: 276500
+Check term: 277000
+Check term: 277500
+Check term: 278000
+Check term: 278500
+Check term: 279000
+Check term: 279500
+agent_grad_norm 0.0045
+critic_grad_norm 0.2454
+critic_loss 0.8187
+ep_length_mean 500.0000
+pg_loss 0.0824
+q_taken_mean -0.0878
+return_mean 0.0750
+return_std 0.2724
+target_mean -0.0938
+td_error_abs 0.0516
+test_ep_length_mean 500.0000
+test_return_mean 0.1040
+test_return_std 0.3175
+Check term: 280000
+Check term: 280500
+Check term: 281000
+Check term: 281500
+Check term: 282000
+Check term: 282500
+Check term: 283000
+Check term: 283500
+Check term: 284000
+Check term: 284500
+Check term: 285000
+Check term: 285500
+Check term: 286000
+Check term: 286500
+Check term: 287000
+Check term: 287500
+Check term: 288000
+Check term: 288500
+Check term: 289000
+Check term: 289500
+Check term: 290000
+Check term: 290500
+Check term: 291000
+Check term: 291500
+Check term: 292000
+Check term: 292500
+Check term: 293000
+Check term: 293500
+Check term: 294000
+Check term: 294500
+Check term: 295000
+Check term: 295500
+Check term: 296000
+Check term: 296500
+Check term: 297000
+Check term: 297500
+Check term: 298000
+Check term: 298500
+Check term: 299000
+Check term: 299500
+agent_grad_norm 0.0063
+critic_grad_norm 0.2570
+critic_loss 0.3268
+ep_length_mean 500.0000
+pg_loss 0.0788
+q_taken_mean -0.0768
+return_mean 0.0750
+return_std 0.2724
+target_mean -0.0961
+td_error_abs 0.0460
+test_ep_length_mean 500.0000
+test_return_mean 0.1140
+test_return_std 0.3289
+Check term: 300000
+Check term: 300500
+Check term: 301000
+Check term: 301500
+Check term: 302000
+Check term: 302500
+Check term: 303000
+Check term: 303500
+Check term: 304000
+Check term: 304500
+Check term: 305000
+Check term: 305500
+Check term: 306000
+Check term: 306500
+Check term: 307000
+Check term: 307500
+Check term: 308000
+Check term: 308500
+Check term: 309000
+Check term: 309500
+Check term: 310000
+Check term: 310500
+Check term: 311000
+Check term: 311500
+Check term: 312000
+Check term: 312500
+Check term: 313000
+Check term: 313500
+Check term: 314000
+Check term: 314500
+Check term: 315000
+Check term: 315500
+Check term: 316000
+Check term: 316500
+Check term: 317000
+Check term: 317500
+Check term: 318000
+Check term: 318500
+Check term: 319000
+Check term: 319500
+agent_grad_norm 0.0055
+critic_grad_norm 0.3487
+critic_loss 0.1660
+ep_length_mean 500.0000
+pg_loss 0.0691
+q_taken_mean -0.0643
+return_mean 0.0750
+return_std 0.2724
+target_mean -0.0920
+td_error_abs 0.0472
+test_ep_length_mean 500.0000
+test_return_mean 0.1000
+test_return_std 0.2967
+Check term: 320000
+Check term: 320500
+Check term: 321000
+Check term: 321500
+Check term: 322000
+Check term: 322500
+Check term: 323000
+Check term: 323500
+Check term: 324000
+Check term: 324500
+Check term: 325000
+Check term: 325500
+Check term: 326000
+Check term: 326500
+Check term: 327000
+Check term: 327500
+Check term: 328000
+Check term: 328500
+Check term: 329000
+Check term: 329500
+Check term: 330000
+Check term: 330500
+Check term: 331000
+Check term: 331500
+Check term: 332000
+Check term: 332500
+Check term: 333000
+Check term: 333500
+Check term: 334000
+Check term: 334500
+Check term: 335000
+Check term: 335500
+Check term: 336000
+Check term: 336500
+Check term: 337000
+Check term: 337500
+Check term: 338000
+Check term: 338500
+Check term: 339000
+Check term: 339500
+agent_grad_norm 0.0036
+critic_grad_norm 0.3490
+critic_loss 0.3264
+ep_length_mean 500.0000
+pg_loss 0.0632
+q_taken_mean -0.0619
+return_mean 0.0800
+return_std 0.2815
+target_mean -0.0812
+td_error_abs 0.0476
+test_ep_length_mean 500.0000
+test_return_mean 0.1100
+test_return_std 0.3131
+Check term: 340000
+Check term: 340500
+Check term: 341000
+Check term: 341500
+Check term: 342000
+Check term: 342500
+Check term: 343000
+Check term: 343500
+Check term: 344000
+Check term: 344500
+Check term: 345000
+Check term: 345500
+Check term: 346000
+Check term: 346500
+Check term: 347000
+Check term: 347500
+Check term: 348000
+Check term: 348500
+Check term: 349000
+Check term: 349500
+Check term: 350000
+Check term: 350500
+Check term: 351000
+Check term: 351500
+Check term: 352000
+Check term: 352500
+Check term: 353000
+Check term: 353500
+Check term: 354000
+Check term: 354500
+Check term: 355000
+Check term: 355500
+Check term: 356000
+Check term: 356500
+Check term: 357000
+Check term: 357500
+Check term: 358000
+Check term: 358500
+Check term: 359000
+Check term: 359500
+agent_grad_norm 0.0032
+critic_grad_norm 0.3452
+critic_loss 0.3265
+ep_length_mean 500.0000
+pg_loss 0.0519
+q_taken_mean -0.0517
+return_mean 0.0950
+return_std 0.3040
+target_mean -0.0707
+td_error_abs 0.0480
+test_ep_length_mean 500.0000
+test_return_mean 0.1140
+test_return_std 0.3166
+Check term: 360000
+Check term: 360500
+Check term: 361000
+Check term: 361500
+Check term: 362000
+Check term: 362500
+Check term: 363000
+Check term: 363500
+Check term: 364000
+Check term: 364500
+Check term: 365000
+Check term: 365500
+Check term: 366000
+Check term: 366500
+Check term: 367000
+Check term: 367500
+Check term: 368000
+Check term: 368500
+Check term: 369000
+Check term: 369500
+Check term: 370000
+Check term: 370500
+Check term: 371000
+Check term: 371500
+Check term: 372000
+Check term: 372500
+Check term: 373000
+Check term: 373500
+Check term: 374000
+Check term: 374500
+Check term: 375000
+Check term: 375500
+Check term: 376000
+Check term: 376500
+Check term: 377000
+Check term: 377500
+Check term: 378000
+Check term: 378500
+Check term: 379000
+Check term: 379500
+agent_grad_norm 0.0031
+critic_grad_norm 0.3613
+critic_loss 0.3266
+ep_length_mean 500.0000
+pg_loss 0.0390
+q_taken_mean -0.0399
+return_mean 0.1050
+return_std 0.3002
+target_mean -0.0599
+td_error_abs 0.0490
+test_ep_length_mean 500.0000
+test_return_mean 0.1020
+test_return_std 0.2860
+Check term: 380000
+Check term: 380500
+Check term: 381000
+Check term: 381500
+Check term: 382000
+Check term: 382500
+Check term: 383000
+Check term: 383500
+Check term: 384000
+Check term: 384500
+Check term: 385000
+Check term: 385500
+Check term: 386000
+Check term: 386500
+Check term: 387000
+Check term: 387500
+Check term: 388000
+Check term: 388500
+Check term: 389000
+Check term: 389500
+Check term: 390000
+Check term: 390500
+Check term: 391000
+Check term: 391500
+Check term: 392000
+Check term: 392500
+Check term: 393000
+Check term: 393500
+Check term: 394000
+Check term: 394500
+Check term: 395000
+Check term: 395500
+Check term: 396000
+Check term: 396500
+Check term: 397000
+Check term: 397500
+Check term: 398000
+Check term: 398500
+Check term: 399000
+Check term: 399500
+agent_grad_norm 0.0033
+critic_grad_norm 0.3205
+critic_loss 0.4912
+ep_length_mean 500.0000
+pg_loss 0.0292
+q_taken_mean -0.0368
+return_mean 0.1050
+return_std 0.3002
+target_mean -0.0473
+td_error_abs 0.0496
+test_ep_length_mean 500.0000
+test_return_mean 0.0940
+test_return_std 0.2771
+Check term: 400000
+Check term: 400500
+Check term: 401000
+Check term: 401500
+Check term: 402000
+Check term: 402500
+Check term: 403000
+Check term: 403500
+Check term: 404000
+Check term: 404500
+Check term: 405000
+Check term: 405500
+Check term: 406000
+Check term: 406500
+Check term: 407000
+Check term: 407500
+Check term: 408000
+Check term: 408500
+Check term: 409000
+Check term: 409500
+Check term: 410000
+Check term: 410500
+Check term: 411000
+Check term: 411500
+Check term: 412000
+Check term: 412500
+Check term: 413000
+Check term: 413500
+Check term: 414000
+Check term: 414500
+Check term: 415000
+Check term: 415500
+Check term: 416000
+Check term: 416500
+Check term: 417000
+Check term: 417500
+Check term: 418000
+Check term: 418500
+Check term: 419000
+Check term: 419500
+agent_grad_norm 0.0033
+critic_grad_norm 0.2389
+critic_loss 0.6573
+ep_length_mean 500.0000
+pg_loss 0.0385
+q_taken_mean -0.0482
+return_mean 0.0900
+return_std 0.2475
+target_mean -0.0506
+td_error_abs 0.0489
+test_ep_length_mean 500.0000
+test_return_mean 0.0980
+test_return_std 0.2866
+Check term: 420000
+Check term: 420500
+Check term: 421000
+Check term: 421500
+Check term: 422000
+Check term: 422500
+Check term: 423000
+Check term: 423500
+Check term: 424000
+Check term: 424500
+Check term: 425000
+Check term: 425500
+Check term: 426000
+Check term: 426500
+Check term: 427000
+Check term: 427500
+Check term: 428000
+Check term: 428500
+Check term: 429000
+Check term: 429500
+Check term: 430000
+Check term: 430500
+Check term: 431000
+Check term: 431500
+Check term: 432000
+Check term: 432500
+Check term: 433000
+Check term: 433500
+Check term: 434000
+Check term: 434500
+Check term: 435000
+Check term: 435500
+Check term: 436000
+Check term: 436500
+Check term: 437000
+Check term: 437500
+Check term: 438000
+Check term: 438500
+Check term: 439000
+Check term: 439500
+agent_grad_norm 0.0032
+critic_grad_norm 0.2195
+critic_loss 0.5005
+ep_length_mean 500.0000
+pg_loss 0.0457
+q_taken_mean -0.0526
+return_mean 0.0950
+return_std 0.2548
+target_mean -0.0568
+td_error_abs 0.0460
+test_ep_length_mean 500.0000
+test_return_mean 0.1020
+test_return_std 0.2975
+Check term: 440000
+Check term: 440500
+Check term: 441000
+Check term: 441500
+Check term: 442000
+Check term: 442500
+Check term: 443000
+Check term: 443500
+Check term: 444000
+Check term: 444500
+Check term: 445000
+Check term: 445500
+Check term: 446000
+Check term: 446500
+Check term: 447000
+Check term: 447500
+Check term: 448000
+Check term: 448500
+Check term: 449000
+Check term: 449500
+Check term: 450000
+Check term: 450500
+Check term: 451000
+Check term: 451500
+Check term: 452000
+Check term: 452500
+Check term: 453000
+Check term: 453500
+Check term: 454000
+Check term: 454500
+Check term: 455000
+Check term: 455500
+Check term: 456000
+Check term: 456500
+Check term: 457000
+Check term: 457500
+Check term: 458000
+Check term: 458500
+Check term: 459000
+Check term: 459500
+agent_grad_norm 0.0032
+critic_grad_norm 0.2201
+critic_loss 0.6673
+ep_length_mean 500.0000
+pg_loss 0.0537
+q_taken_mean -0.0605
+return_mean 0.1150
+return_std 0.2834
+target_mean -0.0635
+td_error_abs 0.0480
+test_ep_length_mean 500.0000
+test_return_mean 0.1080
+test_return_std 0.3021
+Check term: 460000
+Check term: 460500
+Check term: 461000
+Check term: 461500
+Check term: 462000
+Check term: 462500
+Check term: 463000
+Check term: 463500
+Check term: 464000
+Check term: 464500
+Check term: 465000
+Check term: 465500
+Check term: 466000
+Check term: 466500
+Check term: 467000
+Check term: 467500
+Check term: 468000
+Check term: 468500
+Check term: 469000
+Check term: 469500
+Check term: 470000
+Check term: 470500
+Check term: 471000
+Check term: 471500
+Check term: 472000
+Check term: 472500
+Check term: 473000
+Check term: 473500
+Check term: 474000
+Check term: 474500
+Check term: 475000
+Check term: 475500
+Check term: 476000
+Check term: 476500
+Check term: 477000
+Check term: 477500
+Check term: 478000
+Check term: 478500
+Check term: 479000
+Check term: 479500
+agent_grad_norm 0.0031
+critic_grad_norm 0.2290
+critic_loss 0.9986
+ep_length_mean 500.0000
+pg_loss 0.0575
+q_taken_mean -0.0675
+return_mean 0.1100
+return_std 0.2788
+target_mean -0.0631
+td_error_abs 0.0527
+test_ep_length_mean 500.0000
+test_return_mean 0.1060
+test_return_std 0.2977
+Check term: 480000
+Check term: 480500
+Check term: 481000
+Check term: 481500
+Check term: 482000
+Check term: 482500
+Check term: 483000
+Check term: 483500
+Check term: 484000
+Check term: 484500
+Check term: 485000
+Check term: 485500
+Check term: 486000
+Check term: 486500
+Check term: 487000
+Check term: 487500
+Check term: 488000
+Check term: 488500
+Check term: 489000
+Check term: 489500
+Check term: 490000
+Check term: 490500
+Check term: 491000
+Check term: 491500
+Check term: 492000
+Check term: 492500
+Check term: 493000
+Check term: 493500
+Check term: 494000
+Check term: 494500
+Check term: 495000
+Check term: 495500
+Check term: 496000
+Check term: 496500
+Check term: 497000
+Check term: 497500
+Check term: 498000
+Check term: 498500
+Check term: 499000
+Check term: 499500
+agent_grad_norm 0.0030
+critic_grad_norm 0.2374
+critic_loss 1.0003
+ep_length_mean 500.0000
+pg_loss 0.0727
+q_taken_mean -0.0801
+return_mean 0.1150
+return_std 0.2862
+target_mean -0.0752
+td_error_abs 0.0534
+test_ep_length_mean 500.0000
+test_return_mean 0.1100
+test_return_std 0.3024
+Check term: 500000
+Check term: 500500
+Check term: 501000
+Check term: 501500
+Check term: 502000
+Check term: 502500
+Check term: 503000
+Check term: 503500
+Check term: 504000
+Check term: 504500
+Check term: 505000
+Check term: 505500
+Check term: 506000
+Check term: 506500
+Check term: 507000
+Check term: 507500
+Check term: 508000
+Check term: 508500
+Check term: 509000
+Check term: 509500
+Check term: 510000
+Check term: 510500
+Check term: 511000
+Check term: 511500
+Check term: 512000
+Check term: 512500
+Check term: 513000
+Check term: 513500
+Check term: 514000
+Check term: 514500
+Check term: 515000
+Check term: 515500
+Check term: 516000
+Check term: 516500
+Check term: 517000
+Check term: 517500
+Check term: 518000
+Check term: 518500
+Check term: 519000
+Check term: 519500
+agent_grad_norm 0.0032
+critic_grad_norm 0.2330
+critic_loss 1.0024
+ep_length_mean 500.0000
+pg_loss 0.0675
+q_taken_mean -0.0743
+return_mean 0.1250
+return_std 0.3297
+target_mean -0.0701
+td_error_abs 0.0543
+test_ep_length_mean 500.0000
+test_return_mean 0.1240
+test_return_std 0.3238
+Check term: 520000
+Check term: 520500
+Check term: 521000
+Check term: 521500
+Check term: 522000
+Check term: 522500
+Check term: 523000
+Check term: 523500
+Check term: 524000
+Check term: 524500
+Check term: 525000
+Check term: 525500
+Check term: 526000
+Check term: 526500
+Check term: 527000
+Check term: 527500
+Check term: 528000
+Check term: 528500
+Check term: 529000
+Check term: 529500
+Check term: 530000
+Check term: 530500
+Check term: 531000
+Check term: 531500
+Check term: 532000
+Check term: 532500
+Check term: 533000
+Check term: 533500
+Check term: 534000
+Check term: 534500
+Check term: 535000
+Check term: 535500
+Check term: 536000
+Check term: 536500
+Check term: 537000
+Check term: 537500
+Check term: 538000
+Check term: 538500
+Check term: 539000
+Check term: 539500
+agent_grad_norm 0.0045
+critic_grad_norm 0.2551
+critic_loss 0.8360
+ep_length_mean 500.0000
+pg_loss 0.0629
+q_taken_mean -0.0707
+return_mean 0.1250
+return_std 0.3297
+target_mean -0.0715
+td_error_abs 0.0536
+test_ep_length_mean 500.0000
+test_return_mean 0.1260
+test_return_std 0.3202
+Check term: 540000
+Check term: 540500
+Check term: 541000
+Check term: 541500
+Check term: 542000
+Check term: 542500
+Check term: 543000
+Check term: 543500
+Check term: 544000
+Check term: 544500
+Check term: 545000
+Check term: 545500
+Check term: 546000
+Check term: 546500
+Check term: 547000
+Check term: 547500
+Check term: 548000
+Check term: 548500
+Check term: 549000
+Check term: 549500
+Check term: 550000
+Check term: 550500
+Check term: 551000
+Check term: 551500
+Check term: 552000
+Check term: 552500
+Check term: 553000
+Check term: 553500
+Check term: 554000
+Check term: 554500
+Check term: 555000
+Check term: 555500
+Check term: 556000
+Check term: 556500
+Check term: 557000
+Check term: 557500
+Check term: 558000
+Check term: 558500
+Check term: 559000
+Check term: 559500
+agent_grad_norm 0.0053
+critic_grad_norm 0.2732
+critic_loss 1.0097
+ep_length_mean 500.0000
+pg_loss 0.0537
+q_taken_mean -0.0589
+return_mean 0.0950
+return_std 0.2877
+target_mean -0.0608
+td_error_abs 0.0589
+test_ep_length_mean 500.0000
+test_return_mean 0.1000
+test_return_std 0.2930
+Check term: 560000
+Check term: 560500
+Check term: 561000
+Check term: 561500
+Check term: 562000
+Check term: 562500
+Check term: 563000
+Check term: 563500
+Check term: 564000
+Check term: 564500
+Check term: 565000
+Check term: 565500
+Check term: 566000
+Check term: 566500
+Check term: 567000
+Check term: 567500
+Check term: 568000
+Check term: 568500
+Check term: 569000
+Check term: 569500
+Check term: 570000
+Check term: 570500
+Check term: 571000
+Check term: 571500
+Check term: 572000
+Check term: 572500
+Check term: 573000
+Check term: 573500
+Check term: 574000
+Check term: 574500
+Check term: 575000
+Check term: 575500
+Check term: 576000
+Check term: 576500
+Check term: 577000
+Check term: 577500
+Check term: 578000
+Check term: 578500
+Check term: 579000
+Check term: 579500
+agent_grad_norm 0.0084
+critic_grad_norm 0.2724
+critic_loss 1.1904
+ep_length_mean 500.0000
+pg_loss 0.0358
+q_taken_mean -0.0411
+return_mean 0.0750
+return_std 0.2599
+target_mean -0.0432
+td_error_abs 0.0632
+test_ep_length_mean 500.0000
+test_return_mean 0.1080
+test_return_std 0.3080
+Check term: 580000
+Check term: 580500
+Check term: 581000
+Check term: 581500
+Check term: 582000
+Check term: 582500
+Check term: 583000
+Check term: 583500
+Check term: 584000
+Check term: 584500
+Check term: 585000
+Check term: 585500
+Check term: 586000
+Check term: 586500
+Check term: 587000
+Check term: 587500
+Check term: 588000
+Check term: 588500
+Check term: 589000
+Check term: 589500
+Check term: 590000
+Check term: 590500
+Check term: 591000
+Check term: 591500
+Check term: 592000
+Check term: 592500
+Check term: 593000
+Check term: 593500
+Check term: 594000
+Check term: 594500
+Check term: 595000
+Check term: 595500
+Check term: 596000
+Check term: 596500
+Check term: 597000
+Check term: 597500
+Check term: 598000
+Check term: 598500
+Check term: 599000
+Check term: 599500
+agent_grad_norm 0.0090
+critic_grad_norm 0.3011
+critic_loss 1.0242
+ep_length_mean 500.0000
+pg_loss 0.0287
+q_taken_mean -0.0299
+return_mean 0.0900
+return_std 0.2758
+target_mean -0.0394
+td_error_abs 0.0620
+test_ep_length_mean 500.0000
+test_return_mean 0.1000
+test_return_std 0.3046
+Check term: 600000
+Check term: 600500
+Check term: 601000
+Check term: 601500
+Check term: 602000
+Check term: 602500
+Check term: 603000
+Check term: 603500
+Check term: 604000
+Check term: 604500
+Check term: 605000
+Check term: 605500
+Check term: 606000
+Check term: 606500
+Check term: 607000
+Check term: 607500
+Check term: 608000
+Check term: 608500
+Check term: 609000
+Check term: 609500
+Check term: 610000
+Check term: 610500
+Check term: 611000
+Check term: 611500
+Check term: 612000
+Check term: 612500
+Check term: 613000
+Check term: 613500
+Check term: 614000
+Check term: 614500
+Check term: 615000
+Check term: 615500
+Check term: 616000
+Check term: 616500
+Check term: 617000
+Check term: 617500
+Check term: 618000
+Check term: 618500
+Check term: 619000
+Check term: 619500
+agent_grad_norm 0.0084
+critic_grad_norm 0.3210
+critic_loss 1.0285
+ep_length_mean 500.0000
+pg_loss 0.0232
+q_taken_mean -0.0259
+return_mean 0.1150
+return_std 0.3083
+target_mean -0.0342
+td_error_abs 0.0630
+test_ep_length_mean 500.0000
+test_return_mean 0.0960
+test_return_std 0.3060
+Check term: 620000
+Check term: 620500
+Check term: 621000
+Check term: 621500
+Check term: 622000
+Check term: 622500
+Check term: 623000
+Check term: 623500
+Check term: 624000
+Check term: 624500
+Check term: 625000
+Check term: 625500
+Check term: 626000
+Check term: 626500
+Check term: 627000
+Check term: 627500
+Check term: 628000
+Check term: 628500
+Check term: 629000
+Check term: 629500
+Check term: 630000
+Check term: 630500
+Check term: 631000
+Check term: 631500
+Check term: 632000
+Check term: 632500
+Check term: 633000
+Check term: 633500
+Check term: 634000
+Check term: 634500
+Check term: 635000
+Check term: 635500
+Check term: 636000
+Check term: 636500
+Check term: 637000
+Check term: 637500
+Check term: 638000
+Check term: 638500
+Check term: 639000
+Check term: 639500
+agent_grad_norm 0.0066
+critic_grad_norm 0.3098
+critic_loss 1.2009
+ep_length_mean 500.0000
+pg_loss 0.0173
+q_taken_mean -0.0158
+return_mean 0.1100
+return_std 0.3009
+target_mean -0.0185
+td_error_abs 0.0654
+test_ep_length_mean 500.0000
+test_return_mean 0.0980
+test_return_std 0.3136
+Check term: 640000
+Check term: 640500
+Check term: 641000
+Check term: 641500
+Check term: 642000
+Check term: 642500
+Check term: 643000
+Check term: 643500
+Check term: 644000
+Check term: 644500
+Check term: 645000
+Check term: 645500
+Check term: 646000
+Check term: 646500
+Check term: 647000
+Check term: 647500
+Check term: 648000
+Check term: 648500
+Check term: 649000
+Check term: 649500
+Check term: 650000
+Check term: 650500
+Check term: 651000
+Check term: 651500
+Check term: 652000
+Check term: 652500
+Check term: 653000
+Check term: 653500
+Check term: 654000
+Check term: 654500
+Check term: 655000
+Check term: 655500
+Check term: 656000
+Check term: 656500
+Check term: 657000
+Check term: 657500
+Check term: 658000
+Check term: 658500
+Check term: 659000
+Check term: 659500
+agent_grad_norm 0.0050
+critic_grad_norm 0.3482
+critic_loss 1.0347
+ep_length_mean 500.0000
+pg_loss 0.0152
+q_taken_mean -0.0163
+return_mean 0.1150
+return_std 0.3083
+target_mean -0.0125
+td_error_abs 0.0626
+test_ep_length_mean 500.0000
+test_return_mean 0.1160
+test_return_std 0.3345
+Check term: 660000
+Check term: 660500
+Check term: 661000
+Check term: 661500
+Check term: 662000
+Check term: 662500
+Check term: 663000
+Check term: 663500
+Check term: 664000
+Check term: 664500
+Check term: 665000
+Check term: 665500
+Check term: 666000
+Check term: 666500
+Check term: 667000
+Check term: 667500
+Check term: 668000
+Check term: 668500
+Check term: 669000
+Check term: 669500
+Check term: 670000
+Check term: 670500
+Check term: 671000
+Check term: 671500
+Check term: 672000
+Check term: 672500
+Check term: 673000
+Check term: 673500
+Check term: 674000
+Check term: 674500
+Check term: 675000
+Check term: 675500
+Check term: 676000
+Check term: 676500
+Check term: 677000
+Check term: 677500
+Check term: 678000
+Check term: 678500
+Check term: 679000
+Check term: 679500
+agent_grad_norm 0.0071
+critic_grad_norm 0.2960
+critic_loss 0.5226
+ep_length_mean 500.0000
+pg_loss 0.0317
+q_taken_mean -0.0273
+return_mean 0.1450
+return_std 0.3563
+target_mean -0.0261
+td_error_abs 0.0523
+test_ep_length_mean 500.0000
+test_return_mean 0.1080
+test_return_std 0.3194
+Check term: 680000
+Check term: 680500
+Check term: 681000
+Check term: 681500
+Check term: 682000
+Check term: 682500
+Check term: 683000
+Check term: 683500
+Check term: 684000
+Check term: 684500
+Check term: 685000
+Check term: 685500
+Check term: 686000
+Check term: 686500
+Check term: 687000
+Check term: 687500
+Check term: 688000
+Check term: 688500
+Check term: 689000
+Check term: 689500
+Check term: 690000
+Check term: 690500
+Check term: 691000
+Check term: 691500
+Check term: 692000
+Check term: 692500
+Check term: 693000
+Check term: 693500
+Check term: 694000
+Check term: 694500
+Check term: 695000
+Check term: 695500
+Check term: 696000
+Check term: 696500
+Check term: 697000
+Check term: 697500
+Check term: 698000
+Check term: 698500
+Check term: 699000
+Check term: 699500
+agent_grad_norm 0.0064
+critic_grad_norm 0.2696
+critic_loss 0.6979
+ep_length_mean 500.0000
+pg_loss 0.0244
+q_taken_mean -0.0220
+return_mean 0.1500
+return_std 0.3603
+target_mean -0.0174
+td_error_abs 0.0550
+test_ep_length_mean 500.0000
+test_return_mean 0.1040
+test_return_std 0.3139
+Check term: 700000
+Check term: 700500
+Check term: 701000
+Check term: 701500
+Check term: 702000
+Check term: 702500
+Check term: 703000
+Check term: 703500
+Check term: 704000
+Check term: 704500
+Check term: 705000
+Check term: 705500
+Check term: 706000
+Check term: 706500
+Check term: 707000
+Check term: 707500
+Check term: 708000
+Check term: 708500
+Check term: 709000
+Check term: 709500
+Check term: 710000
+Check term: 710500
+Check term: 711000
+Check term: 711500
+Check term: 712000
+Check term: 712500
+Check term: 713000
+Check term: 713500
+Check term: 714000
+Check term: 714500
+Check term: 715000
+Check term: 715500
+Check term: 716000
+Check term: 716500
+Check term: 717000
+Check term: 717500
+Check term: 718000
+Check term: 718500
+Check term: 719000
+Check term: 719500
+agent_grad_norm 0.0047
+critic_grad_norm 0.3340
+critic_loss 1.0520
+ep_length_mean 500.0000
+pg_loss 0.0103
+q_taken_mean -0.0085
+return_mean 0.1350
+return_std 0.3443
+target_mean -0.0026
+td_error_abs 0.0617
+test_ep_length_mean 500.0000
+test_return_mean 0.0960
+test_return_std 0.2951
+Check term: 720000
+Check term: 720500
+Check term: 721000
+Check term: 721500
+Check term: 722000
+Check term: 722500
+Check term: 723000
+Check term: 723500
+Check term: 724000
+Check term: 724500
+Check term: 725000
+Check term: 725500
+Check term: 726000
+Check term: 726500
+Check term: 727000
+Check term: 727500
+Check term: 728000
+Check term: 728500
+Check term: 729000
+Check term: 729500
+Check term: 730000
+Check term: 730500
+Check term: 731000
+Check term: 731500
+Check term: 732000
+Check term: 732500
+Check term: 733000
+Check term: 733500
+Check term: 734000
+Check term: 734500
+Check term: 735000
+Check term: 735500
+Check term: 736000
+Check term: 736500
+Check term: 737000
+Check term: 737500
+Check term: 738000
+Check term: 738500
+Check term: 739000
+Check term: 739500
+agent_grad_norm 0.0035
+critic_grad_norm 0.3633
+critic_loss 1.2321
+ep_length_mean 500.0000
+pg_loss 0.0116
+q_taken_mean -0.0121
+return_mean 0.1250
+return_std 0.3229
+target_mean -0.0054
+td_error_abs 0.0654
+test_ep_length_mean 500.0000
+test_return_mean 0.0720
+test_return_std 0.2482
+Check term: 740000
+Check term: 740500
+Check term: 741000
+Check term: 741500
+Check term: 742000
+Check term: 742500
+Check term: 743000
+Check term: 743500
+Check term: 744000
+Check term: 744500
+Check term: 745000
+Check term: 745500
+Check term: 746000
+Check term: 746500
+Check term: 747000
+Check term: 747500
+Check term: 748000
+Check term: 748500
+Check term: 749000
+Check term: 749500
+Check term: 750000
+Check term: 750500
+Check term: 751000
+Check term: 751500
+Check term: 752000
+Check term: 752500
+Check term: 753000
+Check term: 753500
+Check term: 754000
+Check term: 754500
+Check term: 755000
+Check term: 755500
+Check term: 756000
+Check term: 756500
+Check term: 757000
+Check term: 757500
+Check term: 758000
+Check term: 758500
+Check term: 759000
+Check term: 759500
+agent_grad_norm 0.0049
+critic_grad_norm 0.3213
+critic_loss 1.2359
+ep_length_mean 500.0000
+pg_loss 0.0176
+q_taken_mean -0.0166
+return_mean 0.1300
+return_std 0.3290
+target_mean -0.0121
+td_error_abs 0.0645
+test_ep_length_mean 500.0000
+test_return_mean 0.0540
+test_return_std 0.2273
+Check term: 760000
+Check term: 760500
+Check term: 761000
+Check term: 761500
+Check term: 762000
+Check term: 762500
+Check term: 763000
+Check term: 763500
+Check term: 764000
+Check term: 764500
+Check term: 765000
+Check term: 765500
+Check term: 766000
+Check term: 766500
+Check term: 767000
+Check term: 767500
+Check term: 768000
+Check term: 768500
+Check term: 769000
+Check term: 769500
+Check term: 770000
+Check term: 770500
+Check term: 771000
+Check term: 771500
+Check term: 772000
+Check term: 772500
+Check term: 773000
+Check term: 773500
+Check term: 774000
+Check term: 774500
+Check term: 775000
+Check term: 775500
+Check term: 776000
+Check term: 776500
+Check term: 777000
+Check term: 777500
+Check term: 778000
+Check term: 778500
+Check term: 779000
+Check term: 779500
+agent_grad_norm 0.0066
+critic_grad_norm 0.3961
+critic_loss 1.5911
+ep_length_mean 500.0000
+pg_loss 0.0082
+q_taken_mean -0.0083
+return_mean 0.1050
+return_std 0.2900
+target_mean -0.0062
+td_error_abs 0.0735
+test_ep_length_mean 500.0000
+test_return_mean 0.0580
+test_return_std 0.2356
+Check term: 780000
+Check term: 780500
+Check term: 781000
+Check term: 781500
+Check term: 782000
+Check term: 782500
+Check term: 783000
+Check term: 783500
+Check term: 784000
+Check term: 784500
+Check term: 785000
+Check term: 785500
+Check term: 786000
+Check term: 786500
+Check term: 787000
+Check term: 787500
+Check term: 788000
+Check term: 788500
+Check term: 789000
+Check term: 789500
+Check term: 790000
+Check term: 790500
+Check term: 791000
+Check term: 791500
+Check term: 792000
+Check term: 792500
+Check term: 793000
+Check term: 793500
+Check term: 794000
+Check term: 794500
+Check term: 795000
+Check term: 795500
+Check term: 796000
+Check term: 796500
+Check term: 797000
+Check term: 797500
+Check term: 798000
+Check term: 798500
+Check term: 799000
+Check term: 799500
+agent_grad_norm 0.0093
+critic_grad_norm 0.4481
+critic_loss 1.4159
+ep_length_mean 500.0000
+pg_loss -0.0001
+q_taken_mean -0.0006
+return_mean 0.0900
+return_std 0.2762
+target_mean -0.0031
+td_error_abs 0.0713
+test_ep_length_mean 500.0000
+test_return_mean 0.0660
+test_return_std 0.2398
+Check term: 800000
+Check term: 800500
+Check term: 801000
+Check term: 801500
+Check term: 802000
+Check term: 802500
+Check term: 803000
+Check term: 803500
+Check term: 804000
+Check term: 804500
+Check term: 805000
+Check term: 805500
+Check term: 806000
+Check term: 806500
+Check term: 807000
+Check term: 807500
+Check term: 808000
+Check term: 808500
+Check term: 809000
+Check term: 809500
+Check term: 810000
+Check term: 810500
+Check term: 811000
+Check term: 811500
+Check term: 812000
+Check term: 812500
+Check term: 813000
+Check term: 813500
+Check term: 814000
+Check term: 814500
+Check term: 815000
+Check term: 815500
+Check term: 816000
+Check term: 816500
+Check term: 817000
+Check term: 817500
+Check term: 818000
+Check term: 818500
+Check term: 819000
+Check term: 819500
+agent_grad_norm 0.0109
+critic_grad_norm 0.4818
+critic_loss 1.2454
+ep_length_mean 500.0000
+pg_loss 0.0187
+q_taken_mean -0.0180
+return_mean 0.1250
+return_std 0.3256
+target_mean -0.0136
+td_error_abs 0.0667
+test_ep_length_mean 500.0000
+test_return_mean 0.0720
+test_return_std 0.2496
+Check term: 820000
+Check term: 820500
+Check term: 821000
+Check term: 821500
+Check term: 822000
+Check term: 822500
+Check term: 823000
+Check term: 823500
+Check term: 824000
+Check term: 824500
+Check term: 825000
+Check term: 825500
+Check term: 826000
+Check term: 826500
+Check term: 827000
+Check term: 827500
+Check term: 828000
+Check term: 828500
+Check term: 829000
+Check term: 829500
+Check term: 830000
+Check term: 830500
+Check term: 831000
+Check term: 831500
+Check term: 832000
+Check term: 832500
+Check term: 833000
+Check term: 833500
+Check term: 834000
+Check term: 834500
+Check term: 835000
+Check term: 835500
+Check term: 836000
+Check term: 836500
+Check term: 837000
+Check term: 837500
+Check term: 838000
+Check term: 838500
+Check term: 839000
+Check term: 839500
+agent_grad_norm 0.0309
+critic_grad_norm 0.4602
+critic_loss 0.8932
+ep_length_mean 500.0000
+pg_loss 0.0244
+q_taken_mean -0.0272
+return_mean 0.1400
+return_std 0.3544
+target_mean -0.0222
+td_error_abs 0.0615
+test_ep_length_mean 500.0000
+test_return_mean 0.0760
+test_return_std 0.2608
+Check term: 840000
+Check term: 840500
+Check term: 841000
+Check term: 841500
+Check term: 842000
+Check term: 842500
+Check term: 843000
+Check term: 843500
+Check term: 844000
+Check term: 844500
+Check term: 845000
+Check term: 845500
+Check term: 846000
+Check term: 846500
+Check term: 847000
+Check term: 847500
+Check term: 848000
+Check term: 848500
+Check term: 849000
+Check term: 849500
+Check term: 850000
+Check term: 850500
+Check term: 851000
+Check term: 851500
+Check term: 852000
+Check term: 852500
+Check term: 853000
+Check term: 853500
+Check term: 854000
+Check term: 854500
+Check term: 855000
+Check term: 855500
+Check term: 856000
+Check term: 856500
+Check term: 857000
+Check term: 857500
+Check term: 858000
+Check term: 858500
+Check term: 859000
+Check term: 859500
+agent_grad_norm 0.0284
+critic_grad_norm 0.4864
+critic_loss 0.8918
+ep_length_mean 500.0000
+pg_loss 0.0176
+q_taken_mean -0.0234
+return_mean 0.1600
+return_std 0.3830
+target_mean -0.0176
+td_error_abs 0.0629
+test_ep_length_mean 500.0000
+test_return_mean 0.0800
+test_return_std 0.2840
+Check term: 860000
+Check term: 860500
+Check term: 861000
+Check term: 861500
+Check term: 862000
+Check term: 862500
+Check term: 863000
+Check term: 863500
+Check term: 864000
+Check term: 864500
+Check term: 865000
+Check term: 865500
+Check term: 866000
+Check term: 866500
+Check term: 867000
+Check term: 867500
+Check term: 868000
+Check term: 868500
+Check term: 869000
+Check term: 869500
+Check term: 870000
+Check term: 870500
+Check term: 871000
+Check term: 871500
+Check term: 872000
+Check term: 872500
+Check term: 873000
+Check term: 873500
+Check term: 874000
+Check term: 874500
+Check term: 875000
+Check term: 875500
+Check term: 876000
+Check term: 876500
+Check term: 877000
+Check term: 877500
+Check term: 878000
+Check term: 878500
+Check term: 879000
+Check term: 879500
+agent_grad_norm 0.0171
+critic_grad_norm 0.4376
+critic_loss 0.5370
+ep_length_mean 500.0000
+pg_loss 0.0243
+q_taken_mean -0.0340
+return_mean 0.1550
+return_std 0.3739
+target_mean -0.0276
+td_error_abs 0.0554
+test_ep_length_mean 500.0000
+test_return_mean 0.0760
+test_return_std 0.2757
+Check term: 880000
+Check term: 880500
+Check term: 881000
+Check term: 881500
+Check term: 882000
+Check term: 882500
+Check term: 883000
+Check term: 883500
+Check term: 884000
+Check term: 884500
+Check term: 885000
+Check term: 885500
+Check term: 886000
+Check term: 886500
+Check term: 887000
+Check term: 887500
+Check term: 888000
+Check term: 888500
+Check term: 889000
+Check term: 889500
+Check term: 890000
+Check term: 890500
+Check term: 891000
+Check term: 891500
+Check term: 892000
+Check term: 892500
+Check term: 893000
+Check term: 893500
+Check term: 894000
+Check term: 894500
+Check term: 895000
+Check term: 895500
+Check term: 896000
+Check term: 896500
+Check term: 897000
+Check term: 897500
+Check term: 898000
+Check term: 898500
+Check term: 899000
+Check term: 899500
+agent_grad_norm 0.0141
+critic_grad_norm 0.4565
+critic_loss 0.8924
+ep_length_mean 500.0000
+pg_loss 0.0168
+q_taken_mean -0.0290
+return_mean 0.1350
+return_std 0.3390
+target_mean -0.0121
+td_error_abs 0.0617
+test_ep_length_mean 500.0000
+test_return_mean 0.0680
+test_return_std 0.2641
+Check term: 900000
+Check term: 900500
+Check term: 901000
+Check term: 901500
+Check term: 902000
+Check term: 902500
+Check term: 903000
+Check term: 903500
+Check term: 904000
+Check term: 904500
+Check term: 905000
+Check term: 905500
+Check term: 906000
+Check term: 906500
+Check term: 907000
+Check term: 907500
+Check term: 908000
+Check term: 908500
+Check term: 909000
+Check term: 909500
+Check term: 910000
+Check term: 910500
+Check term: 911000
+Check term: 911500
+Check term: 912000
+Check term: 912500
+Check term: 913000
+Check term: 913500
+Check term: 914000
+Check term: 914500
+Check term: 915000
+Check term: 915500
+Check term: 916000
+Check term: 916500
+Check term: 917000
+Check term: 917500
+Check term: 918000
+Check term: 918500
+Check term: 919000
+Check term: 919500
+agent_grad_norm 0.0145
+critic_grad_norm 0.4295
+critic_loss 0.7141
+ep_length_mean 500.0000
+pg_loss 0.0129
+q_taken_mean -0.0224
+return_mean 0.1050
+return_std 0.2957
+target_mean -0.0083
+td_error_abs 0.0603
+test_ep_length_mean 500.0000
+test_return_mean 0.0700
+test_return_std 0.2669
+Check term: 920000
+Check term: 920500
+Check term: 921000
+Check term: 921500
+Check term: 922000
+Check term: 922500
+Check term: 923000
+Check term: 923500
+Check term: 924000
+Check term: 924500
+Check term: 925000
+Check term: 925500
+Check term: 926000
+Check term: 926500
+Check term: 927000
+Check term: 927500
+Check term: 928000
+Check term: 928500
+Check term: 929000
+Check term: 929500
+Check term: 930000
+Check term: 930500
+Check term: 931000
+Check term: 931500
+Check term: 932000
+Check term: 932500
+Check term: 933000
+Check term: 933500
+Check term: 934000
+Check term: 934500
+Check term: 935000
+Check term: 935500
+Check term: 936000
+Check term: 936500
+Check term: 937000
+Check term: 937500
+Check term: 938000
+Check term: 938500
+Check term: 939000
+Check term: 939500
+agent_grad_norm 0.0101
+critic_grad_norm 0.4476
+critic_loss 0.8909
+ep_length_mean 500.0000
+pg_loss -0.0091
+q_taken_mean -0.0006
+return_mean 0.0950
+return_std 0.2793
+target_mean 0.0119
+td_error_abs 0.0658
+test_ep_length_mean 500.0000
+test_return_mean 0.0820
+test_return_std 0.2877
+Check term: 940000
+Check term: 940500
+Check term: 941000
+Check term: 941500
+Check term: 942000
+Check term: 942500
+Check term: 943000
+Check term: 943500
+Check term: 944000
+Check term: 944500
+Check term: 945000
+Check term: 945500
+Check term: 946000
+Check term: 946500
+Check term: 947000
+Check term: 947500
+Check term: 948000
+Check term: 948500
+Check term: 949000
+Check term: 949500
+Check term: 950000
+Check term: 950500
+Check term: 951000
+Check term: 951500
+Check term: 952000
+Check term: 952500
+Check term: 953000
+Check term: 953500
+Check term: 954000
+Check term: 954500
+Check term: 955000
+Check term: 955500
+Check term: 956000
+Check term: 956500
+Check term: 957000
+Check term: 957500
+Check term: 958000
+Check term: 958500
+Check term: 959000
+Check term: 959500
+agent_grad_norm 0.0072
+critic_grad_norm 0.4593
+critic_loss 0.7155
+ep_length_mean 500.0000
+pg_loss -0.0087
+q_taken_mean -0.0014
+return_mean 0.0500
+return_std 0.1845
+target_mean 0.0053
+td_error_abs 0.0654
+test_ep_length_mean 500.0000
+test_return_mean 0.0640
+test_return_std 0.2301
+Check term: 960000
+Check term: 960500
+Check term: 961000
+Check term: 961500
+Check term: 962000
+Check term: 962500
+Check term: 963000
+Check term: 963500
+Check term: 964000
+Check term: 964500
+Check term: 965000
+Check term: 965500
+Check term: 966000
+Check term: 966500
+Check term: 967000
+Check term: 967500
+Check term: 968000
+Check term: 968500
+Check term: 969000
+Check term: 969500
+Check term: 970000
+Check term: 970500
+Check term: 971000
+Check term: 971500
+Check term: 972000
+Check term: 972500
+Check term: 973000
+Check term: 973500
+Check term: 974000
+Check term: 974500
+Check term: 975000
+Check term: 975500
+Check term: 976000
+Check term: 976500
+Check term: 977000
+Check term: 977500
+Check term: 978000
+Check term: 978500
+Check term: 979000
+Check term: 979500
+agent_grad_norm 0.0101
+critic_grad_norm 0.4977
+critic_loss 1.0685
+ep_length_mean 500.0000
+pg_loss -0.0169
+q_taken_mean 0.0090
+return_mean 0.0400
+return_std 0.1410
+target_mean 0.0179
+td_error_abs 0.0732
+test_ep_length_mean 500.0000
+test_return_mean 0.0660
+test_return_std 0.2429
+Check term: 980000
+Check term: 980500
+Check term: 981000
+Check term: 981500
+Check term: 982000
+Check term: 982500
+Check term: 983000
+Check term: 983500
+Check term: 984000
+Check term: 984500
+Check term: 985000
+Check term: 985500
+Check term: 986000
+Check term: 986500
+Check term: 987000
+Check term: 987500
+Check term: 988000
+Check term: 988500
+Check term: 989000
+Check term: 989500
+Check term: 990000
+Check term: 990500
+Check term: 991000
+Check term: 991500
+Check term: 992000
+Check term: 992500
+Check term: 993000
+Check term: 993500
+Check term: 994000
+Check term: 994500
+Check term: 995000
+Check term: 995500
+Check term: 996000
+Check term: 996500
+Check term: 997000
+Check term: 997500
+Check term: 998000
+Check term: 998500
+Check term: 999000
+Check term: 999500
+agent_grad_norm 0.0143
+critic_grad_norm 0.4995
+critic_loss 0.7138
+ep_length_mean 500.0000
+pg_loss -0.0107
+q_taken_mean 0.0026
+return_mean 0.0550
+return_std 0.1697
+target_mean 0.0013
+td_error_abs 0.0695
+test_ep_length_mean 500.0000
+test_return_mean 0.0600
+test_return_std 0.2311
+Check term: 1000000
+Check term: 1000500
+Check term: 1001000
+Check term: 1001500
+Check term: 1002000
+Check term: 1002500
+Check term: 1003000
+Check term: 1003500
+Check term: 1004000
+Check term: 1004500
+Check term: 1005000
+Check term: 1005500
+Check term: 1006000
+Check term: 1006500
+Check term: 1007000
+Check term: 1007500
+Check term: 1008000
+Check term: 1008500
+Check term: 1009000
+Check term: 1009500
+Check term: 1010000
+Check term: 1010500
+Check term: 1011000
+Check term: 1011500
+Check term: 1012000
+Check term: 1012500
+Check term: 1013000
+Check term: 1013500
+Check term: 1014000
+Check term: 1014500
+Check term: 1015000
+Check term: 1015500
+Check term: 1016000
+Check term: 1016500
+Check term: 1017000
+Check term: 1017500
+Check term: 1018000
+Check term: 1018500
+Check term: 1019000
+Check term: 1019500
+agent_grad_norm 0.0126
+critic_grad_norm 0.4209
+critic_loss 0.5363
+ep_length_mean 500.0000
+pg_loss -0.0013
+q_taken_mean -0.0103
+return_mean 0.0300
+return_std 0.1036
+target_mean -0.0147
+td_error_abs 0.0673
+test_ep_length_mean 500.0000
+test_return_mean 0.0500
+test_return_std 0.2146
+Check term: 1020000
+Check term: 1020500
+Check term: 1021000
+Check term: 1021500
+Check term: 1022000
+Check term: 1022500
+Check term: 1023000
+Check term: 1023500
+Check term: 1024000
+Check term: 1024500
+Check term: 1025000
+Check term: 1025500
+Check term: 1026000
+Check term: 1026500
+Check term: 1027000
+Check term: 1027500
+Check term: 1028000
+Check term: 1028500
+Check term: 1029000
+Check term: 1029500
+Check term: 1030000
+Check term: 1030500
+Check term: 1031000
+Check term: 1031500
+Check term: 1032000
+Check term: 1032500
+Check term: 1033000
+Check term: 1033500
+Check term: 1034000
+Check term: 1034500
+Check term: 1035000
+Check term: 1035500
+Check term: 1036000
+Check term: 1036500
+Check term: 1037000
+Check term: 1037500
+Check term: 1038000
+Check term: 1038500
+Check term: 1039000
+Check term: 1039500
+agent_grad_norm 0.0180
+critic_grad_norm 0.4042
+critic_loss 0.5387
+ep_length_mean 500.0000
+pg_loss 0.0240
+q_taken_mean -0.0353
+return_mean 0.0250
+return_std 0.0912
+target_mean -0.0411
+td_error_abs 0.0636
+test_ep_length_mean 500.0000
+test_return_mean 0.0380
+test_return_std 0.1938
+Check term: 1040000
+Check term: 1040500
+Check term: 1041000
+Check term: 1041500
+Check term: 1042000
+Check term: 1042500
+Check term: 1043000
+Check term: 1043500
+Check term: 1044000
+Check term: 1044500
+Check term: 1045000
+Check term: 1045500
+Check term: 1046000
+Check term: 1046500
+Check term: 1047000
+Check term: 1047500
+Check term: 1048000
+Check term: 1048500
+Check term: 1049000
+Check term: 1049500
+Check term: 1050000
+Check term: 1050500
+Check term: 1051000
+Check term: 1051500
+Check term: 1052000
+Check term: 1052500
+Check term: 1053000
+Check term: 1053500
+Check term: 1054000
+Check term: 1054500
+Check term: 1055000
+Check term: 1055500
+Check term: 1056000
+Check term: 1056500
+Check term: 1057000
+Check term: 1057500
+Check term: 1058000
+Check term: 1058500
+Check term: 1059000
+Check term: 1059500
+agent_grad_norm 0.0170
+critic_grad_norm 0.4245
+critic_loss 0.5379
+ep_length_mean 500.0000
+pg_loss 0.0277
+q_taken_mean -0.0370
+return_mean 0.0250
+return_std 0.0912
+target_mean -0.0434
+td_error_abs 0.0607
+test_ep_length_mean 500.0000
+test_return_mean 0.0420
+test_return_std 0.2081
+Check term: 1060000
+Check term: 1060500
+Check term: 1061000
+Check term: 1061500
+Check term: 1062000
+Check term: 1062500
+Check term: 1063000
+Check term: 1063500
+Check term: 1064000
+Check term: 1064500
+Check term: 1065000
+Check term: 1065500
+Check term: 1066000
+Check term: 1066500
+Check term: 1067000
+Check term: 1067500
+Check term: 1068000
+Check term: 1068500
+Check term: 1069000
+Check term: 1069500
+Check term: 1070000
+Check term: 1070500
+Check term: 1071000
+Check term: 1071500
+Check term: 1072000
+Check term: 1072500
+Check term: 1073000
+Check term: 1073500
+Check term: 1074000
+Check term: 1074500
+Check term: 1075000
+Check term: 1075500
+Check term: 1076000
+Check term: 1076500
+Check term: 1077000
+Check term: 1077500
+Check term: 1078000
+Check term: 1078500
+Check term: 1079000
+Check term: 1079500
+agent_grad_norm 0.0123
+critic_grad_norm 0.4469
+critic_loss 0.3657
+ep_length_mean 500.0000
+pg_loss 0.0257
+q_taken_mean -0.0332
+return_mean 0.0350
+return_std 0.1348
+target_mean -0.0436
+td_error_abs 0.0594
+test_ep_length_mean 500.0000
+test_return_mean 0.0400
+test_return_std 0.1953
+Check term: 1080000
+Check term: 1080500
+Check term: 1081000
+Check term: 1081500
+Check term: 1082000
+Check term: 1082500
+Check term: 1083000
+Check term: 1083500
+Check term: 1084000
+Check term: 1084500
+Check term: 1085000
+Check term: 1085500
+Check term: 1086000
+Check term: 1086500
+Check term: 1087000
+Check term: 1087500
+Check term: 1088000
+Check term: 1088500
+Check term: 1089000
+Check term: 1089500
+Check term: 1090000
+Check term: 1090500
+Check term: 1091000
+Check term: 1091500
+Check term: 1092000
+Check term: 1092500
+Check term: 1093000
+Check term: 1093500
+Check term: 1094000
+Check term: 1094500
+Check term: 1095000
+Check term: 1095500
+Check term: 1096000
+Check term: 1096500
+Check term: 1097000
+Check term: 1097500
+Check term: 1098000
+Check term: 1098500
+Check term: 1099000
+Check term: 1099500
+agent_grad_norm 0.0183
+critic_grad_norm 0.5649
+critic_loss 0.5448
+ep_length_mean 500.0000
+pg_loss 0.0408
+q_taken_mean -0.0522
+return_mean 0.0200
+return_std 0.1060
+target_mean -0.0456
+td_error_abs 0.0647
+test_ep_length_mean 500.0000
+test_return_mean 0.0460
+test_return_std 0.2071
+Check term: 1100000
+Check term: 1100500
+Check term: 1101000
+Check term: 1101500
+Check term: 1102000
+Check term: 1102500
+Check term: 1103000
+Check term: 1103500
+Check term: 1104000
+Check term: 1104500
+Check term: 1105000
+Check term: 1105500
+Check term: 1106000
+Check term: 1106500
+Check term: 1107000
+Check term: 1107500
+Check term: 1108000
+Check term: 1108500
+Check term: 1109000
+Check term: 1109500
+Check term: 1110000
+Check term: 1110500
+Check term: 1111000
+Check term: 1111500
+Check term: 1112000
+Check term: 1112500
+Check term: 1113000
+Check term: 1113500
+Check term: 1114000
+Check term: 1114500
+Check term: 1115000
+Check term: 1115500
+Check term: 1116000
+Check term: 1116500
+Check term: 1117000
+Check term: 1117500
+Check term: 1118000
+Check term: 1118500
+Check term: 1119000
+Check term: 1119500
+agent_grad_norm 0.0195
+critic_grad_norm 0.6261
+critic_loss 0.7239
+ep_length_mean 500.0000
+pg_loss 0.0190
+q_taken_mean -0.0340
+return_mean 0.0250
+return_std 0.1373
+target_mean -0.0238
+td_error_abs 0.0700
+test_ep_length_mean 500.0000
+test_return_mean 0.0460
+test_return_std 0.2071
+Check term: 1120000
+Check term: 1120500
+Check term: 1121000
+Check term: 1121500
+Check term: 1122000
+Check term: 1122500
+Check term: 1123000
+Check term: 1123500
+Check term: 1124000
+Check term: 1124500
+Check term: 1125000
+Check term: 1125500
+Check term: 1126000
+Check term: 1126500
+Check term: 1127000
+Check term: 1127500
+Check term: 1128000
+Check term: 1128500
+Check term: 1129000
+Check term: 1129500
+Check term: 1130000
+Check term: 1130500
+Check term: 1131000
+Check term: 1131500
+Check term: 1132000
+Check term: 1132500
+Check term: 1133000
+Check term: 1133500
+Check term: 1134000
+Check term: 1134500
+Check term: 1135000
+Check term: 1135500
+Check term: 1136000
+Check term: 1136500
+Check term: 1137000
+Check term: 1137500
+Check term: 1138000
+Check term: 1138500
+Check term: 1139000
+Check term: 1139500
+agent_grad_norm 0.0140
+critic_grad_norm 0.6541
+critic_loss 0.7252
+ep_length_mean 500.0000
+pg_loss -0.0047
+q_taken_mean -0.0115
+return_mean 0.0250
+return_std 0.1373
+target_mean -0.0019
+td_error_abs 0.0741
+test_ep_length_mean 500.0000
+test_return_mean 0.0560
+test_return_std 0.2252
+Check term: 1140000
+Check term: 1140500
+Check term: 1141000
+Check term: 1141500
+Check term: 1142000
+Check term: 1142500
+Check term: 1143000
+Check term: 1143500
+Check term: 1144000
+Check term: 1144500
+Check term: 1145000
+Check term: 1145500
+Check term: 1146000
+Check term: 1146500
+Check term: 1147000
+Check term: 1147500
+Check term: 1148000
+Check term: 1148500
+Check term: 1149000
+Check term: 1149500
+Check term: 1150000
+Check term: 1150500
+Check term: 1151000
+Check term: 1151500
+Check term: 1152000
+Check term: 1152500
+Check term: 1153000
+Check term: 1153500
+Check term: 1154000
+Check term: 1154500
+Check term: 1155000
+Check term: 1155500
+Check term: 1156000
+Check term: 1156500
+Check term: 1157000
+Check term: 1157500
+Check term: 1158000
+Check term: 1158500
+Check term: 1159000
+Check term: 1159500
+agent_grad_norm 0.0097
+critic_grad_norm 0.6212
+critic_loss 0.9062
+ep_length_mean 500.0000
+pg_loss -0.0156
+q_taken_mean 0.0027
+return_mean 0.0400
+return_std 0.1899
+target_mean 0.0158
+td_error_abs 0.0792
+test_ep_length_mean 500.0000
+test_return_mean 0.0620
+test_return_std 0.2385
+Check term: 1160000
+Check term: 1160500
+Check term: 1161000
+Check term: 1161500
+Check term: 1162000
+Check term: 1162500
+Check term: 1163000
+Check term: 1163500
+Check term: 1164000
+Check term: 1164500
+Check term: 1165000
+Check term: 1165500
+Check term: 1166000
+Check term: 1166500
+Check term: 1167000
+Check term: 1167500
+Check term: 1168000
+Check term: 1168500
+Check term: 1169000
+Check term: 1169500
+Check term: 1170000
+Check term: 1170500
+Check term: 1171000
+Check term: 1171500
+Check term: 1172000
+Check term: 1172500
+Check term: 1173000
+Check term: 1173500
+Check term: 1174000
+Check term: 1174500
+Check term: 1175000
+Check term: 1175500
+Check term: 1176000
+Check term: 1176500
+Check term: 1177000
+Check term: 1177500
+Check term: 1178000
+Check term: 1178500
+Check term: 1179000
+Check term: 1179500
+agent_grad_norm 0.0126
+critic_grad_norm 0.6236
+critic_loss 0.9059
+ep_length_mean 500.0000
+pg_loss -0.0343
+q_taken_mean 0.0238
+return_mean 0.0450
+return_std 0.1990
+target_mean 0.0402
+td_error_abs 0.0798
+test_ep_length_mean 500.0000
+test_return_mean 0.0660
+test_return_std 0.2468
+Check term: 1180000
+Check term: 1180500
+Check term: 1181000
+Check term: 1181500
+Check term: 1182000
+Check term: 1182500
+Check term: 1183000
+Check term: 1183500
+Check term: 1184000
+Check term: 1184500
+Check term: 1185000
+Check term: 1185500
+Check term: 1186000
+Check term: 1186500
+Check term: 1187000
+Check term: 1187500
+Check term: 1188000
+Check term: 1188500
+Check term: 1189000
+Check term: 1189500
+Check term: 1190000
+Check term: 1190500
+Check term: 1191000
+Check term: 1191500
+Check term: 1192000
+Check term: 1192500
+Check term: 1193000
+Check term: 1193500
+Check term: 1194000
+Check term: 1194500
+Check term: 1195000
+Check term: 1195500
+Check term: 1196000
+Check term: 1196500
+Check term: 1197000
+Check term: 1197500
+Check term: 1198000
+Check term: 1198500
+Check term: 1199000
+Check term: 1199500
+agent_grad_norm 0.0113
+critic_grad_norm 0.4969
+critic_loss 1.0863
+ep_length_mean 500.0000
+pg_loss -0.0552
+q_taken_mean 0.0465
+return_mean 0.0550
+return_std 0.2205
+target_mean 0.0533
+td_error_abs 0.0803
+test_ep_length_mean 500.0000
+test_return_mean 0.0580
+test_return_std 0.2299
+Check term: 1200000
+Check term: 1200500
+Check term: 1201000
+Check term: 1201500
+Check term: 1202000
+Check term: 1202500
+Check term: 1203000
+Check term: 1203500
+Check term: 1204000
+Check term: 1204500
+Check term: 1205000
+Check term: 1205500
+Check term: 1206000
+Check term: 1206500
+Check term: 1207000
+Check term: 1207500
+Check term: 1208000
+Check term: 1208500
+Check term: 1209000
+Check term: 1209500
+Check term: 1210000
+Check term: 1210500
+Check term: 1211000
+Check term: 1211500
+Check term: 1212000
+Check term: 1212500
+Check term: 1213000
+Check term: 1213500
+Check term: 1214000
+Check term: 1214500
+Check term: 1215000
+Check term: 1215500
+Check term: 1216000
+Check term: 1216500
+Check term: 1217000
+Check term: 1217500
+Check term: 1218000
+Check term: 1218500
+Check term: 1219000
+Check term: 1219500
+agent_grad_norm 0.0146
+critic_grad_norm 0.4988
+critic_loss 1.0880
+ep_length_mean 500.0000
+pg_loss -0.0647
+q_taken_mean 0.0595
+return_mean 0.0550
+return_std 0.2205
+target_mean 0.0653
+td_error_abs 0.0799
+test_ep_length_mean 500.0000
+test_return_mean 0.0580
+test_return_std 0.2299
+Check term: 1220000
+Check term: 1220500
+Check term: 1221000
+Check term: 1221500
+Check term: 1222000
+Check term: 1222500
+Check term: 1223000
+Check term: 1223500
+Check term: 1224000
+Check term: 1224500
+Check term: 1225000
+Check term: 1225500
+Check term: 1226000
+Check term: 1226500
+Check term: 1227000
+Check term: 1227500
+Check term: 1228000
+Check term: 1228500
+Check term: 1229000
+Check term: 1229500
+Check term: 1230000
+Check term: 1230500
+Check term: 1231000
+Check term: 1231500
+Check term: 1232000
+Check term: 1232500
+Check term: 1233000
+Check term: 1233500
+Check term: 1234000
+Check term: 1234500
+Check term: 1235000
+Check term: 1235500
+Check term: 1236000
+Check term: 1236500
+Check term: 1237000
+Check term: 1237500
+Check term: 1238000
+Check term: 1238500
+Check term: 1239000
+Check term: 1239500
+agent_grad_norm 0.0140
+critic_grad_norm 0.5407
+critic_loss 1.0863
+ep_length_mean 500.0000
+pg_loss -0.0689
+q_taken_mean 0.0637
+return_mean 0.0550
+return_std 0.2205
+target_mean 0.0733
+td_error_abs 0.0788
+test_ep_length_mean 500.0000
+test_return_mean 0.0460
+test_return_std 0.2068
+Check term: 1240000
+Check term: 1240500
+Check term: 1241000
+Check term: 1241500
+Check term: 1242000
+Check term: 1242500
+Check term: 1243000
+Check term: 1243500
+Check term: 1244000
+Check term: 1244500
+Check term: 1245000
+Check term: 1245500
+Check term: 1246000
+Check term: 1246500
+Check term: 1247000
+Check term: 1247500
+Check term: 1248000
+Check term: 1248500
+Check term: 1249000
+Check term: 1249500
+Check term: 1250000
+Check term: 1250500
+Check term: 1251000
+Check term: 1251500
+Check term: 1252000
+Check term: 1252500
+Check term: 1253000
+Check term: 1253500
+Check term: 1254000
+Check term: 1254500
+Check term: 1255000
+Check term: 1255500
+Check term: 1256000
+Check term: 1256500
+Check term: 1257000
+Check term: 1257500
+Check term: 1258000
+Check term: 1258500
+Check term: 1259000
+Check term: 1259500
+agent_grad_norm 0.0125
+critic_grad_norm 0.6352
+critic_loss 0.9063
+ep_length_mean 500.0000
+pg_loss -0.0581
+q_taken_mean 0.0467
+return_mean 0.0550
+return_std 0.2205
+target_mean 0.0496
+td_error_abs 0.0770
+test_ep_length_mean 500.0000
+test_return_mean 0.0400
+test_return_std 0.1934
+Check term: 1260000
+Check term: 1260500
+Check term: 1261000
+Check term: 1261500
+Check term: 1262000
+Check term: 1262500
+Check term: 1263000
+Check term: 1263500
+Check term: 1264000
+Check term: 1264500
+Check term: 1265000
+Check term: 1265500
+Check term: 1266000
+Check term: 1266500
+Check term: 1267000
+Check term: 1267500
+Check term: 1268000
+Check term: 1268500
+Check term: 1269000
+Check term: 1269500
+Check term: 1270000
+Check term: 1270500
+Check term: 1271000
+Check term: 1271500
+Check term: 1272000
+Check term: 1272500
+Check term: 1273000
+Check term: 1273500
+Check term: 1274000
+Check term: 1274500
+Check term: 1275000
+Check term: 1275500
+Check term: 1276000
+Check term: 1276500
+Check term: 1277000
+Check term: 1277500
+Check term: 1278000
+Check term: 1278500
+Check term: 1279000
+Check term: 1279500
+agent_grad_norm 0.0094
+critic_grad_norm 0.5880
+critic_loss 0.9095
+ep_length_mean 500.0000
+pg_loss -0.0312
+q_taken_mean 0.0138
+return_mean 0.0500
+return_std 0.2114
+target_mean 0.0178
+td_error_abs 0.0762
+test_ep_length_mean 500.0000
+test_return_mean 0.0300
+test_return_std 0.1658
+Check term: 1280000
+Check term: 1280500
+Check term: 1281000
+Check term: 1281500
+Check term: 1282000
+Check term: 1282500
+Check term: 1283000
+Check term: 1283500
+Check term: 1284000
+Check term: 1284500
+Check term: 1285000
+Check term: 1285500
+Check term: 1286000
+Check term: 1286500
+Check term: 1287000
+Check term: 1287500
+Check term: 1288000
+Check term: 1288500
+Check term: 1289000
+Check term: 1289500
+Check term: 1290000
+Check term: 1290500
+Check term: 1291000
+Check term: 1291500
+Check term: 1292000
+Check term: 1292500
+Check term: 1293000
+Check term: 1293500
+Check term: 1294000
+Check term: 1294500
+Check term: 1295000
+Check term: 1295500
+Check term: 1296000
+Check term: 1296500
+Check term: 1297000
+Check term: 1297500
+Check term: 1298000
+Check term: 1298500
+Check term: 1299000
+Check term: 1299500
+agent_grad_norm 0.0080
+critic_grad_norm 0.6055
+critic_loss 0.7309
+ep_length_mean 500.0000
+pg_loss -0.0439
+q_taken_mean 0.0312
+return_mean 0.0350
+return_std 0.1587
+target_mean 0.0304
+td_error_abs 0.0756
+test_ep_length_mean 500.0000
+test_return_mean 0.0280
+test_return_std 0.1597
+Check term: 1300000
+Check term: 1300500
+Check term: 1301000
+Check term: 1301500
+Check term: 1302000
+Check term: 1302500
+Check term: 1303000
+Check term: 1303500
+Check term: 1304000
+Check term: 1304500
+Check term: 1305000
+Check term: 1305500
+Check term: 1306000
+Check term: 1306500
+Check term: 1307000
+Check term: 1307500
+Check term: 1308000
+Check term: 1308500
+Check term: 1309000
+Check term: 1309500
+Check term: 1310000
+Check term: 1310500
+Check term: 1311000
+Check term: 1311500
+Check term: 1312000
+Check term: 1312500
+Check term: 1313000
+Check term: 1313500
+Check term: 1314000
+Check term: 1314500
+Check term: 1315000
+Check term: 1315500
+Check term: 1316000
+Check term: 1316500
+Check term: 1317000
+Check term: 1317500
+Check term: 1318000
+Check term: 1318500
+Check term: 1319000
+Check term: 1319500
+agent_grad_norm 0.0076
+critic_grad_norm 0.6949
+critic_loss 0.7339
+ep_length_mean 500.0000
+pg_loss -0.0224
+q_taken_mean 0.0064
+return_mean 0.0400
+return_std 0.1711
+target_mean 0.0074
+td_error_abs 0.0739
+test_ep_length_mean 500.0000
+test_return_mean 0.0180
+test_return_std 0.1161
+Check term: 1320000
+Check term: 1320500
+Check term: 1321000
+Check term: 1321500
+Check term: 1322000
+Check term: 1322500
+Check term: 1323000
+Check term: 1323500
+Check term: 1324000
+Check term: 1324500
+Check term: 1325000
+Check term: 1325500
+Check term: 1326000
+Check term: 1326500
+Check term: 1327000
+Check term: 1327500
+Check term: 1328000
+Check term: 1328500
+Check term: 1329000
+Check term: 1329500
+Check term: 1330000
+Check term: 1330500
+Check term: 1331000
+Check term: 1331500
+Check term: 1332000
+Check term: 1332500
+Check term: 1333000
+Check term: 1333500
+Check term: 1334000
+Check term: 1334500
+Check term: 1335000
+Check term: 1335500
+Check term: 1336000
+Check term: 1336500
+Check term: 1337000
+Check term: 1337500
+Check term: 1338000
+Check term: 1338500
+Check term: 1339000
+Check term: 1339500
+agent_grad_norm 0.0099
+critic_grad_norm 0.6750
+critic_loss 0.5561
+ep_length_mean 500.0000
+pg_loss -0.0116
+q_taken_mean 0.0031
+return_mean 0.0500
+return_std 0.1925
+target_mean -0.0009
+td_error_abs 0.0732
+test_ep_length_mean 500.0000
+test_return_mean 0.0240
+test_return_std 0.1295
+Check term: 1340000
+Check term: 1340500
+Check term: 1341000
+Check term: 1341500
+Check term: 1342000
+Check term: 1342500
+Check term: 1343000
+Check term: 1343500
+Check term: 1344000
+Check term: 1344500
+Check term: 1345000
+Check term: 1345500
+Check term: 1346000
+Check term: 1346500
+Check term: 1347000
+Check term: 1347500
+Check term: 1348000
+Check term: 1348500
+Check term: 1349000
+Check term: 1349500
+Check term: 1350000
+Check term: 1350500
+Check term: 1351000
+Check term: 1351500
+Check term: 1352000
+Check term: 1352500
+Check term: 1353000
+Check term: 1353500
+Check term: 1354000
+Check term: 1354500
+Check term: 1355000
+Check term: 1355500
+Check term: 1356000
+Check term: 1356500
+Check term: 1357000
+Check term: 1357500
+Check term: 1358000
+Check term: 1358500
+Check term: 1359000
+Check term: 1359500
+agent_grad_norm 0.0091
+critic_grad_norm 0.8237
+critic_loss 1.1070
+ep_length_mean 500.0000
+pg_loss -0.0554
+q_taken_mean 0.0470
+return_mean 0.0350
+return_std 0.1399
+target_mean 0.0564
+td_error_abs 0.0822
+test_ep_length_mean 500.0000
+test_return_mean 0.0240
+test_return_std 0.1295
+Check term: 1360000
+Check term: 1360500
+Check term: 1361000
+Check term: 1361500
+Check term: 1362000
+Check term: 1362500
+Check term: 1363000
+Check term: 1363500
+Check term: 1364000
+Check term: 1364500
+Check term: 1365000
+Check term: 1365500
+Check term: 1366000
+Check term: 1366500
+Check term: 1367000
+Check term: 1367500
+Check term: 1368000
+Check term: 1368500
+Check term: 1369000
+Check term: 1369500
+Check term: 1370000
+Check term: 1370500
+Check term: 1371000
+Check term: 1371500
+Check term: 1372000
+Check term: 1372500
+Check term: 1373000
+Check term: 1373500
+Check term: 1374000
+Check term: 1374500
+Check term: 1375000
+Check term: 1375500
+Check term: 1376000
+Check term: 1376500
+Check term: 1377000
+Check term: 1377500
+Check term: 1378000
+Check term: 1378500
+Check term: 1379000
+Check term: 1379500
+agent_grad_norm 0.0101
+critic_grad_norm 1.0582
+critic_loss 1.1055
+ep_length_mean 500.0000
+pg_loss -0.0580
+q_taken_mean 0.0457
+return_mean 0.0350
+return_std 0.1399
+target_mean 0.0656
+td_error_abs 0.0852
+test_ep_length_mean 500.0000
+test_return_mean 0.0340
+test_return_std 0.1571
+Check term: 1380000
+Check term: 1380500
+Check term: 1381000
+Check term: 1381500
+Check term: 1382000
+Check term: 1382500
+Check term: 1383000
+Check term: 1383500
+Check term: 1384000
+Check term: 1384500
+Check term: 1385000
+Check term: 1385500
+Check term: 1386000
+Check term: 1386500
+Check term: 1387000
+Check term: 1387500
+Check term: 1388000
+Check term: 1388500
+Check term: 1389000
+Check term: 1389500
+Check term: 1390000
+Check term: 1390500
+Check term: 1391000
+Check term: 1391500
+Check term: 1392000
+Check term: 1392500
+Check term: 1393000
+Check term: 1393500
+Check term: 1394000
+Check term: 1394500
+Check term: 1395000
+Check term: 1395500
+Check term: 1396000
+Check term: 1396500
+Check term: 1397000
+Check term: 1397500
+Check term: 1398000
+Check term: 1398500
+Check term: 1399000
+Check term: 1399500
+agent_grad_norm 0.0108
+critic_grad_norm 0.9443
+critic_loss 0.9242
+ep_length_mean 500.0000
+pg_loss -0.0434
+q_taken_mean 0.0262
+return_mean 0.0500
+return_std 0.1925
+target_mean 0.0499
+td_error_abs 0.0778
+test_ep_length_mean 500.0000
+test_return_mean 0.0520
+test_return_std 0.1917
+Check term: 1400000
+Check term: 1400500
+Check term: 1401000
+Check term: 1401500
+Check term: 1402000
+Check term: 1402500
+Check term: 1403000
+Check term: 1403500
+Check term: 1404000
+Check term: 1404500
+Check term: 1405000
+Check term: 1405500
+Check term: 1406000
+Check term: 1406500
+Check term: 1407000
+Check term: 1407500
+Check term: 1408000
+Check term: 1408500
+Check term: 1409000
+Check term: 1409500
+Check term: 1410000
+Check term: 1410500
+Check term: 1411000
+Check term: 1411500
+Check term: 1412000
+Check term: 1412500
+Check term: 1413000
+Check term: 1413500
+Check term: 1414000
+Check term: 1414500
+Check term: 1415000
+Check term: 1415500
+Check term: 1416000
+Check term: 1416500
+Check term: 1417000
+Check term: 1417500
+Check term: 1418000
+Check term: 1418500
+Check term: 1419000
+Check term: 1419500
+agent_grad_norm 0.0104
+critic_grad_norm 0.9179
+critic_loss 0.9270
+ep_length_mean 500.0000
+pg_loss -0.0514
+q_taken_mean 0.0382
+return_mean 0.0500
+return_std 0.1925
+target_mean 0.0586
+td_error_abs 0.0783
+test_ep_length_mean 500.0000
+test_return_mean 0.0580
+test_return_std 0.2258
+Check term: 1420000
+Check term: 1420500
+Check term: 1421000
+Check term: 1421500
+Check term: 1422000
+Check term: 1422500
+Check term: 1423000
+Check term: 1423500
+Check term: 1424000
+Check term: 1424500
+Check term: 1425000
+Check term: 1425500
+Check term: 1426000
+Check term: 1426500
+Check term: 1427000
+Check term: 1427500
+Check term: 1428000
+Check term: 1428500
+Check term: 1429000
+Check term: 1429500
+Check term: 1430000
+Check term: 1430500
+Check term: 1431000
+Check term: 1431500
+Check term: 1432000
+Check term: 1432500
+Check term: 1433000
+Check term: 1433500
+Check term: 1434000
+Check term: 1434500
+Check term: 1435000
+Check term: 1435500
+Check term: 1436000
+Check term: 1436500
+Check term: 1437000
+Check term: 1437500
+Check term: 1438000
+Check term: 1438500
+Check term: 1439000
+Check term: 1439500
+agent_grad_norm 0.0113
+critic_grad_norm 0.9528
+critic_loss 1.2990
+ep_length_mean 500.0000
+pg_loss -0.0754
+q_taken_mean 0.0495
+return_mean 0.0450
+return_std 0.1834
+target_mean 0.0687
+td_error_abs 0.0851
+test_ep_length_mean 500.0000
+test_return_mean 0.0620
+test_return_std 0.2326
+Check term: 1440000
+Check term: 1440500
+Check term: 1441000
+Check term: 1441500
+Check term: 1442000
+Check term: 1442500
+Check term: 1443000
+Check term: 1443500
+Check term: 1444000
+Check term: 1444500
+Check term: 1445000
+Check term: 1445500
+Check term: 1446000
+Check term: 1446500
+Check term: 1447000
+Check term: 1447500
+Check term: 1448000
+Check term: 1448500
+Check term: 1449000
+Check term: 1449500
+Check term: 1450000
+Check term: 1450500
+Check term: 1451000
+Check term: 1451500
+Check term: 1452000
+Check term: 1452500
+Check term: 1453000
+Check term: 1453500
+Check term: 1454000
+Check term: 1454500
+Check term: 1455000
+Check term: 1455500
+Check term: 1456000
+Check term: 1456500
+Check term: 1457000
+Check term: 1457500
+Check term: 1458000
+Check term: 1458500
+Check term: 1459000
+Check term: 1459500
+agent_grad_norm 0.0143
+critic_grad_norm 0.6853
+critic_loss 0.7483
+ep_length_mean 500.0000
+pg_loss -0.0357
+q_taken_mean 0.0115
+return_mean 0.0550
+return_std 0.2270
+target_mean 0.0242
+td_error_abs 0.0760
+test_ep_length_mean 500.0000
+test_return_mean 0.0600
+test_return_std 0.2265
+Check term: 1460000
+Check term: 1460500
+Check term: 1461000
+Check term: 1461500
+Check term: 1462000
+Check term: 1462500
+Check term: 1463000
+Check term: 1463500
+Check term: 1464000
+Check term: 1464500
+Check term: 1465000
+Check term: 1465500
+Check term: 1466000
+Check term: 1466500
+Check term: 1467000
+Check term: 1467500
+Check term: 1468000
+Check term: 1468500
+Check term: 1469000
+Check term: 1469500
+Check term: 1470000
+Check term: 1470500
+Check term: 1471000
+Check term: 1471500
+Check term: 1472000
+Check term: 1472500
+Check term: 1473000
+Check term: 1473500
+Check term: 1474000
+Check term: 1474500
+Check term: 1475000
+Check term: 1475500
+Check term: 1476000
+Check term: 1476500
+Check term: 1477000
+Check term: 1477500
+Check term: 1478000
+Check term: 1478500
+Check term: 1479000
+Check term: 1479500
+agent_grad_norm 0.0141
+critic_grad_norm 0.5711
+critic_loss 0.7497
+ep_length_mean 500.0000
+pg_loss -0.0470
+q_taken_mean 0.0255
+return_mean 0.0500
+return_std 0.2147
+target_mean 0.0295
+td_error_abs 0.0738
+test_ep_length_mean 500.0000
+test_return_mean 0.0560
+test_return_std 0.2181
+Check term: 1480000
+Check term: 1480500
+Check term: 1481000
+Check term: 1481500
+Check term: 1482000
+Check term: 1482500
+Check term: 1483000
+Check term: 1483500
+Check term: 1484000
+Check term: 1484500
+Check term: 1485000
+Check term: 1485500
+Check term: 1486000
+Check term: 1486500
+Check term: 1487000
+Check term: 1487500
+Check term: 1488000
+Check term: 1488500
+Check term: 1489000
+Check term: 1489500
+Check term: 1490000
+Check term: 1490500
+Check term: 1491000
+Check term: 1491500
+Check term: 1492000
+Check term: 1492500
+Check term: 1493000
+Check term: 1493500
+Check term: 1494000
+Check term: 1494500
+Check term: 1495000
+Check term: 1495500
+Check term: 1496000
+Check term: 1496500
+Check term: 1497000
+Check term: 1497500
+Check term: 1498000
+Check term: 1498500
+Check term: 1499000
+Check term: 1499500
+agent_grad_norm 0.0117
+critic_grad_norm 0.6356
+critic_loss 0.7501
+ep_length_mean 500.0000
+pg_loss -0.0612
+q_taken_mean 0.0415
+return_mean 0.0400
+return_std 0.1932
+target_mean 0.0454
+td_error_abs 0.0757
+test_ep_length_mean 500.0000
+test_return_mean 0.0440
+test_return_std 0.1992
+Check term: 1500000
+Check term: 1500500
+Check term: 1501000
+Check term: 1501500
+Check term: 1502000
+Check term: 1502500
+Check term: 1503000
+Check term: 1503500
+Check term: 1504000
+Check term: 1504500
+Check term: 1505000
+Check term: 1505500
+Check term: 1506000
+Check term: 1506500
+Check term: 1507000
+Check term: 1507500
+Check term: 1508000
+Check term: 1508500
+Check term: 1509000
+Check term: 1509500
+Check term: 1510000
+Check term: 1510500
+Check term: 1511000
+Check term: 1511500
+Check term: 1512000
+Check term: 1512500
+Check term: 1513000
+Check term: 1513500
+Check term: 1514000
+Check term: 1514500
+Check term: 1515000
+Check term: 1515500
+Check term: 1516000
+Check term: 1516500
+Check term: 1517000
+Check term: 1517500
+Check term: 1518000
+Check term: 1518500
+Check term: 1519000
+Check term: 1519500
+agent_grad_norm 0.0113
+critic_grad_norm 0.6298
+critic_loss 0.7513
+ep_length_mean 500.0000
+pg_loss -0.0803
+q_taken_mean 0.0610
+return_mean 0.0400
+return_std 0.1932
+target_mean 0.0566
+td_error_abs 0.0815
+test_ep_length_mean 500.0000
+test_return_mean 0.0400
+test_return_std 0.1849
+Check term: 1520000
+Check term: 1520500
+Check term: 1521000
+Check term: 1521500
+Check term: 1522000
+Check term: 1522500
+Check term: 1523000
+Check term: 1523500
+Check term: 1524000
+Check term: 1524500
+Check term: 1525000
+Check term: 1525500
+Check term: 1526000
+Check term: 1526500
+Check term: 1527000
+Check term: 1527500
+Check term: 1528000
+Check term: 1528500
+Check term: 1529000
+Check term: 1529500
+Check term: 1530000
+Check term: 1530500
+Check term: 1531000
+Check term: 1531500
+Check term: 1532000
+Check term: 1532500
+Check term: 1533000
+Check term: 1533500
+Check term: 1534000
+Check term: 1534500
+Check term: 1535000
+Check term: 1535500
+Check term: 1536000
+Check term: 1536500
+Check term: 1537000
+Check term: 1537500
+Check term: 1538000
+Check term: 1538500
+Check term: 1539000
+Check term: 1539500
+agent_grad_norm 0.0245
+critic_grad_norm 0.5414
+critic_loss 0.3792
+ep_length_mean 500.0000
+pg_loss -0.0523
+q_taken_mean 0.0410
+return_mean 0.0350
+return_std 0.1809
+target_mean 0.0375
+td_error_abs 0.0740
+test_ep_length_mean 500.0000
+test_return_mean 0.0300
+test_return_std 0.1648
+Check term: 1540000
+Check term: 1540500
+Check term: 1541000
+Check term: 1541500
+Check term: 1542000
+Check term: 1542500
+Check term: 1543000
+Check term: 1543500
+Check term: 1544000
+Check term: 1544500
+Check term: 1545000
+Check term: 1545500
+Check term: 1546000
+Check term: 1546500
+Check term: 1547000
+Check term: 1547500
+Check term: 1548000
+Check term: 1548500
+Check term: 1549000
+Check term: 1549500
+Check term: 1550000
+Check term: 1550500
+Check term: 1551000
+Check term: 1551500
+Check term: 1552000
+Check term: 1552500
+Check term: 1553000
+Check term: 1553500
+Check term: 1554000
+Check term: 1554500
+Check term: 1555000
+Check term: 1555500
+Check term: 1556000
+Check term: 1556500
+Check term: 1557000
+Check term: 1557500
+Check term: 1558000
+Check term: 1558500
+Check term: 1559000
+Check term: 1559500
+agent_grad_norm 0.0252
+critic_grad_norm 0.6292
+critic_loss 0.5666
+ep_length_mean 500.0000
+pg_loss -0.0628
+q_taken_mean 0.0526
+return_mean 0.0300
+return_std 0.1685
+target_mean 0.0465
+td_error_abs 0.0778
+test_ep_length_mean 500.0000
+test_return_mean 0.0340
+test_return_std 0.1760
+Check term: 1560000
+Check term: 1560500
+Check term: 1561000
+Check term: 1561500
+Check term: 1562000
+Check term: 1562500
+Check term: 1563000
+Check term: 1563500
+Check term: 1564000
+Check term: 1564500
+Check term: 1565000
+Check term: 1565500
+Check term: 1566000
+Check term: 1566500
+Check term: 1567000
+Check term: 1567500
+Check term: 1568000
+Check term: 1568500
+Check term: 1569000
+Check term: 1569500
+Check term: 1570000
+Check term: 1570500
+Check term: 1571000
+Check term: 1571500
+Check term: 1572000
+Check term: 1572500
+Check term: 1573000
+Check term: 1573500
+Check term: 1574000
+Check term: 1574500
+Check term: 1575000
+Check term: 1575500
+Check term: 1576000
+Check term: 1576500
+Check term: 1577000
+Check term: 1577500
+Check term: 1578000
+Check term: 1578500
+Check term: 1579000
+Check term: 1579500
+agent_grad_norm 0.0252
+critic_grad_norm 0.6923
+critic_loss 0.3851
+ep_length_mean 500.0000
+pg_loss -0.0619
+q_taken_mean 0.0551
+return_mean 0.0300
+return_std 0.1685
+target_mean 0.0388
+td_error_abs 0.0781
+test_ep_length_mean 500.0000
+test_return_mean 0.0300
+test_return_std 0.1648
+Check term: 1580000

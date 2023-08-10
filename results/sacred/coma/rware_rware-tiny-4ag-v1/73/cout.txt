@@ -1,0 +1,4 @@
+4
+Check term: 0
+torch.Size([10, 51, 4, 5]) 0
+IN BSC CHECK avail_actions: cuda:0

@@ -1,0 +1,35 @@
+{
+  "cell_counter": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-06-05T14:08:23.160849"
+    ],
+    "values": [
+      83
+    ]
+  },
+  "go_explore_return": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-06-05T14:08:23.160849"
+    ],
+    "values": [
+      0.0
+    ]
+  },
+  "traj_length": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-06-05T14:08:23.160849"
+    ],
+    "values": [
+      50
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+Check term: 0
+Check term: 500
+Check term: 1000
+Check term: 1500
+Check term: 2000
+Check term: 2500
+Check term: 3000
+Check term: 3500
+Check term: 4000
+Check term: 4500
+Check term: 5000
+Check term: 5500
+Check term: 6000
+Check term: 6500
+Check term: 7000
+Check term: 7500
+Check term: 8000
+Check term: 8500
+Check term: 9000
+Check term: 9500
+Check term: 10000
+Check term: 10500
+Check term: 11000
+Check term: 11500
+Check term: 12000
+Check term: 12500
+Check term: 13000
+Check term: 13500
+Check term: 14000
+Check term: 14500
+Check term: 15000
+Check term: 15500
+Check term: 16000
+Check term: 16500
+Check term: 17000
+Check term: 17500
+Check term: 18000
+Check term: 18500
+Check term: 19000
+Check term: 19500
+agent_grad_norm 0.0037
+critic_grad_norm 0.5982
+critic_loss 0.9997
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0205
+icm_reward_inverse_loss 0.4705
+pg_loss -0.0125
+q_taken_mean -0.0576
+return_mean 0.0000
+return_std 0.0000
+target_mean -0.0535
+td_error_abs 0.2548
+test_ep_length_mean 500.0000
+test_return_mean 0.0400
+test_return_std 0.1960
+Check term: 20000
+Check term: 20500
+Check term: 21000
+Check term: 21500
+Check term: 22000
+Check term: 22500
+Check term: 23000
+Check term: 23500
+Check term: 24000
+Check term: 24500
+Check term: 25000
+Check term: 25500
+Check term: 26000
+Check term: 26500
+Check term: 27000
+Check term: 27500
+Check term: 28000
+Check term: 28500
+Check term: 29000
+Check term: 29500
+Check term: 30000
+Check term: 30500
+Check term: 31000
+Check term: 31500
+Check term: 32000
+Check term: 32500
+Check term: 33000
+Check term: 33500
+Check term: 34000
+Check term: 34500
+Check term: 35000
+Check term: 35500
+Check term: 36000
+Check term: 36500
+Check term: 37000
+Check term: 37500
+Check term: 38000
+Check term: 38500
+Check term: 39000
+Check term: 39500
+agent_grad_norm 0.0031
+critic_grad_norm 0.4466
+critic_loss 0.5046
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0123
+icm_reward_inverse_loss 0.4543
+pg_loss 0.1840
+q_taken_mean -0.2295
+return_mean 0.0125
+return_std 0.0781
+target_mean -0.2169
+td_error_abs 0.1662
+test_ep_length_mean 500.0000
+test_return_mean 0.0200
+test_return_std 0.0980
+Check term: 40000

@@ -1,0 +1,24 @@
+CHECK input_shape: 142
+CHECK icm_agent action_shape: 5
+cuda:0
+cuda:0
+Check term: 0
+max_t: 26
+CHECK rewards shape: 10 25
+CHECK actions shape 10 26 tensor([[0],
+        [4]], device='cuda:0')
+CHECK actions shape 10 26
+CHECK states: 10 tensor([[False, False,  True,  ...,  True,  True,  True],
+        [False, False,  True,  ...,  True,  True,  True],
+        [False, False,  True,  ...,  True,  True,  True],
+        ...,
+        [False, False,  True,  ...,  True,  True,  True],
+        [False, False,  True,  ...,  True,  True,  True],
+        [False, False, False,  ...,  True,  True,  True]], device='cuda:0')
+cuda:0
+encode_state:  torch.Size([10, 26, 128])
+encode_next_state:  torch.Size([10, 26, 128])
+torch.Size([10, 52, 128])
+CHECK_________________________
+cuda:0
+action: torch.Size([10, 26, 2, 1, 5])

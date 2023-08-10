@@ -1,0 +1,5698 @@
+4
+Check term: 0
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 1000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 1500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 2000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 2500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 3000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 3500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 4000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 4500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 5000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 5500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 6000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 6500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 7000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 7500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 8000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 8500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 9000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 9500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 10000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 10500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 11000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 11500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 12000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 12500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 13000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 13500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 14000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 14500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 15000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 15500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 16000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 16500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 17000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 17500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 18000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 18500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 19000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 19500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 20000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0017
+return_std 0.0235
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 20500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0017
+return_std 0.0235
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 21000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0017
+return_std 0.0235
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 21500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0017
+return_std 0.0235
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 22000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0017
+return_std 0.0235
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 22500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0017
+return_std 0.0235
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 23000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0017
+return_std 0.0235
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 23500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0017
+return_std 0.0235
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 24000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0017
+return_std 0.0235
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 24500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0017
+return_std 0.0235
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 25000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0017
+return_std 0.0235
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 25500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0017
+return_std 0.0235
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 26000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0017
+return_std 0.0235
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 26500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0017
+return_std 0.0235
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 27000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0017
+return_std 0.0235
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 27500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0017
+return_std 0.0235
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 28000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0017
+return_std 0.0235
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 28500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0017
+return_std 0.0235
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 29000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0017
+return_std 0.0235
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 29500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0017
+return_std 0.0235
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 30000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0025
+return_std 0.0353
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 30500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0025
+return_std 0.0353
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 31000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0025
+return_std 0.0353
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 31500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0025
+return_std 0.0353
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 32000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0025
+return_std 0.0353
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 32500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0025
+return_std 0.0353
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 33000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0025
+return_std 0.0353
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 33500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0025
+return_std 0.0353
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 34000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0025
+return_std 0.0353
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 34500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0025
+return_std 0.0353
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 35000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0025
+return_std 0.0353
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 35500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0025
+return_std 0.0353
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 36000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0025
+return_std 0.0353
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 36500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0025
+return_std 0.0353
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 37000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0025
+return_std 0.0353
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 37500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0025
+return_std 0.0353
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 38000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0025
+return_std 0.0353
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 38500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0025
+return_std 0.0353
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 39000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0025
+return_std 0.0353
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 39500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0025
+return_std 0.0353
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 40000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 40500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 41000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 41500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 42000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 42500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 43000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 43500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 44000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 44500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 45000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 45500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 46000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 46500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 47000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 47500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 48000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 48500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 49000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 49500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0100
+test_return_std 0.0995
+Check term: 50000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 50500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 51000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 51500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 52000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 52500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 53000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 53500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 54000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 54500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 55000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 55500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 56000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 56500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 57000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 57500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 58000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 58500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 59000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 59500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 60000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 60500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 61000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 61500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 62000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 62500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 63000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 63500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 64000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 64500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 65000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 65500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 66000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 66500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 67000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 67500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 68000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 68500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 69000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 69500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 70000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 70500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 71000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 71500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 72000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 72500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 73000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 73500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 74000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 74500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 75000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 75500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 76000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 76500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 77000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 77500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 78000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 78500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 79000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 79500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 80000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 80500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 81000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 81500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 82000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 82500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 83000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 83500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 84000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 84500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 85000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 85500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 86000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 86500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 87000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 87500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 88000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 88500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 89000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 89500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 90000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 90500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 91000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 91500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 92000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 92500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 93000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 93500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 94000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 94500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 95000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 95500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 96000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 96500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 97000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 97500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 98000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 98500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 99000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 99500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0010
+return_std 0.0141
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 100000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 100500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 101000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 101500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 102000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 102500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 103000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 103500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 104000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 104500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 105000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 105500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 106000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 106500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 107000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 107500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 108000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 108500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 109000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 109500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 110000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 110500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 111000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 111500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 112000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 112500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 113000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 113500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 114000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 114500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 115000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 115500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 116000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 116500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 117000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 117500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 118000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 118500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 119000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 119500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 120000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 120500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 121000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 121500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 122000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 122500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 123000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 123500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 124000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 124500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 125000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 125500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 126000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 126500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 127000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 127500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 128000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 128500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 129000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 129500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0282
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 130000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0562
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 130500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0562
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 131000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0562
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 131500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0562
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 132000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0562
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 132500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0562
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 133000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0562
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 133500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0562
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 134000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0562
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 134500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0562
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 135000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0562
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 135500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0562
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 136000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0562
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 136500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0562
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 137000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0562
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 137500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0562
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 138000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0562
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 138500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0562
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 139000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0562
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 139500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0562
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 140000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 140500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 141000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 141500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 142000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 142500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 143000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 143500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 144000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 144500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 145000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 145500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 146000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 146500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 147000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 147500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 148000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 148500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 149000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 149500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0067
+test_return_std 0.0663
+Check term: 150000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 150500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 151000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 151500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 152000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 152500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 153000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 153500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 154000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 154500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 155000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 155500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 156000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 156500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 157000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 157500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 158000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 158500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 159000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 159500
+ep_length_mean 50.0000
+go_explore_return 0.2000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 160000
+ep_length_mean 50.0000
+go_explore_return 0.2000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 160500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 161000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 161500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 162000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 162500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 163000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 163500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 164000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 164500
+ep_length_mean 50.0000
+go_explore_return 0.2000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 165000
+ep_length_mean 50.0000
+go_explore_return 0.2000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 165500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 166000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 166500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 167000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 167500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 168000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 168500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 169000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 169500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 170000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 170500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 171000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 171500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 172000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 172500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 173000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 173500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 174000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 174500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 175000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 175500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 176000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 176500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 177000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 177500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 178000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 178500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 179000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 179500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0070
+return_std 0.0703
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 180000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0423
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 180500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0423
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 181000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0423
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 181500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0423
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 182000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0423
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 182500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0423
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 183000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0423
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 183500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0423
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 184000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0423
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 184500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0423
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 185000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0423
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 185500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0423
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 186000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0423
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 186500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0423
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 187000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0423
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 187500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0423
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 188000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0423
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 188500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0423
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 189000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0423
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 189500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0423
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 190000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 190500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 191000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 191500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 192000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 192500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 193000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 193500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 194000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 194500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 195000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 195500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 196000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 196500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 197000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 197500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 198000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 198500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 199000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 199500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0050
+test_return_std 0.0497
+Check term: 200000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 200500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 201000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 201500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 202000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 202500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 203000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 203500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 204000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 204500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 205000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 205500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 206000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 206500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 207000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 207500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 208000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 208500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 209000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 209500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 210000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 210500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 211000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 211500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 212000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 212500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 213000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 213500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 214000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 214500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 215000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 215500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 216000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 216500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 217000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 217500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 218000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 218500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 219000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 219500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 220000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 220500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 221000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 221500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 222000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 222500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 223000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 223500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 224000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 224500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 225000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 225500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 226000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 226500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 227000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 227500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 228000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 228500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 229000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 229500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 230000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0680
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 230500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0680
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 231000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0680
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 231500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0680
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 232000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0680
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 232500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0680
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 233000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0680
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 233500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0680
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 234000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0680
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 234500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0680
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 235000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0680
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 235500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0680
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 236000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0680
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 236500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0680
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 237000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0680
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 237500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0680
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 238000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0680
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 238500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0680
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 239000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0680
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 239500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0060
+return_std 0.0680
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 240000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 240500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 241000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 241500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 242000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 242500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 243000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 243500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 244000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 244500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 245000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 245500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 246000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 246500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 247000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 247500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 248000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 248500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 249000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 249500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0040
+test_return_std 0.0398
+Check term: 250000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 250500
+ep_length_mean 50.0000
+go_explore_return 0.4000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 251000
+ep_length_mean 50.0000
+go_explore_return 0.4000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 251500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 252000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 252500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 253000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 253500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 254000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 254500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 255000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 255500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 256000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 256500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 257000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 257500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 258000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 258500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 259000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 259500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0040
+return_std 0.0481
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 260000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 260500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 261000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 261500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 262000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 262500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 263000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 263500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 264000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 264500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 265000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 265500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 266000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 266500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 267000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 267500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 268000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 268500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 269000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 269500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0030
+return_std 0.0340
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 270000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 270500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 271000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 271500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 272000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 272500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 273000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 273500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 274000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 274500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 275000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 275500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 276000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 276500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 277000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 277500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 278000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 278500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 279000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 279500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 280000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 280500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 281000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 281500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 282000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 282500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 283000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 283500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 284000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 284500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 285000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 285500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 286000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 286500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 287000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 287500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 288000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 288500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 289000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 289500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 290000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 290500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 291000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 291500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 292000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 292500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 293000
+ep_length_mean 50.0000
+go_explore_return 0.4000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 293500
+ep_length_mean 50.0000
+go_explore_return 0.4000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 294000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 294500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 295000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 295500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 296000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 296500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 297000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 297500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 298000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 298500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 299000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 299500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 300000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 300500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 301000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 301500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 302000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 302500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 303000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 303500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 304000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 304500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 305000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 305500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 306000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 306500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 307000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 307500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 308000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 308500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 309000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 309500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 310000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 310500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 311000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 311500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 312000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 312500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 313000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 313500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 314000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 314500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 315000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 315500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 316000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 316500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 317000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 317500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 318000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 318500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 319000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 319500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 320000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 320500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 321000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 321500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 322000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 322500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 323000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 323500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 324000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 324500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 325000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 325500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 326000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 326500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 327000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 327500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 328000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 328500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 329000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 329500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 330000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 330500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 331000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 331500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 332000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 332500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 333000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 333500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 334000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 334500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 335000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 335500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 336000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 336500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 337000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 337500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 338000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 338500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 339000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 339500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0000
+return_std 0.0000
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 340000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 340500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 341000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 341500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 342000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 342500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 343000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 343500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 344000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 344500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 345000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 345500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 346000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 346500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 347000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 347500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 348000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 348500
+ep_length_mean 50.0000
+go_explore_return 0.2000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 349000
+ep_length_mean 50.0000
+go_explore_return 0.2000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 349500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0020
+test_return_std 0.0199
+Check term: 350000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 350500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 351000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 351500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 352000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 352500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 353000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 353500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 354000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 354500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 355000
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 355500
+ep_length_mean 50.0000
+go_explore_return 0.0000
+return_mean 0.0020
+return_std 0.0199
+test_ep_length_mean 50.0000
+test_return_mean 0.0000
+test_return_std 0.0000
+Check term: 356000

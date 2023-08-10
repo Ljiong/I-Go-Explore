@@ -1,0 +1,7 @@
+4
+[[1, 1, 1, 1, 1], [1, 1, 1, 1, 1], [1, 1, 1, 1, 1], [1, 1, 1, 1, 1]]
+Check term: 0
+CHECK AGENTS NUM: (1, 284)
+CHECK AGENTS NUM: torch.Size([1, 284])
+(3, 0, 2, 2)
+tensor([3., 0., 2., 2.])

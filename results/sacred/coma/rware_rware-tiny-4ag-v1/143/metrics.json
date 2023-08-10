@@ -1,0 +1,250 @@
+{
+  "advantage_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-20T23:35:44.413931"
+    ],
+    "values": [
+      0.0011326895952224732
+    ]
+  },
+  "agent_grad_norm": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-20T23:35:44.413931"
+    ],
+    "values": [
+      0.1488589495420456
+    ]
+  },
+  "coma_loss": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-20T23:35:44.413931"
+    ],
+    "values": [
+      0.005209288559854031
+    ]
+  },
+  "critic_grad_norm": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-20T23:35:44.412930"
+    ],
+    "values": [
+      2.743121385574341
+    ]
+  },
+  "critic_loss": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-20T23:35:44.412930"
+    ],
+    "values": [
+      0.2555842399597168
+    ]
+  },
+  "ep_length_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-20T23:35:40.406357"
+    ],
+    "values": [
+      50.0
+    ]
+  },
+  "icm_reward_forward_loss": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-20T23:35:44.100929"
+    ],
+    "values": [
+      {
+        "py/reduce": [
+          {
+            "py/function": "torch._utils._rebuild_tensor_v2"
+          },
+          {
+            "py/tuple": [
+              {
+                "py/reduce": [
+                  {
+                    "py/function": "torch.storage._load_from_bytes"
+                  },
+                  {
+                    "py/tuple": [
+                      {
+                        "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYDQAAADI0MDQwOTQwMDgzMDRxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWA0AAAAyNDA0MDk0MDA4MzA0cQFhLgEAAAAAAAAARKaqPA=="
+                      }
+                    ]
+                  }
+                ]
+              },
+              0,
+              {
+                "py/tuple": []
+              },
+              {
+                "py/tuple": []
+              },
+              true,
+              {
+                "py/reduce": [
+                  {
+                    "py/type": "collections.OrderedDict"
+                  },
+                  {
+                    "py/tuple": []
+                  },
+                  null,
+                  null,
+                  {
+                    "py/tuple": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "icm_reward_inverse_loss": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-20T23:35:44.100929"
+    ],
+    "values": [
+      {
+        "py/reduce": [
+          {
+            "py/function": "torch._utils._rebuild_tensor_v2"
+          },
+          {
+            "py/tuple": [
+              {
+                "py/reduce": [
+                  {
+                    "py/function": "torch.storage._load_from_bytes"
+                  },
+                  {
+                    "py/tuple": [
+                      {
+                        "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYDQAAADI0MDM1NTUxNDU1MzZxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWA0AAAAyNDAzNTU1MTQ1NTM2cQFhLgEAAAAAAAAABZpDQw=="
+                      }
+                    ]
+                  }
+                ]
+              },
+              0,
+              {
+                "py/tuple": []
+              },
+              {
+                "py/tuple": []
+              },
+              true,
+              {
+                "py/reduce": [
+                  {
+                    "py/type": "collections.OrderedDict"
+                  },
+                  {
+                    "py/tuple": []
+                  },
+                  null,
+                  null,
+                  {
+                    "py/tuple": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "pi_max": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-20T23:35:44.415931"
+    ],
+    "values": [
+      0.2354787292480469
+    ]
+  },
+  "q_taken_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-20T23:35:44.413931"
+    ],
+    "values": [
+      -0.4308408203125
+    ]
+  },
+  "return_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-20T23:35:40.394356"
+    ],
+    "values": [
+      0.0
+    ]
+  },
+  "return_std": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-20T23:35:40.406357"
+    ],
+    "values": [
+      0.0
+    ]
+  },
+  "target_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-20T23:35:44.413931"
+    ],
+    "values": [
+      0.31805279541015624
+    ]
+  },
+  "td_error_abs": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-05-20T23:35:44.413931"
+    ],
+    "values": [
+      0.851107421875
+    ]
+  }
+}

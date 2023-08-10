@@ -1,0 +1,4 @@
+CHECK input_shape: 284
+Check term: 0
+4
+IN BSC CHECK avail_actions: torch.Size([10, 4, 5])

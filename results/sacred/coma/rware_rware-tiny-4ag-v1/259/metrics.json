@@ -1,0 +1,17 @@
+{
+  "go_explore_return": {
+    "steps": [
+      32500
+    ],
+    "timestamps": [
+      "2023-05-26T21:36:21.167135"
+    ],
+    "values": [
+      [
+        {
+          "py/function": "None.Tensor.item"
+        }
+      ]
+    ]
+  }
+}

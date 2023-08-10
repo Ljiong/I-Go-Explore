@@ -1,0 +1,189 @@
+{
+  "advantage_mean": {
+    "steps": [
+      250
+    ],
+    "timestamps": [
+      "2023-04-22T12:51:34.452588"
+    ],
+    "values": [
+      0.001959550142288208
+    ]
+  },
+  "agent_grad_norm": {
+    "steps": [
+      250
+    ],
+    "timestamps": [
+      "2023-04-22T12:51:34.453589"
+    ],
+    "values": [
+      0.07752599567174911
+    ]
+  },
+  "coma_loss": {
+    "steps": [
+      250
+    ],
+    "timestamps": [
+      "2023-04-22T12:51:34.452588"
+    ],
+    "values": [
+      -0.0005702321650460362
+    ]
+  },
+  "critic_grad_norm": {
+    "steps": [
+      250
+    ],
+    "timestamps": [
+      "2023-04-22T12:51:34.450602"
+    ],
+    "values": [
+      0.5284149050712585
+    ]
+  },
+  "critic_loss": {
+    "steps": [
+      250
+    ],
+    "timestamps": [
+      "2023-04-22T12:51:34.450602"
+    ],
+    "values": [
+      0.04004901275038719
+    ]
+  },
+  "ep_length_mean": {
+    "steps": [
+      250
+    ],
+    "timestamps": [
+      "2023-04-22T12:51:06.249610"
+    ],
+    "values": [
+      25.0
+    ]
+  },
+  "icm_reward/forward_loss": {
+    "steps": [
+      250
+    ],
+    "timestamps": [
+      "2023-04-22T12:51:10.937479"
+    ],
+    "values": [
+      {}
+    ]
+  },
+  "icm_reward/inverse_loss": {
+    "steps": [
+      250
+    ],
+    "timestamps": [
+      "2023-04-22T12:51:10.937479"
+    ],
+    "values": [
+      {}
+    ]
+  },
+  "pi_max": {
+    "steps": [
+      250
+    ],
+    "timestamps": [
+      "2023-04-22T12:51:34.455583"
+    ],
+    "values": [
+      0.2601821594238281
+    ]
+  },
+  "q_taken_mean": {
+    "steps": [
+      250
+    ],
+    "timestamps": [
+      "2023-04-22T12:51:34.451594"
+    ],
+    "values": [
+      0.055863052368164065
+    ]
+  },
+  "return_mean": {
+    "steps": [
+      250
+    ],
+    "timestamps": [
+      "2023-04-22T12:51:06.243611"
+    ],
+    "values": [
+      0.0
+    ]
+  },
+  "return_std": {
+    "steps": [
+      250
+    ],
+    "timestamps": [
+      "2023-04-22T12:51:06.249610"
+    ],
+    "values": [
+      0.0
+    ]
+  },
+  "target_mean": {
+    "steps": [
+      250
+    ],
+    "timestamps": [
+      "2023-04-22T12:51:34.451594"
+    ],
+    "values": [
+      0.26424600219726563
+    ]
+  },
+  "td_error_abs": {
+    "steps": [
+      250
+    ],
+    "timestamps": [
+      "2023-04-22T12:51:34.450602"
+    ],
+    "values": [
+      0.24296479797363282
+    ]
+  },
+  "test_ep_length_mean": {
+    "steps": [
+      250
+    ],
+    "timestamps": [
+      "2023-04-22T12:51:40.386033"
+    ],
+    "values": [
+      25.0
+    ]
+  },
+  "test_return_mean": {
+    "steps": [
+      250
+    ],
+    "timestamps": [
+      "2023-04-22T12:51:40.385032"
+    ],
+    "values": [
+      0.0
+    ]
+  },
+  "test_return_std": {
+    "steps": [
+      250
+    ],
+    "timestamps": [
+      "2023-04-22T12:51:40.386033"
+    ],
+    "values": [
+      0.0
+    ]
+  }
+}

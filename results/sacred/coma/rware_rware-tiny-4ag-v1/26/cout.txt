@@ -1,0 +1,3 @@
+CHECK input_shape: 284
+Check term: 0
+Check term: 500

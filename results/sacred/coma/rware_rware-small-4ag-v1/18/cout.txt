@@ -1,0 +1,190 @@
+Check term: 0
+Check term: 5000
+Check term: 10000
+Check term: 15000
+advantage_mean -0.0001
+agent_grad_norm 0.1125
+coma_loss 0.0075
+critic_grad_norm 4.0112
+critic_loss 0.4155
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0310
+icm_reward_inverse_loss 0.4657
+pi_max 0.2675
+q_taken_mean 0.1231
+return_mean 0.0000
+return_std 0.0000
+target_mean 1.2875
+td_error_abs 1.1743
+test_ep_length_mean 500.0000
+test_return_mean 0.0400
+test_return_std 0.1960
+Check term: 20000
+Check term: 25000
+Check term: 30000
+Check term: 35000
+advantage_mean -0.0002
+agent_grad_norm 0.0978
+coma_loss 0.0057
+critic_grad_norm 5.1252
+critic_loss 91.7000
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0192
+icm_reward_inverse_loss 0.4618
+pi_max 0.2608
+q_taken_mean 0.1344
+return_mean 0.0125
+return_std 0.0781
+target_mean 1.3005
+td_error_abs 1.3385
+test_ep_length_mean 500.0000
+test_return_mean 0.0450
+test_return_std 0.2070
+Check term: 40000
+Check term: 45000
+Check term: 50000
+Check term: 55000
+advantage_mean -0.0002
+agent_grad_norm 0.0920
+coma_loss 0.0045
+critic_grad_norm 3.8100
+critic_loss 61.1496
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0144
+icm_reward_inverse_loss 0.4558
+pi_max 0.2550
+q_taken_mean 0.1497
+return_mean 0.0167
+return_std 0.1041
+target_mean 0.8541
+td_error_abs 1.0084
+test_ep_length_mean 500.0000
+test_return_mean 0.0300
+test_return_std 0.1380
+Check term: 60000
+Check term: 65000
+Check term: 70000
+Check term: 75000
+advantage_mean -0.0002
+agent_grad_norm 0.0805
+coma_loss 0.0034
+critic_grad_norm 3.2412
+critic_loss 45.8776
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0118
+icm_reward_inverse_loss 0.4433
+pi_max 0.2518
+q_taken_mean 0.1663
+return_mean 0.0312
+return_std 0.1439
+target_mean 0.6078
+td_error_abs 0.8568
+test_ep_length_mean 500.0000
+test_return_mean 0.0250
+test_return_std 0.1284
+Check term: 80000
+Check term: 85000
+Check term: 90000
+Check term: 95000
+advantage_mean -0.0002
+agent_grad_norm 0.0711
+coma_loss 0.0024
+critic_grad_norm 2.8506
+critic_loss 36.7158
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0104
+icm_reward_inverse_loss 0.4362
+pi_max 0.2491
+q_taken_mean 0.1851
+return_mean 0.0250
+return_std 0.1151
+target_mean 0.4789
+td_error_abs 0.7677
+test_ep_length_mean 500.0000
+test_return_mean 0.0300
+test_return_std 0.1463
+Check term: 100000
+Check term: 105000
+Check term: 110000
+Check term: 115000
+advantage_mean -0.0001
+agent_grad_norm 0.0559
+coma_loss 0.0008
+critic_grad_norm 2.2966
+critic_loss 36.6444
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0050
+icm_reward_inverse_loss 0.4318
+pi_max 0.2426
+q_taken_mean 0.2050
+return_mean 0.0350
+return_std 0.1587
+target_mean 0.2065
+td_error_abs 0.6097
+test_ep_length_mean 500.0000
+test_return_mean 0.0260
+test_return_std 0.1351
+Check term: 120000
+Check term: 125000
+Check term: 130000
+Check term: 135000
+advantage_mean 0.0001
+agent_grad_norm 0.0422
+coma_loss -0.0001
+critic_grad_norm 1.2559
+critic_loss 0.0573
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0044
+icm_reward_inverse_loss 0.4229
+pi_max 0.2384
+q_taken_mean 0.2193
+return_mean 0.0300
+return_std 0.1275
+target_mean -0.0669
+td_error_abs 0.3781
+test_ep_length_mean 500.0000
+test_return_mean 0.0160
+test_return_std 0.0915
+Check term: 140000
+Check term: 145000
+Check term: 150000
+Check term: 155000
+advantage_mean 0.0002
+agent_grad_norm 0.0297
+coma_loss -0.0005
+critic_grad_norm 1.2093
+critic_loss 0.0571
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0042
+icm_reward_inverse_loss 0.4103
+pi_max 0.2360
+q_taken_mean 0.2212
+return_mean 0.0250
+return_std 0.0963
+target_mean -0.0706
+td_error_abs 0.3768
+test_ep_length_mean 500.0000
+test_return_mean 0.0280
+test_return_std 0.1390
+Check term: 160000
+Check term: 165000
+Check term: 170000
+Check term: 175000
+advantage_mean 0.0003
+agent_grad_norm 0.0228
+coma_loss -0.0007
+critic_grad_norm 1.0741
+critic_loss 0.0543
+ep_length_mean 500.0000
+icm_reward_forward_loss 0.0040
+icm_reward_inverse_loss 0.4149
+pi_max 0.2332
+q_taken_mean 0.2196
+return_mean 0.0100
+return_std 0.0436
+target_mean -0.0495
+td_error_abs 0.3634
+test_ep_length_mean 500.0000
+test_return_mean 0.0260
+test_return_std 0.1191
+Check term: 180000

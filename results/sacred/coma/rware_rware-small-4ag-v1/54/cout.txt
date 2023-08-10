@@ -1,0 +1,586 @@
+Check term: 0
+1000 1000 tensor([0.])
+2413 1413 tensor([0.])
+4029 1616 tensor([0.])
+5822 1793 tensor([0.])
+7857 2035 tensor([0.])
+10563 2706 tensor([0.])
+13436 2873 tensor([0.])
+16360 2924 tensor([0.])
+19384 3024 tensor([0.])
+22481 3097 tensor([0.])
+25721 3240 tensor([0.])
+29354 3633 tensor([0.])
+33158 3804 tensor([0.])
+37451 4293 tensor([0.])
+41888 4437 tensor([0.])
+46957 5069 tensor([0.])
+cell_counter 1940.4000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 46957
+47957 1000 tensor([0.])
+49597 1640 tensor([0.])
+51940 2343 tensor([0.])
+54591 2651 tensor([0.])
+58072 3481 tensor([0.])
+61682 3610 tensor([0.])
+65654 3972 tensor([0.])
+70139 4485 tensor([0.])
+75105 4966 tensor([0.])
+80264 5159 tensor([0.])
+cell_counter 2027.8000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 80264
+81264 1000 tensor([0.])
+82664 1400 tensor([0.])
+84669 2005 tensor([0.])
+87253 2584 tensor([0.])
+90450 3197 tensor([0.])
+93956 3506 tensor([0.])
+97773 3817 tensor([0.])
+101935 4162 tensor([0.])
+106676 4741 tensor([0.])
+111716 5040 tensor([0.])
+cell_counter 1824.8000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 111716
+112716 1000 tensor([0.])
+114632 1916 tensor([0.])
+117436 2804 tensor([0.])
+120739 3303 tensor([0.])
+124353 3614 tensor([0.])
+128303 3950 tensor([0.])
+132629 4326 tensor([0.])
+137114 4485 tensor([0.])
+141888 4774 tensor([0.])
+147367 5479 tensor([0.])
+cell_counter 2028.4000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 147367
+148367 1000 tensor([0.])
+150100 1733 tensor([0.])
+152305 2205 tensor([0.])
+154566 2261 tensor([0.])
+157497 2931 tensor([0.])
+160820 3323 tensor([0.])
+164526 3706 tensor([0.])
+168289 3763 tensor([0.])
+172221 3932 tensor([0.])
+176603 4382 tensor([0.])
+181214 4611 tensor([0.])
+186363 5149 tensor([0.])
+cell_counter 2013.2000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 186363
+187363 1000 tensor([0.])
+188900 1537 tensor([0.])
+190914 2014 tensor([0.])
+193569 2655 tensor([0.])
+196305 2736 tensor([0.])
+199455 3150 tensor([0.])
+202825 3370 tensor([0.])
+207051 4226 tensor([0.])
+211582 4531 tensor([0.])
+216387 4805 tensor([0.])
+221542 5155 tensor([0.])
+cell_counter 2103.4000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 221542
+222542 1000 tensor([0.])
+223996 1454 tensor([0.])
+225685 1689 tensor([0.])
+227831 2146 tensor([0.])
+230591 2760 tensor([0.])
+233765 3174 tensor([0.])
+237047 3282 tensor([0.])
+241213 4166 tensor([0.])
+245813 4600 tensor([0.])
+250897 5084 tensor([0.])
+cell_counter 1776.2000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 250897
+251897 1000 tensor([0.])
+253593 1696 tensor([0.])
+255842 2249 tensor([0.])
+258852 3010 tensor([0.])
+262305 3453 tensor([0.])
+266478 4173 tensor([0.])
+271302 4824 tensor([0.])
+276327 5025 tensor([0.])
+cell_counter 1574.0000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 276327
+277327 1000 tensor([0.])
+278939 1612 tensor([0.])
+280999 2060 tensor([0.])
+283725 2726 tensor([0.])
+286729 3004 tensor([0.])
+290061 3332 tensor([0.])
+293717 3656 tensor([0.])
+297687 3970 tensor([0.])
+302024 4337 tensor([0.])
+306526 4502 tensor([0.])
+311402 4876 tensor([0.])
+316688 5286 tensor([0.])
+cell_counter 2236.0000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 316688
+317688 1000 tensor([0.])
+319250 1562 tensor([0.])
+321096 1846 tensor([0.])
+323425 2329 tensor([0.])
+325979 2554 tensor([0.])
+328607 2628 tensor([0.])
+331356 2749 tensor([0.])
+334544 3188 tensor([0.])
+337852 3308 tensor([0.])
+341228 3376 tensor([0.])
+345331 4103 tensor([0.])
+349806 4475 tensor([0.])
+354437 4631 tensor([0.])
+359361 4924 tensor([0.])
+364937 5576 tensor([0.])
+cell_counter 2000.0000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 364937
+365937 1000 tensor([0.])
+367053 1116 tensor([0.])
+368863 1810 tensor([0.])
+371092 2229 tensor([0.])
+373664 2572 tensor([0.])
+376339 2675 tensor([0.])
+379564 3225 tensor([0.])
+383312 3748 tensor([0.])
+387614 4302 tensor([0.])
+392458 4844 tensor([0.])
+397605 5147 tensor([0.])
+cell_counter 1895.4000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 397605
+398605 1000 tensor([0.])
+400041 1436 tensor([0.])
+402064 2023 tensor([0.])
+404178 2114 tensor([0.])
+407145 2967 tensor([0.])
+410645 3500 tensor([0.])
+414843 4198 tensor([0.])
+419169 4326 tensor([0.])
+423858 4689 tensor([0.])
+428978 5120 tensor([0.])
+cell_counter 1826.8000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 428978
+429978 1000 tensor([0.])
+431481 1503 tensor([0.])
+433484 2003 tensor([0.])
+436413 2929 tensor([0.])
+439735 3322 tensor([0.])
+443162 3427 tensor([0.])
+446999 3837 tensor([0.])
+451168 4169 tensor([0.])
+455620 4452 tensor([0.])
+460420 4800 tensor([0.])
+465362 4942 tensor([0.])
+470457 5095 tensor([0.])
+cell_counter 2064.8000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 470457
+471457 1000 tensor([0.])
+473285 1828 tensor([0.])
+475741 2456 tensor([0.])
+478829 3088 tensor([0.])
+482354 3525 tensor([0.])
+486391 4037 tensor([0.])
+490988 4597 tensor([0.])
+496089 5101 tensor([0.])
+cell_counter 1700.8000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 496089
+497089 1000 tensor([0.])
+498797 1708 tensor([0.])
+500840 2043 tensor([0.])
+503394 2554 tensor([0.])
+506178 2784 tensor([0.])
+509146 2968 tensor([0.])
+512317 3171 tensor([0.])
+515836 3519 tensor([0.])
+519598 3762 tensor([0.])
+523692 4094 tensor([0.])
+528006 4314 tensor([0.])
+532769 4763 tensor([0.])
+537730 4961 tensor([0.])
+543171 5441 tensor([0.])
+cell_counter 2036.2000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 543171
+544171 1000 tensor([0.])
+545513 1342 tensor([0.])
+546995 1482 tensor([0.])
+549016 2021 tensor([0.])
+551170 2154 tensor([0.])
+553626 2456 tensor([0.])
+556426 2800 tensor([0.])
+559763 3337 tensor([0.])
+563613 3850 tensor([0.])
+567798 4185 tensor([0.])
+572324 4526 tensor([0.])
+577358 5034 tensor([0.])
+cell_counter 1753.4000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 577358
+578358 1000 tensor([0.])
+579928 1570 tensor([0.])
+581962 2034 tensor([0.])
+584376 2414 tensor([0.])
+587166 2790 tensor([0.])
+590422 3256 tensor([0.])
+594530 4108 tensor([0.])
+598781 4251 tensor([0.])
+603568 4787 tensor([0.])
+608504 4936 tensor([0.])
+613522 5018 tensor([0.])
+cell_counter 1955.2000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 613522
+614522 1000 tensor([0.])
+615977 1455 tensor([0.])
+617725 1748 tensor([0.])
+619631 1906 tensor([0.])
+621635 2004 tensor([0.])
+623932 2297 tensor([0.])
+626517 2585 tensor([0.])
+629501 2984 tensor([0.])
+632894 3393 tensor([0.])
+636697 3803 tensor([0.])
+640589 3892 tensor([0.])
+644962 4373 tensor([0.])
+649379 4417 tensor([0.])
+654006 4627 tensor([0.])
+659181 5175 tensor([0.])
+cell_counter 1961.0000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 659181
+660181 1000 tensor([0.])
+661750 1569 tensor([0.])
+663807 2057 tensor([0.])
+666425 2618 tensor([0.])
+669426 3001 tensor([0.])
+673123 3697 tensor([0.])
+677180 4057 tensor([0.])
+681826 4646 tensor([0.])
+686923 5097 tensor([0.])
+cell_counter 1712.8000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 686923
+687923 1000 tensor([0.])
+689243 1320 tensor([0.])
+690989 1746 tensor([0.])
+692970 1981 tensor([0.])
+695287 2317 tensor([0.])
+697881 2594 tensor([0.])
+700991 3110 tensor([0.])
+704544 3553 tensor([0.])
+708289 3745 tensor([0.])
+712218 3929 tensor([0.])
+716373 4155 tensor([0.])
+720706 4333 tensor([0.])
+725318 4612 tensor([0.])
+730443 5125 tensor([0.])
+cell_counter 1997.6000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 730443
+731443 1000 tensor([0.])
+732915 1472 tensor([0.])
+734934 2019 tensor([0.])
+737448 2514 tensor([0.])
+740387 2939 tensor([0.])
+743684 3297 tensor([0.])
+747244 3560 tensor([0.])
+751119 3875 tensor([0.])
+755538 4419 tensor([0.])
+760432 4894 tensor([0.])
+765667 5235 tensor([0.])
+cell_counter 1924.0000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 765667
+766667 1000 tensor([0.])
+768201 1534 tensor([0.])
+770452 2251 tensor([0.])
+773179 2727 tensor([0.])
+776316 3137 tensor([0.])
+779744 3428 tensor([0.])
+783278 3534 tensor([0.])
+787042 3764 tensor([0.])
+791244 4202 tensor([0.])
+795703 4459 tensor([0.])
+800497 4794 tensor([0.])
+805354 4857 tensor([0.])
+810482 5128 tensor([0.])
+cell_counter 2135.2000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 810482
+811482 1000 tensor([0.])
+813127 1645 tensor([0.])
+815386 2259 tensor([0.])
+817944 2558 tensor([0.])
+820778 2834 tensor([0.])
+824336 3558 tensor([0.])
+828365 4029 tensor([0.])
+832965 4600 tensor([0.])
+838102 5137 tensor([0.])
+cell_counter 1666.0000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 838102
+839102 1000 tensor([0.])
+840814 1712 tensor([0.])
+842898 2084 tensor([0.])
+845147 2249 tensor([0.])
+847598 2451 tensor([0.])
+850486 2888 tensor([0.])
+853465 2979 tensor([0.])
+856564 3099 tensor([0.])
+859830 3266 tensor([0.])
+863357 3527 tensor([0.])
+867037 3680 tensor([0.])
+871248 4211 tensor([0.])
+875603 4355 tensor([0.])
+880375 4772 tensor([0.])
+885304 4929 tensor([0.])
+890373 5069 tensor([0.])
+cell_counter 2104.4000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 890373
+891373 1000 tensor([0.])
+892758 1385 tensor([0.])
+894162 1404 tensor([0.])
+895910 1748 tensor([0.])
+897996 2086 tensor([0.])
+900279 2283 tensor([0.])
+902782 2503 tensor([0.])
+905352 2570 tensor([0.])
+908263 2911 tensor([0.])
+911481 3218 tensor([0.])
+914971 3490 tensor([0.])
+918804 3833 tensor([0.])
+922964 4160 tensor([0.])
+927478 4514 tensor([0.])
+932536 5058 tensor([0.])
+cell_counter 1833.6000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 932536
+933536 1000 tensor([0.])
+935456 1920 tensor([0.])
+937960 2504 tensor([0.])
+940736 2776 tensor([0.])
+943904 3168 tensor([0.])
+947318 3414 tensor([0.])
+951232 3914 tensor([0.])
+955554 4322 tensor([0.])
+960293 4739 tensor([0.])
+965438 5145 tensor([0.])
+cell_counter 1875.0000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 965438
+966438 1000 tensor([0.])
+968193 1755 tensor([0.])
+970599 2406 tensor([0.])
+973674 3075 tensor([0.])
+977152 3478 tensor([0.])
+980996 3844 tensor([0.])
+985550 4554 tensor([0.])
+990269 4719 tensor([1.])
+995094 4825 tensor([1.])
+1000273 5179 tensor([1.])
+cell_counter 2063.8000
+go_explore_return 0.6000
+traj_length 500.0000
+Check term: 1000273
+1001273 1000 tensor([0.])
+1002515 1242 tensor([0.])
+1004361 1846 tensor([0.])
+1006336 1975 tensor([0.])
+1008702 2366 tensor([0.])
+1011304 2602 tensor([0.])
+1014337 3033 tensor([0.])
+1017767 3430 tensor([0.])
+1021579 3812 tensor([0.])
+1025539 3960 tensor([0.])
+1030000 4461 tensor([0.])
+1035012 5012 tensor([0.])
+cell_counter 1963.2000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 1035012
+1036012 1000 tensor([0.])
+1037533 1521 tensor([0.])
+1039369 1836 tensor([0.])
+1041681 2312 tensor([0.])
+1044340 2659 tensor([0.])
+1047408 3068 tensor([0.])
+1050977 3569 tensor([0.])
+1054803 3826 tensor([0.])
+1058941 4138 tensor([0.])
+1063139 4198 tensor([0.])
+1067497 4358 tensor([0.])
+1072031 4534 tensor([0.])
+1076915 4884 tensor([0.])
+1082207 5292 tensor([0.])
+cell_counter 2048.8000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 1082207
+1083207 1000 tensor([0.])
+1084739 1532 tensor([0.])
+1086886 2147 tensor([0.])
+1089469 2583 tensor([0.])
+1092187 2718 tensor([0.])
+1095108 2921 tensor([0.])
+1098394 3286 tensor([0.])
+1102269 3875 tensor([0.])
+1106358 4089 tensor([0.])
+1110845 4487 tensor([0.])
+1115488 4643 tensor([0.])
+1120822 5334 tensor([0.])
+cell_counter 1991.2000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 1120822
+1121822 1000 tensor([0.])
+1123157 1335 tensor([0.])
+1124524 1367 tensor([0.])
+1126720 2196 tensor([0.])
+1129508 2788 tensor([0.])
+1132551 3043 tensor([0.])
+1136096 3545 tensor([0.])
+1139929 3833 tensor([0.])
+1144244 4315 tensor([0.])
+1148836 4592 tensor([0.])
+1153684 4848 tensor([0.])
+1158645 4961 tensor([0.])
+1164144 5499 tensor([0.])
+cell_counter 2097.6000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 1164144
+1165144 1000 tensor([0.])
+1166530 1386 tensor([0.])
+1168670 2140 tensor([0.])
+1171426 2756 tensor([0.])
+1174741 3315 tensor([0.])
+1178413 3672 tensor([0.])
+1182304 3891 tensor([0.])
+1186277 3973 tensor([0.])
+1190328 4051 tensor([0.])
+1194596 4268 tensor([0.])
+1199523 4927 tensor([0.])
+1204828 5305 tensor([0.])
+cell_counter 2006.2000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 1204828
+1205828 1000 tensor([0.])
+1207169 1341 tensor([0.])
+1208797 1628 tensor([0.])
+1210832 2035 tensor([0.])
+1213198 2366 tensor([0.])
+1215664 2466 tensor([0.])
+1218243 2579 tensor([0.])
+1221311 3068 tensor([0.])
+1224962 3651 tensor([0.])
+1228821 3859 tensor([0.])
+1233155 4334 tensor([0.])
+1237892 4737 tensor([0.])
+1242984 5092 tensor([0.])
+cell_counter 1976.6000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 1242984
+1243984 1000 tensor([0.])
+1245469 1485 tensor([0.])
+1247370 1901 tensor([0.])
+1249864 2494 tensor([0.])
+1252905 3041 tensor([0.])
+1256270 3365 tensor([0.])
+1260023 3753 tensor([0.])
+1263886 3863 tensor([0.])
+1268128 4242 tensor([0.])
+1272748 4620 tensor([0.])
+1277768 5020 tensor([0.])
+cell_counter 1938.0000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 1277768
+1278768 1000 tensor([0.])
+1280476 1708 tensor([0.])
+1282649 2173 tensor([0.])
+1284997 2348 tensor([0.])
+1287557 2560 tensor([0.])
+1290363 2806 tensor([0.])
+1293768 3405 tensor([0.])
+1297678 3910 tensor([0.])
+1302239 4561 tensor([0.])
+1306894 4655 tensor([0.])
+1312048 5154 tensor([0.])
+cell_counter 1917.6000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 1312048
+1313048 1000 tensor([0.])
+1314751 1703 tensor([0.])
+1316948 2197 tensor([0.])
+1319480 2532 tensor([0.])
+1322535 3055 tensor([0.])
+1326265 3730 tensor([0.])
+1330329 4064 tensor([0.])
+1334887 4558 tensor([0.])
+1339661 4774 tensor([0.])
+1344701 5040 tensor([0.])
+cell_counter 1771.0000
+go_explore_return 0.0000
+traj_length 500.0000
+Check term: 1344701
+1345701 1000 tensor([0.])
+1347371 1670 tensor([0.])
+1349306 1935 tensor([0.])
+1351986 2680 tensor([0.])
+1355261 3275 tensor([0.])
+1358924 3663 tensor([0.])
+1362827 3903 tensor([0.])
+1367219 4392 tensor([0.])
+1371716 4497 tensor([0.])
+1376363 4647 tensor([0.])
+1381475 5112 tensor([0.])
+cell_counter 2065.0000
+go_explore_return 0.0000
+traj_length 500.0000
+Exiting Main
+Stopping all threads
+Thread Thread-19 is alive! Is daemon: False
+Thread joined
+Exiting script

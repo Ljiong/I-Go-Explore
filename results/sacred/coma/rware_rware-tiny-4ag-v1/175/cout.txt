@@ -1,0 +1,38 @@
+Check term: 0
+450
+Found new cell: 65
+900
+Found new cell: 66
+Found new cell: 84
+Found new cell: 85
+Found new cell: 86
+Found new cell: 87
+Found new cell: 88
+Found new cell: 90
+Found new cell: 91
+Found new cell: 92
+Found new cell: 93
+1350
+Found new cell: 107
+Found new cell: 122
+Found new cell: 123
+Found new cell: 124
+Found new cell: 125
+Found new cell: 126
+Found new cell: 127
+1800
+Found new cell: 148
+2250
+Found new cell: 184
+Found new cell: 185
+Found new cell: 186
+Found new cell: 187
+Found new cell: 188
+Found new cell: 189
+Found new cell: 196
+Found new cell: 197
+Found new cell: 198
+Found new cell: 199
+Found new cell: 200
+Found new cell: 201
+Found cell: 247

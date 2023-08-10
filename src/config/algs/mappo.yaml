@@ -1,0 +1,58 @@
+# --- MAPPO specific parameters ---
+
+action_selector: "soft_policies"
+mask_before_softmax: True
+
+runner: "parallel"
+
+buffer_size: 10
+batch_size_run: 10
+batch_size: 10
+
+
+# ICM setting
+imac: "icm_mac"
+reward_agent: "icm"
+reward_learner: "icm_learner"
+icm_lr: 0.0001
+
+# Go Explore setting
+just_go_explore: False # True
+go_explore_runner: "go_explore"
+ge_mac: "go_explore_mac"
+mean_repeat: 10
+go_action_selector: "bernoulli"
+
+
+# update the target network every {} training steps
+target_update_interval_or_tau: 200
+
+bs_agent: "rnn"
+mac: "basic_mac"
+base_learner: "ppo_learner"
+lr: 0.0005
+
+obs_agent_id: True
+obs_last_action: False
+obs_individual_obs: False
+
+agent_output_type: "pi_logits"
+learner: "ppo_learner"
+entropy_coef: 0.01
+use_rnn: False
+standardise_returns: False
+standardise_rewards: False
+q_nstep: 5 # 1 corresponds to normal r + gammaV
+critic_type: "cv_critic"
+epochs: 4
+eps_clip: 0.2
+name: "mappo"
+
+log_interval: 20000
+test_interval: 20000
+learner_log_interval: 20000
+runner_log_interval: 20000
+save_model_interval: 20000
+save_model: False
+
+t_max: 20050000

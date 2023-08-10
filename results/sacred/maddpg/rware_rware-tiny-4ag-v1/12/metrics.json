@@ -1,0 +1,35 @@
+{
+  "ep_length_mean": {
+    "steps": [
+      50
+    ],
+    "timestamps": [
+      "2023-05-24T09:09:21.547218"
+    ],
+    "values": [
+      50.0
+    ]
+  },
+  "return_mean": {
+    "steps": [
+      50
+    ],
+    "timestamps": [
+      "2023-05-24T09:09:21.543722"
+    ],
+    "values": [
+      0.0
+    ]
+  },
+  "return_std": {
+    "steps": [
+      50
+    ],
+    "timestamps": [
+      "2023-05-24T09:09:21.547218"
+    ],
+    "values": [
+      0.0
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+Check term: 0
+Check term: 5000
+Check term: 10000
+Check term: 15000
+advantage_mean -0.0002
+agent_grad_norm 0.2940
+coma_loss -0.0072
+critic_grad_norm 3.4891
+critic_loss 36.9807
+ep_length_mean 500.0000
+go_explore_return 1.8000
+icm_reward_forward_loss 0.0149
+icm_reward_inverse_loss 0.4644
+pi_max 0.2244
+q_taken_mean 0.1555
+return_mean 0.1000
+return_std 0.3000
+target_mean 0.7078
+td_error_abs 1.3581
+test_ep_length_mean 500.0000
+test_return_mean 0.1100
+test_return_std 0.3129
+Check term: 20000
+Check term: 25000
+Check term: 30000
+Check term: 35000
+advantage_mean 0.0001
+agent_grad_norm 0.2867
+coma_loss -0.0089
+critic_grad_norm 3.0620
+critic_loss 18.6365
+ep_length_mean 500.0000
+go_explore_return 1.8000
+icm_reward_forward_loss 0.0091
+icm_reward_inverse_loss 0.4496
+pi_max 0.2278
+q_taken_mean 0.1668
+return_mean 0.0625
+return_std 0.2281
+target_mean 0.3308
+td_error_abs 1.0991
+test_ep_length_mean 500.0000
+test_return_mean 0.1200
+test_return_std 0.3246
+Check term: 40000
+Check term: 45000
+Check term: 50000
+Check term: 55000
+advantage_mean 0.0006
+agent_grad_norm 0.2639
+coma_loss -0.0093
+critic_grad_norm 2.7824
+critic_loss 12.5101
+ep_length_mean 500.0000
+go_explore_return 1.8000
+icm_reward_forward_loss 0.0068
+icm_reward_inverse_loss 0.4424
+pi_max 0.2304
+q_taken_mean 0.1724
+return_mean 0.1000
+return_std 0.3168
+target_mean 0.1295
+td_error_abs 1.0060
+test_ep_length_mean 500.0000
+test_return_mean 0.1233
+test_return_std 0.3285
+Check term: 60000
+Check term: 65000
+Check term: 70000
+Check term: 75000
+advantage_mean 0.0004
+agent_grad_norm 0.2491
+coma_loss -0.0110
+critic_grad_norm 3.0385
+critic_loss 34.8505
+ep_length_mean 500.0000
+go_explore_return 1.8400
+icm_reward_forward_loss 0.0056
+icm_reward_inverse_loss 0.4346
+pi_max 0.2332
+q_taken_mean 0.1854
+return_mean 0.1062
+return_std 0.3203
+target_mean 0.4243
+td_error_abs 1.3497
+test_ep_length_mean 500.0000
+test_return_mean 0.1125
+test_return_std 0.3142
+Check term: 80000
+Check term: 85000
+Check term: 90000
+Check term: 95000

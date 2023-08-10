@@ -1,0 +1,180 @@
+Check term: 0
+E:\study\Thesis\epymarl\src\run.py:329: FutureWarning: The input object of type 'Tensor' is an array-like implementing one of the corresponding protocols (`__array__`, `__array_interface__` or `__array_struct__`); but not a sequence (or 0-D). In the future, this object will be coerced as if it was first converted using `np.array(obj)`. To retain the old behaviour, you have to either modify the type 'Tensor', or assign to an empty array created with `np.empty(correct_shape, dtype=object)`.
+  logger.log_stat("test_go_explore_return", [sum(np.array(best_scores)).item()/len(best_scores)], go_explore_runner.t_env)
+E:\study\Thesis\epymarl\src\run.py:329: VisibleDeprecationWarning: Creating an ndarray from ragged nested sequences (which is a list-or-tuple of lists-or-tuples-or ndarrays with different lengths or shapes) is deprecated. If you meant to do this, you must specify 'dtype=object' when creating the ndarray.
+  logger.log_stat("test_go_explore_return", [sum(np.array(best_scores)).item()/len(best_scores)], go_explore_runner.t_env)
+cell_counter 2663.0000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.1000
+Check term: 0
+cell_counter 2656.0000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.1000
+Check term: 0
+cell_counter 2642.3333
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.1000
+Check term: 0
+cell_counter 2636.7500
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.0750
+Check term: 0
+cell_counter 2632.4000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.1000
+Check term: 0
+cell_counter 2567.6000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.0800
+Check term: 0
+cell_counter 2552.6000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.1200
+Check term: 0
+cell_counter 2530.0000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.1200
+Check term: 0
+cell_counter 2537.0000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.1400
+Check term: 0
+cell_counter 2530.4000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.1000
+Check term: 0
+cell_counter 2594.0000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.1000
+Check term: 0
+cell_counter 2577.4000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.0400
+Check term: 0
+cell_counter 2591.4000
+go_explore_return 0.2000
+test_cell_counter 2.0000
+test_go_explore_return 0.0600
+Check term: 0
+cell_counter 2568.2000
+go_explore_return 0.2000
+test_cell_counter 2.0000
+test_go_explore_return 0.0800
+Check term: 0
+cell_counter 2573.6000
+go_explore_return 0.2000
+test_cell_counter 2.0000
+test_go_explore_return 0.0800
+Check term: 0
+cell_counter 2572.8000
+go_explore_return 0.2000
+test_cell_counter 2.0000
+test_go_explore_return 0.1000
+Check term: 0
+cell_counter 2579.0000
+go_explore_return 0.2000
+test_cell_counter 2.0000
+test_go_explore_return 0.1000
+Check term: 0
+cell_counter 2574.0000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.1000
+Check term: 0
+cell_counter 2605.6000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.1000
+Check term: 0
+cell_counter 2592.8000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.1000
+Check term: 0
+cell_counter 2604.0000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.0800
+Check term: 0
+cell_counter 2655.8000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.0800
+Check term: 0
+cell_counter 2658.8000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.0600
+Check term: 0
+cell_counter 2582.0000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.0800
+Check term: 0
+cell_counter 2610.6000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.1200
+Check term: 0
+cell_counter 2593.2000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.1400
+Check term: 0
+cell_counter 2526.2000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.1400
+Check term: 0
+cell_counter 2533.8000
+go_explore_return 0.2000
+test_cell_counter 2.0000
+test_go_explore_return 0.1200
+Check term: 0
+cell_counter 2586.6000
+go_explore_return 0.2000
+test_cell_counter 2.0000
+test_go_explore_return 0.0600
+Check term: 0
+cell_counter 2557.2000
+go_explore_return 0.2000
+test_cell_counter 2.0000
+test_go_explore_return 0.0400
+Check term: 0
+cell_counter 2574.2000
+go_explore_return 0.2000
+test_cell_counter 2.0000
+test_go_explore_return 0.0600
+Check term: 0
+cell_counter 2606.8000
+go_explore_return 0.2000
+test_cell_counter 2.0000
+test_go_explore_return 0.0600
+Check term: 0
+cell_counter 2604.6000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.0600
+Check term: 0
+cell_counter 2593.0000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.0800
+Check term: 0
+cell_counter 2585.2000
+go_explore_return 0.0000
+test_cell_counter 2.0000
+test_go_explore_return 0.0800
+Check term: 0

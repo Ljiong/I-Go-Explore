@@ -1,0 +1,23 @@
+# --- Go Explore specific parameters ---
+
+action_selector: "bernoulli"
+mask_before_softmax: True
+
+mac: "go_explore_mac"
+
+runner: "go_explore"
+
+buffer_size: 10
+batch_size_run: 10
+batch_size: 10
+
+lr: 0.0003
+
+obs_agent_id: True
+obs_last_action: False
+obs_individual_obs: False
+
+go_explore: True
+
+name: "goexplore"
+t_max: 20050000

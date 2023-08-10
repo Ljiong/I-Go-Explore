@@ -1,0 +1,4 @@
+CHECK input_shape: 142
+CHECK icm_agent action_shape: 5
+cuda:0
+cuda:0

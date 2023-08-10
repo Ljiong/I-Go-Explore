@@ -1,0 +1,117 @@
+{
+  "artifacts": [],
+  "command": "my_main",
+  "experiment": {
+    "base_dir": "e:\\study\\Thesis\\epymarl\\src",
+    "dependencies": [
+      "munch==2.5.0",
+      "numpy==1.21.5",
+      "sacred==0.8.2",
+      "torch==1.13.1"
+    ],
+    "mainfile": "main.py",
+    "name": "pymarl",
+    "repositories": [
+      {
+        "commit": "f355a55262ac9afecdb53368fec6337c549cc160",
+        "dirty": true,
+        "url": "https://github.com/uoe-agents/epymarl.git"
+      },
+      {
+        "commit": "f355a55262ac9afecdb53368fec6337c549cc160",
+        "dirty": true,
+        "url": "https://github.com/uoe-agents/epymarl.git"
+      },
+      {
+        "commit": "f355a55262ac9afecdb53368fec6337c549cc160",
+        "dirty": true,
+        "url": "https://github.com/uoe-agents/epymarl.git"
+      }
+    ],
+    "sources": [
+      [
+        "main.py",
+        "_sources\\main_c0fd19716be8b8a9a5c2f2dafee418aa.py"
+      ],
+      [
+        "run.py",
+        "_sources\\run_8bd8bbe679ca350e582071cd13e74566.py"
+      ],
+      [
+        "utils\\logging.py",
+        "_sources\\logging_aebfdbc14135ce7cadbfe1504e55b9b0.py"
+      ]
+    ]
+  },
+  "fail_trace": [
+    "Traceback (most recent call last):\n",
+    "  File \"E:\\Anaconda\\envs\\epymarl\\lib\\site-packages\\wrapt\\wrappers.py\", line 523, in __call__\n    args, kwargs)\n",
+    "  File \"E:\\Anaconda\\envs\\epymarl\\lib\\site-packages\\sacred\\config\\captured_function.py\", line 42, in captured_function\n    result = wrapped(*args, **kwargs)\n",
+    "  File \"e:/study/Thesis/epymarl/src/main.py\", line 40, in my_main\n    run(_run, config, _log)\n",
+    "  File \"e:\\study\\Thesis\\epymarl\\src\\run.py\", line 61, in run\n    run_sequential(args=args, logger=logger)\n",
+    "  File \"e:\\study\\Thesis\\epymarl\\src\\run.py\", line 236, in run_sequential\n    learner.train(episode_sample, reward_learner, runner.t_env, episode)\n",
+    "  File \"e:\\study\\Thesis\\epymarl\\src\\learners\\coma_learner.py\", line 69, in train\n    intrinsic_rewards = reward_learner.train(batch,t_env,episode_num)\n",
+    "  File \"e:\\study\\Thesis\\epymarl\\src\\learners\\icm_learner.py\", line 82, in train\n    = self.mac.forward(batch, states, next_states, actions)\n",
+    "  File \"e:\\study\\Thesis\\epymarl\\src\\controllers\\icm_controller.py\", line 26, in forward\n    real_next_state_feature, pred_next_state_feature, pred_action_logit = self.agent(state, next_state, action_long)\n",
+    "  File \"E:\\Anaconda\\envs\\epymarl\\lib\\site-packages\\torch\\nn\\modules\\module.py\", line 1194, in _call_impl\n    return forward_call(*input, **kwargs)\n",
+    "  File \"e:\\study\\Thesis\\epymarl\\src\\modules\\agents\\icm_agent.py\", line 97, in forward\n    ) + pred_next_state_feature_orig\n",
+    "torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 2.00 MiB (GPU 0; 2.00 GiB total capacity; 77.91 MiB already allocated; 1.12 GiB free; 92.00 MiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF\n"
+  ],
+  "heartbeat": "2023-05-17T19:20:48.004609",
+  "host": {
+    "ENV": {},
+    "cpu": "Unknown",
+    "gpus": {
+      "driver_version": "516.01",
+      "gpus": [
+        {
+          "model": "NVIDIA GeForce MX150",
+          "persistence_mode": false,
+          "total_memory": 2048
+        }
+      ]
+    },
+    "hostname": "Jiong",
+    "os": [
+      "Windows",
+      "Windows-10-10.0.22000-SP0"
+    ],
+    "python_version": "3.7.16"
+  },
+  "meta": {
+    "command": "my_main",
+    "options": {
+      "--beat-interval": null,
+      "--capture": null,
+      "--comment": null,
+      "--debug": false,
+      "--enforce_clean": false,
+      "--file_storage": null,
+      "--force": false,
+      "--help": false,
+      "--loglevel": null,
+      "--mongo_db": null,
+      "--name": null,
+      "--pdb": false,
+      "--print-config": false,
+      "--priority": null,
+      "--queue": false,
+      "--s3": null,
+      "--sql": null,
+      "--tiny_db": null,
+      "--unobserved": false,
+      "COMMAND": null,
+      "UPDATE": [
+        "env_args.time_limit=50",
+        "env_args.key=rware:rware-tiny-4ag-v1"
+      ],
+      "help": false,
+      "with": true
+    }
+  },
+  "resources": [],
+  "result": null,
+  "start_time": "2023-05-17T19:20:12.537766",
+  "status": "FAILED",
+  "stop_time": "2023-05-17T19:20:48.012617"
+}

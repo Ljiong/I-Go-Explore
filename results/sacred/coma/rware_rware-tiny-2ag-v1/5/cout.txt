@@ -1,0 +1,3 @@
+Check term: 0
+CHECK rewards shape: 10 25
+CHECK actions shape 10 26
